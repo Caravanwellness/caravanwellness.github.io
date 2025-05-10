@@ -4,7 +4,7 @@ Welcome to the Caravan Wellness Articles API!
 
 This API is designed for easy, read-only access to articles hosted by caravanwellness.com.  
 
-All endpoints are **GET-only** and return JSON. This API is available on [api.caravanwellness.com](https://api.caravanwellness.com).
+All endpoints are GET-only and return JSON. This API is available on [api.caravanwellness.com](https://api.caravanwellness.com).
 
 ---
 
