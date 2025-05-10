@@ -2,9 +2,15 @@
   "data": [
     {
       "id": "ff172e62a230360472111cced8db4a9b",
-      "name": "what-is-gut-microbiome-health.html",
+      "name": "What is Gut Microbiome Health",
       "language": "en",
-      "thumbnail": "assets/what-is-gut-microbiome-health.png"
+      "thumbnail": "assets/what-is-gut-microbiome-health.jpg"
+    },
+    {
+      "id": "c84f1e2d7b334a65be990d1c7f53289f",
+      "name": "A Guide to Cortisol Management and Effects",
+      "language": "en",
+      "thumbnail": "assets/a-guide-to-cortisol-management-and-effects.png"
     }
   ],
   "status": 200
