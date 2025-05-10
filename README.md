@@ -1,6 +1,6 @@
-# Caravan Wellness Articles API
+# Caravan Articles API
 
-Welcome to the Caravan Wellness Articles API!  
+Welcome to the Caravan Articles API!  
 
 This API is designed for easy, read-only access to articles hosted by caravanwellness.com.  
 
@@ -104,8 +104,6 @@ curl -k https://api.caravanwellness.com/accounts/39061852/articles/ff172e62a2303
 
 ## Support
 
-If you have questions or need help, please contact support@caravanwellness.com
+If you have questions or need help, please contact info@caravanwellness.com
 
 ---
-
-© 2025 Caravan Wellness
