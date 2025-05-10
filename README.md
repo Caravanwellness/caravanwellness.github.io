@@ -84,13 +84,13 @@ GET /accounts/{account_id}/articles/{article_id}.json
 **List all articles:**
 
 ```bash
-curl https://api.caravanwellness.com/accounts/39061852/articles.json
+curl -k https://api.caravanwellness.com/accounts/39061852/articles.json
 ```
 
 **Get a specific article:**
 
 ```bash
-curl https://api.caravanwellness.com/accounts/39061852/articles/ff172e62a230360472111cced8db4a9b.json
+curl -k https://api.caravanwellness.com/accounts/39061852/articles/ff172e62a230360472111cced8db4a9b.json
 ```
 
 ---
