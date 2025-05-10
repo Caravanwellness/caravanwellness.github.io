@@ -39,7 +39,7 @@ GET /accounts/{account_id}/articles.json
       "id": "ff172e62a230360472111cced8db4a9b",
       "name": "what-is-gut-microbiome-health.html",
       "language": "en",
-      "thumbnail": "assets/what-is-gut-microbiome-health.png"
+      "thumbnail": "assets/what-is-gut-microbiome-health.jpg"
     }
   ],
   "status": 200
@@ -69,7 +69,8 @@ GET /accounts/{account_id}/articles/{article_id}.json
       "description": "This is a test description",
       "language": "en",
       "thumbnail": "assets/what-is-gut-microbiome-health.png",
-      "body": "Example article text..."
+      "html": "Example article text..."
+      "content": "Example article text..."
     }
   ],
   "status": 200
