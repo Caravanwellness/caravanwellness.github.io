@@ -4,139 +4,208 @@
       "id": "9b56333806c364b6ece030511e5de538",
       "name": "How Alcohol Affects Your Sleep, Mood, and Productivity",
       "language": "en",
-      "thumbnail": "assets/How Alcohol Affects Your Sleep, Mood, and Productivity.png"
+      "thumbnail": "assets/How Alcohol Affects Your Sleep, Mood, and Productivity.png",
+      "translations": {
+        "es": "753c43c99755d500361df57cfb03c0ab"
+      }
     },
     {
       "id": "e4d4f36e02adca54ecb35faf400543cf",
       "name": "How Alcohol May Affect Anxiety",
       "language": "en",
-      "thumbnail": "assets/How Alcohol May Affect Anxiety.png"
+      "thumbnail": "assets/How Alcohol May Affect Anxiety.png",
+      "translations": {
+        "es": "6bb8af91b3a9aebd124875b73e828ac0"
+      }
     },
     {
       "id": "ed7b274eb9bf864a4a542bf4fe218afa",
       "name": "Understanding the Emotional Triggers Behind Drinking",
       "language": "en",
-      "thumbnail": "assets/Understanding the Emotional Triggers Behind Drinking.png"
+      "thumbnail": "assets/Understanding the Emotional Triggers Behind Drinking.png",
+      "translations": {
+        "es": "ca76197f558bf973dbb2144a94a2edfc"
+      }
     },
     {
       "id": "c7ca34629f77dc9df3cec9c774a808c7",
       "name": "Is Alcohol Disrupting Your Mental Clarity?",
       "language": "en",
-      "thumbnail": "assets/Is Alcohol Disrupting Your Mental Clarity.png"
+      "thumbnail": "assets/Is Alcohol Disrupting Your Mental Clarity.png",
+      "translations": {
+        "es": "bca43583adf973241901d20c4c3b4153"
+      }
     },
     {
       "id": "d94a704858a6b4e1367925d0aeca8b70",
       "name": "Creating Boundaries With Alcohol in Social Settings",
       "language": "en",
-      "thumbnail": "assets/Creating Boundaries with Alcohol in Social Settings.png"
+      "thumbnail": "assets/Creating Boundaries with Alcohol in Social Settings.png",
+      "translations": {
+        "es": "6be1461ef53e63f2c3432cdfc58ed4d0"
+      }
     },
     {
       "id": "c10a232cd0bed7af1b30a2685d438806",
       "name": "Alcohol-Free Living: Misconceptions vs. Reality",
       "language": "en",
-      "thumbnail": "assets/Alcohol-Free Living- Misconceptions vs. Reality.png"
+      "thumbnail": "assets/Alcohol-Free Living- Misconceptions vs. Reality.png",
+      "translations": {
+        "es": "f21ffffca0539adb089fa2595d0751e2"
+      }
     },
     {
       "id": "6c758b0f8af38b6ec4434a53d984cb27",
       "name": "Understanding the Different Types of Trauma",
       "language": "en",
-      "thumbnail": "assets/Understanding The Different Types of Trauma.png"
+      "thumbnail": "assets/Understanding The Different Types of Trauma.png",
+      "translations": {
+        "es": "f68f2c7dbbedd30f79c8e67cf2e244b6"
+      }
     },
     {
       "id": "46cc4619f1b4688df248917cf71ad6f1",
       "name": "How Childhood Trauma Shows Up in Adult Life",
       "language": "en",
-      "thumbnail": "assets/How Childhood Trauma Shows Up in Adult Life.png"
+      "thumbnail": "assets/How Childhood Trauma Shows Up in Adult Life.png",
+      "translations": {
+        "es": "9b6ca25ba4c3bf71de1489bb2c957a36"
+      }
     },
     {
       "id": "8b4fc44f8be223ecf599d77f2c305229",
       "name": "Tips for Supporting a Loved One Through Trauma",
       "language": "en",
-      "thumbnail": "assets/Tips for Supporting a Loved One Through Trauma.png"
+      "thumbnail": "assets/Tips for Supporting a Loved One Through Trauma.png",
+      "translations": {
+        "es": "963d1d1261dd699a5cb3a8b994bd087f"
+      }
     },
     {
       "id": "cab857e3d26f16443e25e8060d409b11",
       "name": "How to Build a Personal Coping Toolkit for Trauma Recovery",
       "language": "en",
-      "thumbnail": "assets/How to Build a Personal Coping Toolkit for Trauma Recovery.png"
+      "thumbnail": "assets/How to Build a Personal Coping Toolkit for Trauma Recovery.png",
+      "translations": {
+        "es": "d37bfcb10e176716f85856a4b685b449"
+      }
     },
     {
       "id": "bb93286f973e91be6b1c6b58ba02aee2",
       "name": "Health Screening Myths",
       "language": "en",
-      "thumbnail": "assets/Health Screening Myths.png"
+      "thumbnail": "assets/Health Screening Myths.png",
+      "translations": {
+        "es": "ed83acc428ddf268930459a35ccdce77"
+      }
     },
     {
       "id": "01eb038d5a6ada55db0c609ac35c2f0e",
       "name": "How to Prepare for a Cardiac Screening",
       "language": "en",
-      "thumbnail": "assets/How to Prepare for a Cardiac Screening.png"
+      "thumbnail": "assets/How to Prepare for a Cardiac Screening.png",
+      "translations": {
+        "es": "27fcc0becad65a069b4457ff1998087a"
+      }
     },
     {
       "id": "cfcb75d5106748e220c6342b86105a31",
       "name": "Minimizing Exposure to Pollen at Home",
       "language": "en",
-      "thumbnail": "assets/Minimizing Exposure to Pollen at Home.png"
+      "thumbnail": "assets/Minimizing Exposure to Pollen at Home.png",
+      "translations": {
+        "es": "56b1b7368b80e805c76d0484da150a5d"
+      }
     },
     {
       "id": "c719dc5a91a77c6c876dc392be5a4327",
       "name": "How the Immune System Reacts to Pollen",
       "language": "en",
-      "thumbnail": "assets/How the Immune System Reacts to Pollen.png"
+      "thumbnail": "assets/How the Immune System Reacts to Pollen.png",
+      "translations": {
+        "es": "e1195658dac53c4f70d0a377449ff772"
+      }
     },
     {
       "id": "cc8e0d506b176cbbf2505acdc9f22a45",
       "name": "Creating an Allergy-Safe Home for Those With Severe Allergies",
       "language": "en",
-      "thumbnail": "assets/Creating an Allergy-Safe Home For Those With Severe Allergies.png"
+      "thumbnail": "assets/Creating an Allergy-Safe Home For Those With Severe Allergies.png",
+      "translations": {
+        "es": "02c3689bc9e006291eafacb37857b541"
+      }
     },
     {
       "id": "b8a3dd2cf68356747ffba20cac008fdc",
       "name": "Tips for Supporting a Loved One With Anxiety",
       "language": "en",
-      "thumbnail": "assets/Tips for Supporting a Loved One With Anxiety.png"
+      "thumbnail": "assets/Tips for Supporting a Loved One With Anxiety.png",
+      "translations": {
+        "es": "3f6176b8fc314de410fc3cc65300d4d8"
+      }
     },
     {
       "id": "b1bc7dce53a6fc7bd755e9dd0d7431fa",
       "name": "Recognizing Anxiety Before It Escalates",
       "language": "en",
-      "thumbnail": "assets/Recognizing Anxiety Before It Escalates.png"
+      "thumbnail": "assets/Recognizing Anxiety Before It Escalates.png",
+      "translations": {
+        "es": "483c93ee21e5b8c5934ea01a2de3cc9f"
+      }
     },
     {
       "id": "949dd21ced81421b97e6b0f87f4160fa",
       "name": "Debunking Common Anxiety Myths With Facts",
       "language": "en",
-      "thumbnail": "assets/Debunking Common Anxiety Myths with Facts.png"
+      "thumbnail": "assets/Debunking Common Anxiety Myths with Facts.png",
+      "translations": {
+        "es": "a36b2a21d149aa891a2ed79fecb9bec2"
+      }
     },
     {
       "id": "c9d1262221b4e18831d276e41658c37f",
       "name": "Considerations for Supporting a Loved One With PTSD",
       "language": "en",
-      "thumbnail": "assets/Considerations for Supporting a Loved One With PTSD.png"
+      "thumbnail": "assets/Considerations for Supporting a Loved One With PTSD.png",
+      "translations": {
+        "es": "377280b3e92e5e3abe97f820b9186dd6"
+      }
     },
     {
       "id": "1d4e94eb1aa8afdc0b30e304a42e4d2b",
       "name": "Common Misconceptions About Suicide",
       "language": "en",
-      "thumbnail": "assets/Common Misconceptions About Suicide.png"
+      "thumbnail": "assets/Common Misconceptions About Suicide.png",
+      "translations": {
+        "es": "2924d7c5829487e365699cf03aa33da5"
+      }
     },
     {
       "id": "412472fe822481f832f9120b0c9aebda",
       "name": "Understanding the Apnea-Hypopnea Index",
       "language": "en",
-      "thumbnail": "assets/Understanding the Apnea-Hypopnea Index.png"
+      "thumbnail": "assets/Understanding the Apnea-Hypopnea Index.png",
+      "translations": {
+        "es": "5eae0d7debf0cf3da216763e3847c124"
+      }
     },
     {
       "id": "e7a3b9c8f4d14299a5cb7c9e2341b820",
       "name": "What Is Life Satisfaction and Why It Matters",
       "language": "en",
-      "thumbnail": "assets/What Is Life Satisfaction and Why It Matters.png"
+      "thumbnail": "assets/What Is Life Satisfaction and Why It Matters.png",
+      "translations": {
+        "es": "7bffa64afb27afc77c375a4d31a598ac"
+      }
     },
     {
       "id": "a13fd77f916f4bc394f6d3c07e2783e2",
       "name": "Everything You Need to Know About Lower Body Workouts",
       "language": "en",
-      "thumbnail": "assets/Everything You Need to Know About Lower Body Workouts.png"
+      "thumbnail": "assets/Everything You Need to Know About Lower Body Workouts.png",
+      "translations": {
+        "es": "f02d2d32ebf3cddd1354058ee689e38b"
+      }
     },
     {
       "id": "f4c8a6a2a0b44f54ab7f9a2a67c4aefd",
@@ -421,7 +490,10 @@
       "id": "673929df5b9545b1ac8a82b991bcec41",
       "name": "How Omega-3 Fatty Acids Impact Heart Health",
       "language": "en",
-      "thumbnail": "assets/How Omega-3 Fatty Acids Impact Heart Health.png"
+      "thumbnail": "assets/How Omega-3 Fatty Acids Impact Heart Health.png",
+      "translations": {
+        "es": "6d5cf1d555f6ef92d1d38e711695e324"
+      }
     },
     {
       "id": "de5a447ea6d84f62ae2555fc6fc719d0",
@@ -463,7 +535,10 @@
       "id": "94b2f2b811cb47dd9c7f75aa1275c5c5",
       "name": "How Stress Can Affect Your Heart Physiology and Heart Health",
       "language": "en",
-      "thumbnail": "assets/How Stress Affects Your Heart.png"
+      "thumbnail": "assets/How Stress Affects Your Heart.png",
+      "translations": {
+        "es": "dc53eaa1d134a4a43374b9a59ea9d2a3"
+      }
     },
     {
       "id": "7e68a138596848dca89f9c6acf5eba00",
@@ -550,7 +625,10 @@
       "id": "de1a5cf482f941a0aa3e1a697a96b3c5  ",
       "name": "Understanding Different Communication Styles",
       "language": "en",
-      "thumbnail": "assets/Understanding Different Communication Styles.png"
+      "thumbnail": "assets/Understanding Different Communication Styles.png",
+      "translations": {
+        "es": "9929565057a437edae0aa6a0e72c9cac"
+      }
     },
     {
       "id": "a93fbd78e79e4b21bfa3d8b9ad4fb624  ",
@@ -799,7 +877,10 @@
       "id": "fc2b7adccd1b4caff49ee25854e1bfd9",
       "name": "How Smoking & Vaping Affect Oral Health",
       "language": "en",
-      "thumbnail": "assets/How Smoking & Vaping Affect Oral Health.png"
+      "thumbnail": "assets/How Smoking & Vaping Affect Oral Health.png",
+      "translations": {
+        "es": "a7d941d036e013098e861f65a93c4c23"
+      }
     },
     {
       "id": "bd35add475d113c8995d9778be5d6cfa",
@@ -841,7 +922,10 @@
       "id": "f9271203a3d38a26fb6bee0c34a1c24c",
       "name": "The Effects of Second-Hand Smoke on Others",
       "language": "en",
-      "thumbnail": "assets/The Effects Of Second-Hand Smoke On Others.png"
+      "thumbnail": "assets/The Effects Of Second-Hand Smoke On Others.png",
+      "translations": {
+        "es": "9929eaac991a3a48aa3a6d57ed555058"
+      }
     },
     {
       "id": "a70dcfef27b5ae66da381a525c674deb",
@@ -1108,7 +1192,10 @@
       "id": "c9d6fd1da3f6670519af479f7a815ce4",
       "name": "Gentle Parenting for Harmonious Parent-Child Relationships",
       "language": "en",
-      "thumbnail": "assets/Gentle Parenting for Harmonious Parent-Child Relationships.png"
+      "thumbnail": "assets/Gentle Parenting for Harmonious Parent-Child Relationships.png",
+      "translations": {
+        "es": "1c82b79b8162728f551fbe8b58ef3faa"
+      }
     },
     {
       "id": "88592a97bdba5fc2358b4df00a6c7174",
@@ -1465,7 +1552,10 @@
       "id": "c64a46f556a4da0d4bb9ee11bc6f3586",
       "name": "What Your Activity Level Says About Your Health",
       "language": "en",
-      "thumbnail": "assets/What Your Activity Level Says About Your Health.png"
+      "thumbnail": "assets/What Your Activity Level Says About Your Health.png",
+      "translations": {
+        "es": "caadaac77ce744c8199415850ecb1bc6"
+      }
     },
     {
       "id": "18c6f0259d21ecd8aafe7a222f8594cc",
@@ -1570,7 +1660,10 @@
       "id": "d8c956a7834659d1c8242ba5720d32da",
       "name": "How a Strong Core Supports Everyday Movement",
       "language": "en",
-      "thumbnail": "assets/How a Strong Core Supports Everyday Movement.png"
+      "thumbnail": "assets/How a Strong Core Supports Everyday Movement.png",
+      "translations": {
+        "es": "75504ba48608cc890609724c14a79ae7"
+      }
     },
     {
       "id": "bd371017177dca641354819a32305fe5",
@@ -1585,19 +1678,28 @@
       "id": "f8de9a285cc7390d52cfae13eece1eae",
       "name": "What Is BMI and Why It Matters",
       "language": "en",
-      "thumbnail": "assets/What Is BMI and Why It Matters.png"
+      "thumbnail": "assets/What Is BMI and Why It Matters.png",
+      "translations": {
+        "es": "d8b20bb20050fa44f8e516cffd35552a"
+      }
     },
     {
       "id": "16aed88c4ff2798221e7a11655280275",
       "name": "Is Your BMI in the Healthy Range?",
       "language": "en",
-      "thumbnail": "assets/Is Your BMI in the Healthy Range.png"
+      "thumbnail": "assets/Is Your BMI in the Healthy Range.png",
+      "translations": {
+        "es": "44f22996bbba7f01ea38e7666bb43602"
+      }
     },
     {
       "id": "96080f2e03ca62381c4ca282d9cb3601",
       "name": "Why Body Composition Might Matter More Than BMI Alone",
       "language": "en",
-      "thumbnail": "assets/Why Body Composition Might Matter More Than BMI Alone.png"
+      "thumbnail": "assets/Why Body Composition Might Matter More Than BMI Alone.png",
+      "translations": {
+        "es": "f42aae0c66e96f82868a1654a5635511"
+      }
     },
     {
       "id": "2d77dab65184b61539f441cf2dcc3acb",
@@ -1612,43 +1714,64 @@
       "id": "e9b4b55c4a2f5011097987f457a799b3",
       "name": "Understanding Medication Side Effects- What’s Normal, What’s Not",
       "language": "en",
-      "thumbnail": "assets/Understanding Medication Side Effects- What’s Normal, What’s Not.png"
+      "thumbnail": "assets/Understanding Medication Side Effects- What’s Normal, What’s Not.png",
+      "translations": {
+        "es": "51ce7754306fc572ecefaf645a4a8f32"
+      }
     },
     {
       "id": "2b7bc7265cec0a74b338b90e0dc53c3c",
       "name": "Why Taking Medications As Prescribed Matters",
       "language": "en",
-      "thumbnail": "assets/Why Taking Medications as Prescribed Matters.png"
+      "thumbnail": "assets/Why Taking Medications as Prescribed Matters.png",
+      "translations": {
+        "es": "8ce499066f46ef681e06bf0896274334"
+      }
     },
     {
       "id": "57d27148778a38e1254913fddc40e16f",
       "name": "What to Check First With Mixing Medications",
       "language": "en",
-      "thumbnail": "assets/What to Check First with Mixing Medications.png"
+      "thumbnail": "assets/What to Check First with Mixing Medications.png",
+      "translations": {
+        "es": "44664cfbd4fed3cfc6f517cf7ba0a0b9"
+      }
     },
     {
       "id": "5a77726038e935d62b6560db1f410e91",
       "name": "How to Talk to Your Doctor About Medication Concerns",
       "language": "en",
-      "thumbnail": "assets/How to Talk to Your Doctor About Medication Concerns.png"
+      "thumbnail": "assets/How to Talk to Your Doctor About Medication Concerns.png",
+      "translations": {
+        "es": "00ecb8baf86d62c95aac85ee803dddde"
+      }
     },
     {
       "id": "34ffb728c05d4b19a7b667b347988d5d",
       "name": "Smart Medication Habits",
       "language": "en",
-      "thumbnail": "assets/Smart Medication Habits.png"
+      "thumbnail": "assets/Smart Medication Habits.png",
+      "translations": {
+        "es": "8e03d9a04cde891dee7efbf28f5e9867"
+      }
     },
     {
       "id": "7bccb62796dd6b1dc6d2c0c1d5f8fe75",
       "name": "Make Seat Belt Use a Non-negotiable Habit",
       "language": "en",
-      "thumbnail": "assets/Make Seat Belt Use a Non-Negotiable Habit.png"
+      "thumbnail": "assets/Make Seat Belt Use a Non-Negotiable Habit.png",
+      "translations": {
+        "es": "5ea3f9fb484ddb56d6a6e858bcb1139b"
+      }
     },
     {
       "id": "08c6849c4ef653355df207f9ab506126",
       "name": "Why Your Choice of Buckle Up Affects Everyone in the Car",
       "language": "en",
-      "thumbnail": "assets/Why Your Choice of Buckle Up Affects Everyone in the Car.png"
+      "thumbnail": "assets/Why Your Choice of Buckle Up Affects Everyone in the Car.png",
+      "translations": {
+        "es": "4701e37455d93d18bc957cb36f330282"
+      }
     },
     {
       "id": "1ffbac8c3787a5984163bf29bea471b2",
@@ -1690,169 +1813,253 @@
       "id": "c82878dcfcac083907807ac3d2df9aa8",
       "name": "Creating Healthy Screen Time Habits That Actually Stick",
       "language": "en",
-      "thumbnail": "assets/Creating Healthy Screen Time Habits That Actually Stick.png"
+      "thumbnail": "assets/Creating Healthy Screen Time Habits That Actually Stick.png",
+      "translations": {
+        "es": "655318f4c2dee5e2802517b054b06746"
+      }
     },
     {
       "id": "35ccac13b55fbbb6f7731bbce94c2d4b",
       "name": "The Dopamine Loop: Why It’s Hard to Put Your Phone Down",
       "language": "en",
-      "thumbnail": "assets/The Dopamine Loop- Why It’s Hard to Put Your Phone Down.png"
+      "thumbnail": "assets/The Dopamine Loop- Why It’s Hard to Put Your Phone Down.png",
+      "translations": {
+        "es": "036bffd7edf578b920db1ea90a44764d"
+      }
     },
     {
       "id": "e4dc8332326cee0dd9557fb09e031b62",
       "name": "Forest Bathing: What It Is and How to Try It",
       "language": "en",
-      "thumbnail": "assets/Forest Bathing- What It Is and How to Try It.png"
+      "thumbnail": "assets/Forest Bathing- What It Is and How to Try It.png",
+      "translations": {
+        "es": "0bc7440274bc419a48a3f4e9e4a42f57"
+      }
     },
     {
       "id": "846255e157fa3b30a1bba9eee536ab6a",
       "name": "How to Make Nature Part of Your Daily Routine",
       "language": "en",
-      "thumbnail": "assets/How to Make Nature Part of Your Daily Routine.png"
+      "thumbnail": "assets/How to Make Nature Part of Your Daily Routine.png",
+      "translations": {
+        "es": "de1308633492b2ac7450b7b4dacf1b22"
+      }
     },
     {
       "id": "e2a30de6fdce41291ab78a2e122739cc",
       "name": "How Nature Reduces Stress and Anxiety",
       "language": "en",
-      "thumbnail": "assets/How Nature Reduces Stress and Anxiety.png"
+      "thumbnail": "assets/How Nature Reduces Stress and Anxiety.png",
+      "translations": {
+        "es": "17169a018d5e7ea1d1c7588c54022762"
+      }
     },
     {
       "id": "c3164177d8b85f630b0025e155826549",
       "name": "What to Do If You Fall",
       "language": "en",
-      "thumbnail": "assets/What to Do If You Fall.png"
+      "thumbnail": "assets/What to Do If You Fall.png",
+      "translations": {
+        "es": "58e89c451fb89b9889768057fc825d53"
+      }
     },
     {
       "id": "e116d524a57e9d25d28ec40787646151",
       "name": "How to Use a Cane or Walker Safely",
       "language": "en",
-      "thumbnail": "assets/How to Use a Cane or Walker Safely.png"
+      "thumbnail": "assets/How to Use a Cane or Walker Safely.png",
+      "translations": {
+        "es": "e6048a22317d507afc91473d796f3bf4"
+      }
     },
     {
       "id": "b385290ad179a8b8bc2a99d79e64a998",
       "name": "How to Talk to Your Doctor About Fall Concerns",
       "language": "en",
-      "thumbnail": "assets/How to Talk to Your Doctor About Fall Concerns.jpg"
+      "thumbnail": "assets/How to Talk to Your Doctor About Fall Concerns.jpg",
+      "translations": {
+        "es": "15a372d4d46f4fa8c5e1ad3ddea9a615"
+      }
     },
     {
       "id": "f2d6cc61e24adc8755e076a6a1f6c420",
       "name": "How to Fall-Proof Your Bathroom, Bedroom, and Kitchen",
       "language": "en",
-      "thumbnail": "assets/How to Fall-Proof Your Bathroom, Bedroom, and Kitchen.png"
+      "thumbnail": "assets/How to Fall-Proof Your Bathroom, Bedroom, and Kitchen.png",
+      "translations": {
+        "es": "7c024e6b5a4b9ee04c183c04259c4f4c"
+      }
     },
     {
       "id": "783b1bdb09cef9b97e8de4abf8674e82",
       "name": "How Vision and Hearing Affect Fall Risk",
       "language": "en",
-      "thumbnail": "assets/How Vision and Hearing Affect Fall Risk.png"
+      "thumbnail": "assets/How Vision and Hearing Affect Fall Risk.png",
+      "translations": {
+        "es": "4ea229a9234c7b4c98c87bdf20a651cf"
+      }
     },
     {
       "id": "f791e9bed11287812aa77ede2080bd19",
       "name": "Why Falls Happen at Home",
       "language": "en",
-      "thumbnail": "assets/Why Falls Happen at Home.png"
+      "thumbnail": "assets/Why Falls Happen at Home.png",
+      "translations": {
+        "es": "446123a15fd3531bfbfebd45ca77d29f"
+      }
     },
     {
       "id": "fa2dc453df132a7dd7d620678a90fd53",
       "name": "The Link Between Balance, Strength, and Fall Prevention",
       "language": "en",
-      "thumbnail": "assets/The Link Between Balance, Strength, and Fall Prevention.png"
+      "thumbnail": "assets/The Link Between Balance, Strength, and Fall Prevention.png",
+      "translations": {
+        "es": "835e4cfdec5ce9ac7fb063fcde133f61"
+      }
     },
     {
       "id": "89424e17f5cf20ff6bda9d1c4b582f26",
       "name": "Understanding the Causes of Falls",
       "language": "en",
-      "thumbnail": "assets/Understanding the Causes of Falls.png"
+      "thumbnail": "assets/Understanding the Causes of Falls.png",
+      "translations": {
+        "es": "fa7a7988a85e43b3f2c5393dd9a6f0ff"
+      }
     },
     {
       "id": "1b52f755f5c26a3238b60a3c8563fd88",
       "name": "How Missed Medication Doses Can Impact Chronic Conditions",
       "language": "en",
-      "thumbnail": "assets/How Missed Medication Doses Can Impact Chronic Conditions.png"
+      "thumbnail": "assets/How Missed Medication Doses Can Impact Chronic Conditions.png",
+      "translations": {
+        "es": "6ccf3b71fba2d68d00faed7d763ffd6b"
+      }
     },
     {
       "id": "b96da0782e35a1fcf7f51cb89f9f9cc9",
       "name": "Salt, Stress, Sleep, and Blood Pressure",
       "language": "en",
-      "thumbnail": "assets/Salt, Stress, Sleep, and Blood Pressure.png"
+      "thumbnail": "assets/Salt, Stress, Sleep, and Blood Pressure.png",
+      "translations": {
+        "es": "da278a20f5e1a37e4633a754de83b803"
+      }
     },
     {
       "id": "ce0097955ddb132668e9cb8e52008329",
       "name": "What Does Low Blood Pressure Mean?",
       "language": "en",
-      "thumbnail": "assets/What Does Low Blood Pressure Mean.png"
+      "thumbnail": "assets/What Does Low Blood Pressure Mean.png",
+      "translations": {
+        "es": "d4f0e8ef7a0b63bf5599f54fdfc5a973"
+      }
     },
     {
       "id": "fe0634210a85ab2b656c8d305610580c",
       "name": "The Impact of High Blood Pressure on the Heart, Brain, and Kidneys",
       "language": "en",
-      "thumbnail": "assets/The Impact of High Blood Pressure on the Heart, Brain, and Kidneys.png"
+      "thumbnail": "assets/The Impact of High Blood Pressure on the Heart, Brain, and Kidneys.png",
+      "translations": {
+        "es": "b08439fa5dcf2c53203b96898570b56e"
+      }
     },
     {
       "id": "4bb043b44d68b30e7199a532aaedb52d",
       "name": "What Your Cholesterol Numbers Really Mean",
       "language": "en",
-      "thumbnail": "assets/What Your Cholesterol Numbers Really Mean.png"
+      "thumbnail": "assets/What Your Cholesterol Numbers Really Mean.png",
+      "translations": {
+        "es": "a233a8edde3543339a4479ff826043ee"
+      }
     },
     {
       "id": "6988c5ab608528b67762cc41cd53fcf5",
       "name": "Cholesterol, Heart Attacks, and Strokes",
       "language": "en",
-      "thumbnail": "assets/Cholesterol, Heart Attacks, and Strokes.png"
+      "thumbnail": "assets/Cholesterol, Heart Attacks, and Strokes.png",
+      "translations": {
+        "es": "d0a62f8fb269d4946c8a11856ff987a7"
+      }
     },
     {
       "id": "b6a4a60e47f6e601e8eea1b16cdc21cd",
       "name": "How Cholesterol Affects Your Arteries, Brain, and Beyond",
       "language": "en",
-      "thumbnail": "assets/How Cholesterol Affects Your Arteries, Brain, and Beyond.png"
+      "thumbnail": "assets/How Cholesterol Affects Your Arteries, Brain, and Beyond.png",
+      "translations": {
+        "es": "fff41653c62eed98bbfd3ef7ee915cb3"
+      }
     },
     {
       "id": "70bd3b79624c9f6c6559296d6308e6db",
       "name": "Supporting Your Children's Mental Wellbeing in the Digital World",
       "language": "en",
-      "thumbnail": "assets/Supporting Your Children's Mental Wellbeing In The Digital World.png"
+      "thumbnail": "assets/Supporting Your Children's Mental Wellbeing In The Digital World.png",
+      "translations": {
+        "es": "05d5e865a6746d90debd35dd11a84511"
+      }
     },
     {
       "id": "75ff50baf22d4583b3501270309d4baa",
       "name": "When to Begin Routine Breast Cancer Screenings",
       "language": "en",
-      "thumbnail": "assets/When To Begin Routine Breast Cancer Screenings.png"
+      "thumbnail": "assets/When To Begin Routine Breast Cancer Screenings.png",
+      "translations": {
+        "es": "d1a5a89e7af91bca955adf0bddf59518"
+      }
     },
     {
       "id": "4a339c486d2cbcf3325d9b7d513c14fb",
       "name": "Breast Cancer in Women at Various Life Stages",
       "language": "en",
-      "thumbnail": "assets/Breast Cancer in Women at Various Life Stages.png"
+      "thumbnail": "assets/Breast Cancer in Women at Various Life Stages.png",
+      "translations": {
+        "es": "f61379c3d9171eb867234fc398723780"
+      }
     },
     {
       "id": "a0401a474e06ed0b1d4ee0d19bdbf657",
       "name": "What Is the UV Index?",
       "language": "en",
-      "thumbnail": "assets/What is the UV Index.png"
+      "thumbnail": "assets/What is the UV Index.png",
+      "translations": {
+        "es": "d0d4b5c7dd562971d8689fff353e9c4e"
+      }
     },
     {
       "id": "45fca734a265ae5ac9a4690303b5d421",
       "name": "Men’s Health Checklist at Various Life Stages",
       "language": "en",
-      "thumbnail": "assets/Men’s Health Checklist at Various Life Stages.png"
+      "thumbnail": "assets/Men’s Health Checklist at Various Life Stages.png",
+      "translations": {
+        "es": "53e31e20b27736fd56b679ef4608efca"
+      }
     },
     {
       "id": "0f1b9e7e565fd41104033d993fb9cb2a",
       "name": "Myth vs. Facts of Concussions",
       "language": "en",
-      "thumbnail": "assets/Myth vs Facts of Concussions.png"
+      "thumbnail": "assets/Myth vs Facts of Concussions.png",
+      "translations": {
+        "es": "8172a3a7d21f7c77fd90f003eaf39d75"
+      }
     },
     {
       "id": "309626398da2496ac3ff3a98fa62a05e",
       "name": "Pelvic Floor Education & Basic Anatomy",
       "language": "en",
-      "thumbnail": "assets/Pelvic Floor Education & Basic Anatomy.png"
+      "thumbnail": "assets/Pelvic Floor Education & Basic Anatomy.png",
+      "translations": {
+        "es": "678389945c0c25da1edea9dab5116f4b"
+      }
     },
     {
       "id": "629a8f8d9a16d50905c3db8a8bff8391",
       "name": "Recommended Health Screenings for Seniors",
       "language": "en",
-      "thumbnail": "assets/Recommended Health Screenings For Seniors.png"
+      "thumbnail": "assets/Recommended Health Screenings For Seniors.png",
+      "translations": {
+        "es": "3de067bf98887888532148e7e55d131e"
+      }
     },
     {
       "id": "b8d9cab863f428e69dd7af1e9cb0d029",
@@ -1864,223 +2071,334 @@
       "id": "afac99165828d22095272b8c30ab40ae",
       "name": "How to Identify a Migraine vs. a Headache",
       "language": "en",
-      "thumbnail": "assets/How to Identify a Migraine vs. a Headache.png"
+      "thumbnail": "assets/How to Identify a Migraine vs. a Headache.png",
+      "translations": {
+        "es": "bc78ea6147f59d1991034f479463e223"
+      }
     },
     {
       "id": "7ddb3b6e0c7b5948cfc79a138275119b",
       "name": "Fundamentals and Tips for Tracking Ovulation",
       "language": "en",
-      "thumbnail": "assets/Fundamentals and Tips for Tracking Ovulation.png"
+      "thumbnail": "assets/Fundamentals and Tips for Tracking Ovulation.png",
+      "translations": {
+        "es": "b8d71f64b980c7fd92d325db3ca9f2bc"
+      }
     },
     {
       "id": "9fc8ac7b6be48324cfae6d4f64af3634",
       "name": "Teaching Children About Giving",
       "language": "en",
-      "thumbnail": "assets/Teaching Children About Giving.png"
+      "thumbnail": "assets/Teaching Children About Giving.png",
+      "translations": {
+        "es": "554f3cca66411a2a4cc37a2460bc178c"
+      }
     },
     {
       "id": "11a95625bb855d72f42fbcaa7500bfe3",
       "name": "Thoughtful Ways to Say “Thank You”",
       "language": "en",
-      "thumbnail": "assets/Thoughtful Ways To Say “Thank You”.png"
+      "thumbnail": "assets/Thoughtful Ways To Say “Thank You”.png",
+      "translations": {
+        "es": "0d720825805f1bf627d15ad433de206f"
+      }
     },
     {
       "id": "2caf362a569f6ae434f42ded6103a508",
       "name": "The 30 Small Acts of Kindness Challenge",
       "language": "en",
-      "thumbnail": "assets/The 30 Small Acts of Kindness Challenge.png"
+      "thumbnail": "assets/The 30 Small Acts of Kindness Challenge.png",
+      "translations": {
+        "es": "93f367e2bec8d6c63325446fcceb46d3"
+      }
     },
     {
       "id": "1c34a6f9a1161fc0d524df43f4885e10",
       "name": "Hormonal vs. Nonhormonal Birth Control",
       "language": "en",
-      "thumbnail": "assets/Hormonal vs. Nonhormonal Birth Control.png"
+      "thumbnail": "assets/Hormonal vs. Nonhormonal Birth Control.png",
+      "translations": {
+        "es": "d804950887f6862c141282b91cf1f161"
+      }
     },
     {
       "id": "c734a883bfbee7044d1c43b288b79421",
       "name": "Emotional Realities of Child Labor",
       "language": "en",
-      "thumbnail": "assets/Emotional Realities of Child Labor.png"
+      "thumbnail": "assets/Emotional Realities of Child Labor.png",
+      "translations": {
+        "es": "47fe850b0d821eaa5228d882f67001fc"
+      }
     },
     {
       "id": "10c0f1b1db8c89cb5decfccae77b8663",
       "name": "What to Ask at a Physical Therapist on Your First Visit",
       "language": "en",
-      "thumbnail": "assets/What To Ask at a Physical Therapist on Your First Visit.png"
+      "thumbnail": "assets/What To Ask at a Physical Therapist on Your First Visit.png",
+      "translations": {
+        "es": "16be830d53f67fad077d44104b579611"
+      }
     },
     {
       "id": "ceb7efc928f2bce9b240f378b0da627e",
       "name": "Why Do My Muscles Feel Stiff?",
       "language": "en",
-      "thumbnail": "assets/Why Do My Muscles Feel Stiff.png"
+      "thumbnail": "assets/Why Do My Muscles Feel Stiff.png",
+      "translations": {
+        "es": "56b0c4facdcf6e6e724b7ca851f2878d"
+      }
     },
     {
       "id": "9fecf0494fbd8336ee1bd25a90bcbf49",
       "name": "What Muscles Are Worked When Doing Squats and How It Helps",
       "language": "en",
-      "thumbnail": "assets/What Muscles Are Worked When Doing Squats and How It Helps.png"
+      "thumbnail": "assets/What Muscles Are Worked When Doing Squats and How It Helps.png",
+      "translations": {
+        "es": "7d74211b2686c5cdcbad34337a171c08"
+      }
     },
     {
       "id": "0e238992f1561707f6d1a4c7dcb64a06",
       "name": "How Daily Stress Affects Your Upper Body",
       "language": "en",
-      "thumbnail": "assets/How Daily Stress Affects Your Upper Body.png"
+      "thumbnail": "assets/How Daily Stress Affects Your Upper Body.png",
+      "translations": {
+        "es": "7cb1183ec7406a5b6b7d6a4283c47fcf"
+      }
     },
     {
       "id": "8b55d5863ff977144415373aed77fdc1",
       "name": "Why Strengthening Your Back May Relieve Back Pain",
       "language": "en",
-      "thumbnail": "assets/Why Strengthening Your Back May Relieve Back Pain.png"
+      "thumbnail": "assets/Why Strengthening Your Back May Relieve Back Pain.png",
+      "translations": {
+        "es": "3967625c402aa5d54d46915788a513f7"
+      }
     },
     {
       "id": "96646ef90d96cbc0e529c79d6c266bd5",
       "name": "Why Tight Hips Can Cause Low Back Pain",
       "language": "en",
-      "thumbnail": "assets/Why Tight Hips Can Cause Low Back Pain.png"
+      "thumbnail": "assets/Why Tight Hips Can Cause Low Back Pain.png",
+      "translations": {
+        "es": "ce80bbee64ae3e34ed4fbd0ed01bc5d6"
+      }
     },
     {
       "id": "f43cf855ddf50e05a0360c928ab6e7a9",
       "name": "What Is the Mind-Body Connection and How to Maximize It",
       "language": "en",
-      "thumbnail": "assets/What Is the Mind-Body Connection and How to Maximize It.png"
+      "thumbnail": "assets/What Is the Mind-Body Connection and How to Maximize It.png",
+      "translations": {
+        "es": "06f260e87460c61df704afdfca449b8b"
+      }
     },
     {
       "id": "ef6a6ddc3c6736ef9c86222eeb5d0ef0",
       "name": "Eye Care for Seniors",
       "language": "en",
-      "thumbnail": "assets/Eye Care For Seniors .png"
+      "thumbnail": "assets/Eye Care For Seniors .png",
+      "translations": {
+        "es": "43a881732e2dc6549f35c5365dcc5508"
+      }
     },
     {
       "id": "c545e4bab5cdf1d0a0cd0c752df7ce9e",
       "name": "Eye Care for Kids",
       "language": "en",
-      "thumbnail": "assets/Eye Care For Kids.png"
+      "thumbnail": "assets/Eye Care For Kids.png",
+      "translations": {
+        "es": "72a19fde34de051a56d7a9dcaa13d5b6"
+      }
     },
     {
       "id": "beba1d37af554b44501ae7994fcef9d3",
       "name": "Tracking Sleep Habits With Wearable Technology",
       "language": "en",
-      "thumbnail": "assets/Tracking Sleep Habits With Wearable Technology.png"
+      "thumbnail": "assets/Tracking Sleep Habits With Wearable Technology.png",
+      "translations": {
+        "es": "ffe29b63657ae1ec9ae3a2acc551ddf5"
+      }
     },
     {
       "id": "ec6fec68f0171ff2da3a73a9fe1c1d0c",
       "name": "Wearable Devices for Monitoring Cardiac Health",
       "language": "en",
-      "thumbnail": "assets/Wearable Devices for Monitoring Cardiac Health.png"
+      "thumbnail": "assets/Wearable Devices for Monitoring Cardiac Health.png",
+      "translations": {
+        "es": "6e8f906ac74396e6a980a9cf30929f7b"
+      }
     },
     {
       "id": "0797498a859855d054f4c55c637a8129",
       "name": "Wearable Devices for Tracking Respirations and Pulse Oximetry",
       "language": "en",
-      "thumbnail": "assets/Wearable Devices for Tracking Respirations and Pulse Oximetry.png"
+      "thumbnail": "assets/Wearable Devices for Tracking Respirations and Pulse Oximetry.png",
+      "translations": {
+        "es": "d2aaf00d41dd21eb870d424bae7d0978"
+      }
     },
     {
       "id": "55ebeed024d8eeb4e09da5a1c7771e18",
       "name": "Hydration & Fluid Intake for Optimal Performance",
       "language": "en",
-      "thumbnail": "assets/Hydration & Fluid Intake For Optimal Performance.png"
+      "thumbnail": "assets/Hydration & Fluid Intake For Optimal Performance.png",
+      "translations": {
+        "es": "a27c12e241aa102e9d5ceb6699f82c42"
+      }
     },
     {
       "id": "d63ba5d7b42e534fdfc132c4ea505960",
       "name": "Midday Affirmations for Wellbeing",
       "language": "en",
-      "thumbnail": "assets/Midday Affirmations For Wellbeing.png"
+      "thumbnail": "assets/Midday Affirmations For Wellbeing.png",
+      "translations": {
+        "es": "b8ea7079a3f8ded258e9a0caa9b11f24"
+      }
     },
     {
       "id": "6b1df76ff313933f83f6f41aa90696d4",
       "name": "Tips for Balancing Parenthood & Romance",
       "language": "en",
-      "thumbnail": "assets/Tips For Balancing Parenthood & Romance.png"
+      "thumbnail": "assets/Tips For Balancing Parenthood & Romance.png",
+      "translations": {
+        "es": "98585897c454f5205c5b5e79bf00db73"
+      }
     },
     {
       "id": "8bf4fbb5932dbbcd7c385363f391537a",
       "name": "Reclaim Your Time With Productive Scheduling",
       "language": "en",
-      "thumbnail": "assets/Reclaim Your Time With Productive Scheduling.png"
+      "thumbnail": "assets/Reclaim Your Time With Productive Scheduling.png",
+      "translations": {
+        "es": "e5439cc22472beebcbe0ffa85a950576"
+      }
     },
     {
       "id": "59f5040d5a7a9aade185b159f784bbae",
       "name": "Bouncing Back After a Layoff",
       "language": "en",
-      "thumbnail": "assets/Bouncing Back After A Layoff.png"
+      "thumbnail": "assets/Bouncing Back After A Layoff.png",
+      "translations": {
+        "es": "7f688706c84fdf1bc1b26cb311c98463"
+      }
     },
     {
       "id": "d5ba7d7a53846101515dbbd5a5204278",
       "name": "How to Find Your Ideal Community",
       "language": "en",
-      "thumbnail": "assets/How To Find Your Ideal Community.png"
+      "thumbnail": "assets/How To Find Your Ideal Community.png",
+      "translations": {
+        "es": "62676e4aae4dad063f7c48f2dcd9fa26"
+      }
     },
     {
       "id": "d7505eec75383c326344feebf392d8a4",
       "name": "The Silent Struggle of Depression",
       "language": "en",
-      "thumbnail": "assets/The Silent Struggle Of Depression.png"
+      "thumbnail": "assets/The Silent Struggle Of Depression.png",
+      "translations": {
+        "es": "9a87e506b804639bf833656118a7efc3"
+      }
     },
     {
       "id": "a548de5314f1436c5f84cf8f3a32ac51",
       "name": "Trying the Flexitarian Approach",
       "language": "en",
-      "thumbnail": "assets/Trying The Flexitarian Approach.png"
+      "thumbnail": "assets/Trying The Flexitarian Approach.png",
+      "translations": {
+        "es": "50b5871bb9f34947c6d6afa71fe451ea"
+      }
     },
     {
       "id": "33bdc136bd55fb712def15b08caac7c6",
       "name": "Facts About Processed Foods",
       "language": "en",
-      "thumbnail": "assets/Facts About Processed Foods.png"
+      "thumbnail": "assets/Facts About Processed Foods.png",
+      "translations": {
+        "es": "283550c6fe48cf69a6ca995ba5d4dd45"
+      }
     },
     {
       "id": "9df5bcf25548d2b6a81c420194558fda",
       "name": "Nurturing Cognitive Wellbeing for Alzheimer's",
       "language": "en",
-      "thumbnail": "assets/Nurturing Cognitive Wellbeing For Alzheimer's.png"
+      "thumbnail": "assets/Nurturing Cognitive Wellbeing For Alzheimer's.png",
+      "translations": {
+        "es": "114278b4d6d023ce46bba92e9e601796"
+      }
     },
     {
       "id": "a1196b8611059dc49b55521536798441",
       "name": "Managing Arthritis Pain & Discomfort",
       "language": "en",
-      "thumbnail": "assets/Managing Arthritis Pain & Discomfort.png"
+      "thumbnail": "assets/Managing Arthritis Pain & Discomfort.png",
+      "translations": {
+        "es": "ab4ef909752c7483bad52fa58d572ecf"
+      }
     },
     {
       "id": "a4f360cbca9aca0c0cb6c7ef5f7f54a2",
       "name": "Healthy Beverage Consumption for Optimal Health",
       "language": "en",
-      "thumbnail": "assets/Healthy Beverage Consumption For Optimal Health.png"
+      "thumbnail": "assets/Healthy Beverage Consumption For Optimal Health.png",
+      "translations": {
+        "es": "f653fcc184e88a6bf74d3db5dc4dfc61"
+      }
     },
     {
       "id": "2d61a9183263f394ff6102539b298e49",
       "name": "Prioritizing Cervical Health",
       "language": "en",
-      "thumbnail": "assets/Prioritizing Cervical Health.png"
+      "thumbnail": "assets/Prioritizing Cervical Health.png",
+      "translations": {
+        "es": "a8d417533ea3dfc1573493699c56754c"
+      }
     },
     {
       "id": "3fbec6feb5d3bc4e6353930f8b0985e2",
       "name": "Essential Nutrients for Women's Wellbeing & Health",
       "language": "en",
-      "thumbnail": "assets/Essential Nutrients For Women's Wellbeing & Health.png"
+      "thumbnail": "assets/Essential Nutrients For Women's Wellbeing & Health.png",
+      "translations": {
+        "es": "a44af32e486f1b9e9e0ecad5dda6a7a3"
+      }
     },
     {
       "id": "0c6ad2d5b70a37f6f6b661870e9dc816",
       "name": "Embracing Menopause & Its Changes",
       "language": "en",
-      "thumbnail": "assets/Embracing Menopause & Its Changes.png"
+      "thumbnail": "assets/Embracing Menopause & Its Changes.png",
+      "translations": {
+        "es": "488c1fe6b0a6fe230556561e171c8f02"
+      }
     },
     {
       "id": "dbf091dac15a9dbc17087879511cb401",
       "name": "How to Tackle and Reverse High Cholesterol",
       "language": "en",
-      "thumbnail": "assets/How To Tackle And Reverse High Cholesterol.png"
+      "thumbnail": "assets/How To Tackle And Reverse High Cholesterol.png",
+      "translations": {
+        "es": "0b552b5ac6fb6978a096d02643ade76d"
+      }
     },
     {
       "id": "14eb3f61f7b5c39aadede04484acc095",
       "name": "Daily Multivitamins for Men and Women",
       "language": "en",
-      "thumbnail": "assets/Daily Multivitamins For Men And Women.png"
+      "thumbnail": "assets/Daily Multivitamins For Men And Women.png",
+      "translations": {
+        "es": "aaa00c07fc3b58ba089d49f6efec50ea"
+      }
     },
     {
       "id": "0dd90332e41365f6a8b85100ae2983b0",
       "name": "What Is PCOS?",
       "language": "en",
-      "thumbnail": "assets/What Is PCOS.png"
+      "thumbnail": "assets/What Is PCOS.png",
+      "translations": {
+        "es": "74c29a5430849022f9edfe8492be221e"
+      }
     },
     {
       "id": "2eac61177b19c91a8a1d13a1a42917f6",
@@ -2098,373 +2416,559 @@
       "id": "46cdd7fdabe30d0114cfc4af39c00932",
       "name": "Identifying & Preventing Tooth Decay in Older Adults",
       "language": "en",
-      "thumbnail": "assets/Identifying & Preventing Tooth Decay In Older Adults.png"
+      "thumbnail": "assets/Identifying & Preventing Tooth Decay In Older Adults.png",
+      "translations": {
+        "es": "4f2c6d93e21666b0a84cc65ae2b7fd60"
+      }
     },
     {
       "id": "17a6b7dd7092b93f4d0244ebcd0f84df",
       "name": "Self-Reflection for Healthier Phone Use",
       "language": "en",
-      "thumbnail": "assets/Self-Reflection For Healthier Phone Use.png"
+      "thumbnail": "assets/Self-Reflection For Healthier Phone Use.png",
+      "translations": {
+        "es": "62ba48af0c3967aa0ef170e2dd74154b"
+      }
     },
     {
       "id": "f1143b9d7aa27ce05e5d14331ff0c67e",
       "name": "Advocating for Yourself in Healthcare",
       "language": "en",
-      "thumbnail": "assets/Advocating For Yourself In Healthcare.png"
+      "thumbnail": "assets/Advocating For Yourself In Healthcare.png",
+      "translations": {
+        "es": "ffbb1e7a9551d49842808b5bf5dc09f3"
+      }
     },
     {
       "id": "530bc1bde4c97afdbee25444a0add540",
       "name": "The Benefits of Prenatal Yoga for Expecting Mothers",
       "language": "en",
-      "thumbnail": "assets/The Benefits Of Prenatal Yoga For Expecting Mothers.png"
+      "thumbnail": "assets/The Benefits Of Prenatal Yoga For Expecting Mothers.png",
+      "translations": {
+        "es": "c8788cf2579fe55de36a64a483681149"
+      }
     },
     {
       "id": "d2543580a8be90c8eac50e40bcbe5ea7",
       "name": "Hormone Balancing Nutrition",
       "language": "en",
-      "thumbnail": "assets/Hormone Balancing Nutrition.png"
+      "thumbnail": "assets/Hormone Balancing Nutrition.png",
+      "translations": {
+        "es": "94cfa15a606a7d57884664e08f530fc4"
+      }
     },
     {
       "id": "b4e3706e64fac75373b52db43a7c603b",
       "name": "The Benefits of Spending Time Outdoors",
       "language": "en",
-      "thumbnail": "assets/The Benefits Of Spending Time Outdoors.png"
+      "thumbnail": "assets/The Benefits Of Spending Time Outdoors.png",
+      "translations": {
+        "es": "4118b1be0fb9a6c00e3279b764632c90"
+      }
     },
     {
       "id": "57dbd443ea414154f3d6387ff8031cb6",
       "name": "Types of Feedback",
       "language": "en",
-      "thumbnail": "assets/Types Of Feedback.png"
+      "thumbnail": "assets/Types Of Feedback.png",
+      "translations": {
+        "es": "f47199189aa477f0cebe6be13c7691d1"
+      }
     },
     {
       "id": "e0e231ded3291a1d7e095779be5dca80",
       "name": "Immunity-Boosting Ingredients",
       "language": "en",
-      "thumbnail": "assets/Immunity-Boosting Ingredients.png"
+      "thumbnail": "assets/Immunity-Boosting Ingredients.png",
+      "translations": {
+        "es": "e1132b6d06e341127495961835542942"
+      }
     },
     {
       "id": "a8c843214c74ce98359a169211d73c21",
       "name": "Herbal Teas That Support Weight Management",
       "language": "en",
-      "thumbnail": "assets/Herbal Teas That Support Weight Management.png"
+      "thumbnail": "assets/Herbal Teas That Support Weight Management.png",
+      "translations": {
+        "es": "aa5731b4051dd0d7b9ae59bd33662d3d"
+      }
     },
     {
       "id": "048acffc86ef6ea652fc64a98b9e220c",
       "name": "Why Desk Workers Should Care About Arthritis Prevention",
       "language": "en",
-      "thumbnail": "assets/Why Desk Workers Should Care About Arthritis Prevention.png"
+      "thumbnail": "assets/Why Desk Workers Should Care About Arthritis Prevention.png",
+      "translations": {
+        "es": "d861259887bfc54873c7e78b2fe9f011"
+      }
     },
     {
       "id": "87267e23ba08e9531cbe1e5b8adfdbce",
       "name": "Who Does Arthritis Affect?",
       "language": "en",
-      "thumbnail": "assets/Who Does Arthritis Affect.png"
+      "thumbnail": "assets/Who Does Arthritis Affect.png",
+      "translations": {
+        "es": "c796667ad91b10040ff6587f36ada4f3"
+      }
     },
     {
       "id": "3b9888134371401bbd096e87c6429896",
       "name": "Introduction to Estate Planning",
       "language": "en",
-      "thumbnail": "assets/Introduction To Estate Planning.png"
+      "thumbnail": "assets/Introduction To Estate Planning.png",
+      "translations": {
+        "es": "27eeed327d2dc7d25f282126cd7212df"
+      }
     },
     {
       "id": "b86db2057c6afefb1e2771a79957d460",
       "name": "Choosing the Right Doctor for Endometriosis Care",
       "language": "en",
-      "thumbnail": "assets/Choosing The Right Doctor For Endometriosis Care.png"
+      "thumbnail": "assets/Choosing The Right Doctor For Endometriosis Care.png",
+      "translations": {
+        "es": "7d15a68d22ffb3aef7fa63b29489f158"
+      }
     },
     {
       "id": "00ecfe7e3ec4d8a2f5ef45475d14d141",
       "name": "Endometriosis 101",
       "language": "en",
-      "thumbnail": "assets/Endometriosis 101.png"
+      "thumbnail": "assets/Endometriosis 101.png",
+      "translations": {
+        "es": "0c837433f52d94f646d3a2fe98a3df3d"
+      }
     },
     {
       "id": "f0cef6f8c898fe5b9cc5c857f85f7114",
       "name": "Early Signs & Risk Factors for Dementia",
       "language": "en",
-      "thumbnail": "assets/Early Signs & Risk Factors For Dementia.png"
+      "thumbnail": "assets/Early Signs & Risk Factors For Dementia.png",
+      "translations": {
+        "es": "09dee3e89a235af8f6c9fa3a43fd609e"
+      }
     },
     {
       "id": "2b330d1de8233ddd63877e004bb11cd7",
       "name": "Effective Caregiving Strategies for Dementia",
       "language": "en",
-      "thumbnail": "assets/Effective Caregiving Strategies For Dementia.png"
+      "thumbnail": "assets/Effective Caregiving Strategies For Dementia.png",
+      "translations": {
+        "es": "22faf627ce0f16b4ea34b4f20c2712e2"
+      }
     },
     {
       "id": "18087160522252c54c367a8b1a99d1e7",
       "name": "How to Talk to Loved Ones About Dementia Signs & Symptoms",
       "language": "en",
-      "thumbnail": "assets/How To Talk To Loved Ones About Dementia Signs & Symptoms.png"
+      "thumbnail": "assets/How To Talk To Loved Ones About Dementia Signs & Symptoms.png",
+      "translations": {
+        "es": "c1bffc1d4c2ef43b2bff6410c6774196"
+      }
     },
     {
       "id": "5eeeb84fbfa7888ef8c702d44ed2edb7",
       "name": "A Guide to Cortisol Management & Effects",
       "language": "en",
-      "thumbnail": "assets/A Guide To Cortisol Management & Effects.png"
+      "thumbnail": "assets/A Guide To Cortisol Management & Effects.png",
+      "translations": {
+        "es": "b8865796dafb3fbf13774742329dc84d"
+      }
     },
     {
       "id": "9cd6a2d6f184a31cd5ca208f57b99df3",
       "name": "How to Manage Your Emotions in Response to News Stress",
       "language": "en",
-      "thumbnail": "assets/How To Manage Your Emotions In Response To News Stress.png"
+      "thumbnail": "assets/How To Manage Your Emotions In Response To News Stress.png",
+      "translations": {
+        "es": "dace6e58734d32d57e706046a977b873"
+      }
     },
     {
       "id": "36a97ca840ee3c6885dc57642f8abfa2",
       "name": "10 Refreshing Outdoor Activities to Elevate Your Leisure Time",
       "language": "en",
-      "thumbnail": "assets/10 Refreshing Outdoor Activities To Elevate Your Leisure Time.png"
+      "thumbnail": "assets/10 Refreshing Outdoor Activities To Elevate Your Leisure Time.png",
+      "translations": {
+        "es": "14f70d3f0f4b135676a6d614168d0f03"
+      }
     },
     {
       "id": "c72701fb694caeb1cabdabda25a47ee3",
       "name": "A Beginner's Guide to Pilates",
       "language": "en",
-      "thumbnail": "assets/A Beginner's Guide To Pilates.png"
+      "thumbnail": "assets/A Beginner's Guide To Pilates.png",
+      "translations": {
+        "es": "0f439c4f8be4a378e3c40d0b3812fa62"
+      }
     },
     {
       "id": "7862f2f1768577d023a8ba57ddbd4bbb",
       "name": "Cardio Workout for a Healthy Heart",
       "language": "en",
-      "thumbnail": "assets/Cardio Workout For A Healthy Heart.png"
+      "thumbnail": "assets/Cardio Workout For A Healthy Heart.png",
+      "translations": {
+        "es": "c3eb273d7c3d02610c1cc73bd18e0c76"
+      }
     },
     {
       "id": "cf1cb4f1d9942a79c63cc1e290e185fa",
       "name": "Warming Up & Cooling Down in Exercise",
       "language": "en",
-      "thumbnail": "assets/Warming Up & Cooling Down In Exercise.png"
+      "thumbnail": "assets/Warming Up & Cooling Down In Exercise.png",
+      "translations": {
+        "es": "56a496add2d00f414e539840af86e461"
+      }
     },
     {
       "id": "90fabc0e9969bd951e08aa5f0fe867e7",
       "name": "The Importance of Joint Mobility & Exercises for Optimal Movement",
       "language": "en",
-      "thumbnail": "assets/The Importance Of Joint Mobility & Exercises For Optimal Movement.png"
+      "thumbnail": "assets/The Importance Of Joint Mobility & Exercises For Optimal Movement.png",
+      "translations": {
+        "es": "84f86e657efb85bfade666ab74f93eee"
+      }
     },
     {
       "id": "fa263b0410205aad8018c5e7bf94ee8e",
       "name": "The Therapeutic Power of Dance",
       "language": "en",
-      "thumbnail": "assets/The Therapeutic Power Of Dance.png"
+      "thumbnail": "assets/The Therapeutic Power Of Dance.png",
+      "translations": {
+        "es": "37954166d9d374a40d347f9de318c742"
+      }
     },
     {
       "id": "a7c622ba7fcbe46577da76c45c2cf714",
       "name": "Preventing Muscle Loss with Diet & Exercise",
       "language": "en",
-      "thumbnail": "assets/Preventing Muscle Loss With Diet & Exercise.png"
+      "thumbnail": "assets/Preventing Muscle Loss With Diet & Exercise.png",
+      "translations": {
+        "es": "e7d7c1f1f4fc999e019e465784210cc8"
+      }
     },
     {
       "id": "4d71358bfddf376d4e1824bfc8ffd12e",
       "name": "How to Support Your Liver Health Naturally",
       "language": "en",
-      "thumbnail": "assets/How To Support Your Liver Health Naturally.png"
+      "thumbnail": "assets/How To Support Your Liver Health Naturally.png",
+      "translations": {
+        "es": "af5499586845b8eac72b38af0dfae6fa"
+      }
     },
     {
       "id": "9a89956909a4c72b4d485090aca86abf",
       "name": "Understanding the Role of B Vitamins in Energy Production",
       "language": "en",
-      "thumbnail": "assets/Understanding The Role Of B Vitamins In Energy Production.png"
+      "thumbnail": "assets/Understanding The Role Of B Vitamins In Energy Production.png",
+      "translations": {
+        "es": "70f590a46ad9d41209e176903801e158"
+      }
     },
     {
       "id": "89893855030d74b810d2d314719e5d15",
       "name": "How to Manage Acid Reflux Naturally",
       "language": "en",
-      "thumbnail": "assets/How To Manage Acid Reflux Naturally.png"
+      "thumbnail": "assets/How To Manage Acid Reflux Naturally.png",
+      "translations": {
+        "es": "ccd9d191a064ae3c1fcd2f34baf7fcbb"
+      }
     },
     {
       "id": "d0a8d4e0ec785556ea255c29c361484a",
       "name": "Recognizing & Treating Iron Deficiency Anemia",
       "language": "en",
-      "thumbnail": "assets/Recognizing & Treating Iron Deficiency Anemia.png"
+      "thumbnail": "assets/Recognizing & Treating Iron Deficiency Anemia.png",
+      "translations": {
+        "es": "cbb582264b9253c8f0f11c57cf807585"
+      }
     },
     {
       "id": "f82f4f43d3ce87e97d6fa7d9cc4c35f7",
       "name": "Understanding & Managing Hypothyroidism",
       "language": "en",
-      "thumbnail": "assets/Understanding & Managing Hypothyroidism.png"
+      "thumbnail": "assets/Understanding & Managing Hypothyroidism.png",
+      "translations": {
+        "es": "acf2f258da9089a56c4125ef388eb930"
+      }
     },
     {
       "id": "1e8c5b196c7187f9d21a62484f665e31",
       "name": "Preventing & Managing Common Cold Symptoms",
       "language": "en",
-      "thumbnail": "assets/Preventing & Managing Common Cold Symptoms.png"
+      "thumbnail": "assets/Preventing & Managing Common Cold Symptoms.png",
+      "translations": {
+        "es": "715ef5762af568cff76a67a33197d37e"
+      }
     },
     {
       "id": "4f77799aa17e2c0d943351a292ca6394",
       "name": "The Role of Magnesium in Muscle Health",
       "language": "en",
-      "thumbnail": "assets/The Role Of Magnesium In Muscle Health.png"
+      "thumbnail": "assets/The Role Of Magnesium In Muscle Health.png",
+      "translations": {
+        "es": "eb1f5e641ce6125fe72f2f63476492ef"
+      }
     },
     {
       "id": "10fc6c84ce0b226f7d57eac9e096a262",
       "name": "Understanding & Managing Asthma",
       "language": "en",
-      "thumbnail": "assets/Understanding & Managing Asthma.png"
+      "thumbnail": "assets/Understanding & Managing Asthma.png",
+      "translations": {
+        "es": "1e238158a41f487817e5a08e8b4860ee"
+      }
     },
     {
       "id": "49e1d0580a2a4e990bd3d247bd8eb6d9",
       "name": "Tips for Managing Chronic Fatigue",
       "language": "en",
-      "thumbnail": "assets/Tips For Managing Chronic Fatigue.png"
+      "thumbnail": "assets/Tips For Managing Chronic Fatigue.png",
+      "translations": {
+        "es": "8467fb6bf3e5b93d7f197d09421b73a4"
+      }
     },
     {
       "id": "67c6df0cca2a6266e476912ec676491b",
       "name": "Essential Tips for a Healthy Spine",
       "language": "en",
-      "thumbnail": "assets/Essential Tips For A Healthy Spine.png"
+      "thumbnail": "assets/Essential Tips For A Healthy Spine.png",
+      "translations": {
+        "es": "7c74582999dc79787e27422c5e8f3eba"
+      }
     },
     {
       "id": "672454889134c3a9c1a7d89420150276",
       "name": "Ways to Boost Your Immune System",
       "language": "en",
-      "thumbnail": "assets/Ways To Boost Your Immune System.png"
+      "thumbnail": "assets/Ways To Boost Your Immune System.png",
+      "translations": {
+        "es": "e2d18a2523c215693e3d4ddf4ac0be31"
+      }
     },
     {
       "id": "d1c33af920c5fcd28f15944cdc89be66",
       "name": "Taking Charge of Your Cardiovascular Health",
       "language": "en",
-      "thumbnail": "assets/Taking Charge of Your Cardiovascular Health.png"
+      "thumbnail": "assets/Taking Charge of Your Cardiovascular Health.png",
+      "translations": {
+        "es": "900587f556c5f49236cb8a047a76cb74"
+      }
     },
     {
       "id": "2f070a8f26a661fa0a5f5e3a2d6477e3",
       "name": "A Smoke-Free Future for Health and Happiness",
       "language": "en",
-      "thumbnail": "assets/A Smoke-Free Future for Health and Happiness.png"
+      "thumbnail": "assets/A Smoke-Free Future for Health and Happiness.png",
+      "translations": {
+        "es": "471ba050e0bb2dcbf5952f95c4ac8801"
+      }
     },
     {
       "id": "166e4b0e6586eb569fceab8c6fd2d25f",
       "name": "Uniting for a Cancer-Free Future",
       "language": "en",
-      "thumbnail": "assets/Uniting For A Cancer-Free Future.png"
+      "thumbnail": "assets/Uniting For A Cancer-Free Future.png",
+      "translations": {
+        "es": "64874d3af84e971938b1cb4b918958f6"
+      }
     },
     {
       "id": "f394684287f1e884d7c8871adde663ae",
       "name": "Safe Sun Exposure Tips for Healthy Skin",
       "language": "en",
-      "thumbnail": "assets/Safe Sun Exposure Tips For Healthy Skin.png"
+      "thumbnail": "assets/Safe Sun Exposure Tips For Healthy Skin.png",
+      "translations": {
+        "es": "e5d81f56b4a701ca55d9751ae84ebad9"
+      }
     },
     {
       "id": "4d97c802e57c8faefe8218e49c86f62c",
       "name": "Nurturing the Brain-Gut Axis for Health",
       "language": "en",
-      "thumbnail": "assets/Nurturing The Brain-Gut Axis For Health.png"
+      "thumbnail": "assets/Nurturing The Brain-Gut Axis For Health.png",
+      "translations": {
+        "es": "2353c12965ea4dfe2610e6d2a4a19de7"
+      }
     },
     {
       "id": "8948f8163ae0c3ec9ee7df87edebe6ec",
       "name": "Vitamin C as a Superfood for Health",
       "language": "en",
-      "thumbnail": "assets/Vitamin C As A Superfood For Health.png"
+      "thumbnail": "assets/Vitamin C As A Superfood For Health.png",
+      "translations": {
+        "es": "706c182fd3e200d97421c15453732ff1"
+      }
     },
     {
       "id": "2ac9a53d1df90d01dfa48aeb3b9fce7b",
       "name": "Bridging Physical & Mental Wellbeing Gap",
       "language": "en",
-      "thumbnail": "assets/Bridging Physical & Mental Wellbeing Gap.png"
+      "thumbnail": "assets/Bridging Physical & Mental Wellbeing Gap.png",
+      "translations": {
+        "es": "ab88008b4f329fda894d0132e3b80782"
+      }
     },
     {
       "id": "368c4bb694afcdc25a13ad4e628a4847",
       "name": "Daily Strategies for Coping with Chronic Illness",
       "language": "en",
-      "thumbnail": "assets/Daily Strategies For Coping With Chronic Illness.png"
+      "thumbnail": "assets/Daily Strategies For Coping With Chronic Illness.png",
+      "translations": {
+        "es": "6407adb4875e2cab30af682db6b2667a"
+      }
     },
     {
       "id": "1d7d0ccd8766674ff3d932b09272735e",
       "name": "A Beginner's Guide to Meditation",
       "language": "en",
-      "thumbnail": "assets/A Beginner's Guide To Meditation.png"
+      "thumbnail": "assets/A Beginner's Guide To Meditation.png",
+      "translations": {
+        "es": "bc1a4e2a73ff47fa97f127a4815707b6"
+      }
     },
     {
       "id": "94843b3e7e2807e3bb0a9364d96a86c4",
       "name": "How Whole Grains Benefit Your Diet",
       "language": "en",
-      "thumbnail": "assets/How Whole Grains Benefit Your Diet.png"
+      "thumbnail": "assets/How Whole Grains Benefit Your Diet.png",
+      "translations": {
+        "es": "b708541a1101ebcd6281478f8e80bdae"
+      }
     },
     {
       "id": "5c6788e69b7ced024d78fa5a8d5f084c",
       "name": "How to Reduce Inflammation Through Diet",
       "language": "en",
-      "thumbnail": "assets/How To Reduce Inflammation Through Diet.png"
+      "thumbnail": "assets/How To Reduce Inflammation Through Diet.png",
+      "translations": {
+        "es": "26b5c9f86126f595db05c078d6de6abd"
+      }
     },
     {
       "id": "9d10b6e92098062b87eb956b3e2e12bc",
       "name": "The Benefits of High-Fiber Foods",
       "language": "en",
-      "thumbnail": "assets/The Benefits Of High-Fiber Foods.png"
+      "thumbnail": "assets/The Benefits Of High-Fiber Foods.png",
+      "translations": {
+        "es": "22ca0307f75c529a4cd448049d4d7526"
+      }
     },
     {
       "id": "d2c614c7f125ab929603b8a0633a47bc",
       "name": "The Role of Protein in a Healthy Diet",
       "language": "en",
-      "thumbnail": "assets/The Role Of Protein In A Healthy Diet.png"
+      "thumbnail": "assets/The Role Of Protein In A Healthy Diet.png",
+      "translations": {
+        "es": "2ee06abcdae2b6ca7a1b4e4d23835436"
+      }
     },
     {
       "id": "d49f959a38ef2fc0ce9660a103301161",
       "name": "Health Benefits of a Plant-Based Diet",
       "language": "en",
-      "thumbnail": "assets/Health Benefits Of A Plant-Based Diet.png"
+      "thumbnail": "assets/Health Benefits Of A Plant-Based Diet.png",
+      "translations": {
+        "es": "c7b36bf292bcecb7ce0894e3ed291151"
+      }
     },
     {
       "id": "60ab8eba01a426bc0c373fbb32a93387",
       "name": "The Power of Nutrition in Menopause",
       "language": "en",
-      "thumbnail": "assets/The Power Of Nutrition In Menopause.png"
+      "thumbnail": "assets/The Power Of Nutrition In Menopause.png",
+      "translations": {
+        "es": "d521701f876fb1eb3641ab629d76d5bd"
+      }
     },
     {
       "id": "44c534ac387c3880ecf34f5eb8d2333f",
       "name": "Carbohydrates Explained",
       "language": "en",
-      "thumbnail": "assets/Carbohydrates Explained.png"
+      "thumbnail": "assets/Carbohydrates Explained.png",
+      "translations": {
+        "es": "7231ff599ea6dda37181d9e76295d3f3"
+      }
     },
     {
       "id": "1c21a534abb1f4e4e3f5635c00ec3a32",
       "name": "Gut Health 101",
       "language": "en",
-      "thumbnail": "assets/Gut Health 101.png"
+      "thumbnail": "assets/Gut Health 101.png",
+      "translations": {
+        "es": "40832fe862cb9acb7828d0958872106c"
+      }
     },
     {
       "id": "e8686be5be2fc3814e9c23bcb251e260",
       "name": "Understanding Liver Detoxification",
       "language": "en",
-      "thumbnail": "assets/Understanding Liver Detoxification.png"
+      "thumbnail": "assets/Understanding Liver Detoxification.png",
+      "translations": {
+        "es": "640ecc94080defb440ed886c2d8f5df8"
+      }
     },
     {
       "id": "7803ea3f464b79083a8a96b1d696e262",
       "name": "Build Your Best Morning Routine",
       "language": "en",
-      "thumbnail": "assets/Build Your Best Morning Routine.png"
+      "thumbnail": "assets/Build Your Best Morning Routine.png",
+      "translations": {
+        "es": "428c906184174c3d20bf7488a508ae04"
+      }
     },
     {
       "id": "2a92ac09c44a3c3662852d70ae5a9edd",
       "name": "The Link Between Performance & Quality Sleep",
       "language": "en",
-      "thumbnail": "assets/The Link Between Performance & Quality Sleep.png"
+      "thumbnail": "assets/The Link Between Performance & Quality Sleep.png",
+      "translations": {
+        "es": "debc29f75a80d4b809eaac28bdc31575"
+      }
     },
     {
       "id": "3c08045e294631b7e9e17b26e516a609",
       "name": "Prioritizing Quality Relationships for a Fulfilling Life",
       "language": "en",
-      "thumbnail": "assets/Prioritizing Quality Relationships For A Fulfilling Life.png"
+      "thumbnail": "assets/Prioritizing Quality Relationships For A Fulfilling Life.png",
+      "translations": {
+        "es": "06449ed94a2dd93f4f6e2d035c1307d7"
+      }
     },
     {
       "id": "6b6eab21b87c5d2ceacec11c2413628a",
       "name": "Creating a Dementia-Friendly Environment",
       "language": "en",
-      "thumbnail": "assets/Creating A Dementia-Friendly Environment.png"
+      "thumbnail": "assets/Creating A Dementia-Friendly Environment.png",
+      "translations": {
+        "es": "ebbf14be2f8d44c7b299af3280c82a93"
+      }
     },
     {
       "id": "af971d75a392abfcaaa87c50d943505c",
       "name": "T1D in Children",
       "language": "en",
-      "thumbnail": "assets/T1D In Children.png"
+      "thumbnail": "assets/T1D In Children.png",
+      "translations": {
+        "es": "af4267b2de679ec2a29e08a2b6bff2ad"
+      }
     },
     {
       "id": "47ddb3feb4c481cc513b751ab110810b",
       "name": "Understanding Type 1 and Type 2 Diabetes",
       "language": "en",
-      "thumbnail": "assets/T1D vs. T2D.png"
+      "thumbnail": "assets/T1D vs. T2D.png",
+      "translations": {
+        "es": "7b7061974ac49ccd4e7a5f9b47e95f1d"
+      }
     },
     {
       "id": "f3bdb0ea3fdb5560cb5721e3f9cb8e91",
       "name": "Understanding Type 2 Diabetes: A Guide for Families",
       "language": "en",
-      "thumbnail": "assets/101 Basics of Type 2 Diabetes.png"
+      "thumbnail": "assets/101 Basics of Type 2 Diabetes.png",
+      "translations": {
+        "es": "b8d20a66363f0567c2e711748b6987d2"
+      }
     },
     {
       "id": "4bffb2f799a5e876fd829721c1622dfc",
@@ -2488,103 +2992,154 @@
       "id": "78865bb35f3dd99ed621058a962d75c4",
       "name": "Finding Clarity When You're Unhappy at Work",
       "language": "en",
-      "thumbnail": "assets/Finding Clarity When You're Unhappy At Work.png"
+      "thumbnail": "assets/Finding Clarity When You're Unhappy At Work.png",
+      "translations": {
+        "es": "a54be72cb5e067cc3926c5801bd190e2"
+      }
     },
     {
       "id": "9b4a21c8bb5cf143cad90f3d7d729b34",
       "name": "How to Support Someone in Crisis",
       "language": "en",
-      "thumbnail": "assets/How to Support Others in Crisis.png"
+      "thumbnail": "assets/How to Support Others in Crisis.png",
+      "translations": {
+        "es": "f02e6ff566bf27cb2f95757bb080683f"
+      }
     },
     {
       "id": "bf8a8f9370e0ca89f13b091cd17cab7d",
       "name": "Mental Health First Aid",
       "language": "en",
-      "thumbnail": "assets/Mental Health First Aid.png"
+      "thumbnail": "assets/Mental Health First Aid.png",
+      "translations": {
+        "es": "ba4cee334314cbe2d569213c02d8367c"
+      }
     },
     {
       "id": "fe592c275c730b204185d27d98ac0ef9",
       "name": "Breaking the Mental Health Stigma",
       "language": "en",
-      "thumbnail": "assets/Breaking The Mental Health Stigma.png"
+      "thumbnail": "assets/Breaking The Mental Health Stigma.png",
+      "translations": {
+        "es": "315d8a36c2a03c3df229d40c0e773aa8"
+      }
     },
     {
       "id": "96d91c18ea503fe9ca2fd3f85e6457bb",
       "name": "Why Am I Always Bloated?",
       "language": "en",
-      "thumbnail": "assets/Why Am I Always Bloated.png"
+      "thumbnail": "assets/Why Am I Always Bloated.png",
+      "translations": {
+        "es": "229e14ef0aa4d81f1533e55d86758773"
+      }
     },
     {
       "id": "125132a9742b35efd767a62980f3804f",
       "name": "Preventing Cognitive Decline for Seniors",
       "language": "en",
-      "thumbnail": "assets/Preventing Cognitive Decline for Seniors.png"
+      "thumbnail": "assets/Preventing Cognitive Decline for Seniors.png",
+      "translations": {
+        "es": "e9392f1091f289c6e78674d1da9ce1ca"
+      }
     },
     {
       "id": "d8c08925a9a6428ca1e1a9528bb628e5",
       "name": "The Psychology of Aging Gracefully",
       "language": "en",
-      "thumbnail": "assets/The Psychology of Aging Gracefully.png"
+      "thumbnail": "assets/The Psychology of Aging Gracefully.png",
+      "translations": {
+        "es": "4ca8d74ce6f73de90101f578a5cde8f9"
+      }
     },
     {
       "id": "5709c94e6b2e5dc688b81bfabc8df16a",
       "name": "Build a Gratitude Practice in Later Life",
       "language": "en",
-      "thumbnail": "assets/Build a Gratitude Practice in Later Life.png"
+      "thumbnail": "assets/Build a Gratitude Practice in Later Life.png",
+      "translations": {
+        "es": "0d3334e88dc4c61e981c882b80bbe064"
+      }
     },
     {
       "id": "ae3986c20859670fa2d06b80df29c2b1",
       "name": "Sleep & Aging",
       "language": "en",
-      "thumbnail": "assets/Sleep and Aging.png"
+      "thumbnail": "assets/Sleep and Aging.png",
+      "translations": {
+        "es": "0c5125d5c6849992641fb7786005fa72"
+      }
     },
     {
       "id": "426d442786030fee7aea9d2756af22f5",
       "name": "How to Stay Social as You Age",
       "language": "en",
-      "thumbnail": "assets/How to Stay Social as You Age.png"
+      "thumbnail": "assets/How to Stay Social as You Age.png",
+      "translations": {
+        "es": "7c7ca9c45405eec40e9da3ff34b6c366"
+      }
     },
     {
       "id": "8c01ee1cc62c2a78fea41fb360f8c5ca",
       "name": "Mindful Eating Practices",
       "language": "en",
-      "thumbnail": "assets/Mindful Eating Practices.png"
+      "thumbnail": "assets/Mindful Eating Practices.png",
+      "translations": {
+        "es": "8647d5c28c3787ea98d4545b99c1971a"
+      }
     },
     {
       "id": "f92259e3bcdf606a555576f3385bfb44",
       "name": "When to Seek Professional or Emergency Help for Mental Health",
       "language": "en",
-      "thumbnail": "assets/When To Seek Professional Or Emergency Help for Mental Health.png"
+      "thumbnail": "assets/When To Seek Professional Or Emergency Help for Mental Health.png",
+      "translations": {
+        "es": "4bd4e23c9acfd4f5cadee9c699b7792e"
+      }
     },
     {
       "id": "d67a13291a6f3b05eac735bff1e587cc",
       "name": "Tips for Healthy, Glowing Skin",
       "language": "en",
-      "thumbnail": "assets/Tips For Healthy, Glowing Skin.png"
+      "thumbnail": "assets/Tips For Healthy, Glowing Skin.png",
+      "translations": {
+        "es": "eace8227bf5a08dea078a415604bd25c"
+      }
     },
     {
       "id": "568d8211bdcdbf6a16a5fd40d5fad88b",
       "name": "Protecting Health & Community with Immunizations",
       "language": "en",
-      "thumbnail": "assets/Protecting Health & Community With Immunizations.png"
+      "thumbnail": "assets/Protecting Health & Community With Immunizations.png",
+      "translations": {
+        "es": "ed2cce18ee1e7fc799f8f2b73a490925"
+      }
     },
     {
       "id": "b7c78cc629ae942b0fce66c5d9482b51",
       "name": "How Your Health Perception Impacts Stress Levels",
       "language": "en",
-      "thumbnail": "assets/How Your Health Perception Impacts Stress Levels.png"
+      "thumbnail": "assets/How Your Health Perception Impacts Stress Levels.png",
+      "translations": {
+        "es": "072474e41eb365c1af06aa82fd4eb605"
+      }
     },
     {
       "id": "ea14360ef204f0da5b542740227887eb",
       "name": "How Perception Shapes Your Health Reality",
       "language": "en",
-      "thumbnail": "assets/How Perception Shapes Your Health Reality.png"
+      "thumbnail": "assets/How Perception Shapes Your Health Reality.png",
+      "translations": {
+        "es": "66e78ac321f6a129f96f1fd1cbb5f8be"
+      }
     },
     {
       "id": "ca4f79d2c5e702e7c09fd3ecf174931c",
       "name": "How Often You Might Move When Seated and Why It Matters",
       "language": "en",
-      "thumbnail": "assets/How Often You Might Move When Seated and Why It Matters.png"
+      "thumbnail": "assets/How Often You Might Move When Seated and Why It Matters.png",
+      "translations": {
+        "es": "25a9377660df3a9b11e5ff5c257ddff9"
+      }
     },
     {
       "id": "12d1983ee328400db2c6edb477788444",
@@ -4042,6 +4597,1707 @@
       "thumbnail": "assets/Protecting Your Eyes, Feet, and Kidneys for Diabetes.png",
       "translations": {
         "en": "fddbfe86e85b22368c7ffba272cc82a8"
+      }
+    },
+    {
+      "id": "6d5cf1d555f6ef92d1d38e711695e324",
+      "name": "Cómo los ácidos grasos omega-3 impactan la salud del corazón",
+      "language": "es",
+      "thumbnail": "assets/How Omega-3 Fatty Acids Impact Heart Health.png",
+      "translations": {
+        "en": "673929df5b9545b1ac8a82b991bcec41"
+      }
+    },
+    {
+      "id": "dc53eaa1d134a4a43374b9a59ea9d2a3",
+      "name": "Cómo el estrés puede afectar a la fisiología y la salud del corazón",
+      "language": "es",
+      "thumbnail": "assets/How Stress Affects Your Heart.png",
+      "translations": {
+        "en": "94b2f2b811cb47dd9c7f75aa1275c5c5"
+      }
+    },
+    {
+      "id": "9929565057a437edae0aa6a0e72c9cac",
+      "name": "Comprender los distintos estilos de comunicación",
+      "language": "es",
+      "thumbnail": "assets/Understanding Different Communication Styles.png",
+      "translations": {
+        "en": "de1a5cf482f941a0aa3e1a697a96b3c5  "
+      }
+    },
+    {
+      "id": "a7d941d036e013098e861f65a93c4c23",
+      "name": "Cómo afectan el tabaco y el vapeo a la salud bucodental",
+      "language": "es",
+      "thumbnail": "assets/How Smoking & Vaping Affect Oral Health.png",
+      "translations": {
+        "en": "fc2b7adccd1b4caff49ee25854e1bfd9"
+      }
+    },
+    {
+      "id": "9929eaac991a3a48aa3a6d57ed555058",
+      "name": "Los efectos del humo ajeno en los demás",
+      "language": "es",
+      "thumbnail": "assets/The Effects Of Second-Hand Smoke On Others.png",
+      "translations": {
+        "en": "f9271203a3d38a26fb6bee0c34a1c24c"
+      }
+    },
+    {
+      "id": "1c82b79b8162728f551fbe8b58ef3faa",
+      "name": "Paternidad respetuosa: cultivando la confianza, la resiliencia y la paciencia para relaciones armoniosas entre padres e hijos",
+      "language": "es",
+      "thumbnail": "assets/Gentle Parenting for Harmonious Parent-Child Relationships.png",
+      "translations": {
+        "en": "c9d6fd1da3f6670519af479f7a815ce4"
+      }
+    },
+    {
+      "id": "caadaac77ce744c8199415850ecb1bc6",
+      "name": "Qué dice tu nivel de actividad sobre tu salud",
+      "language": "es",
+      "thumbnail": "assets/What Your Activity Level Says About Your Health.png",
+      "translations": {
+        "en": "c64a46f556a4da0d4bb9ee11bc6f3586"
+      }
+    },
+    {
+      "id": "75504ba48608cc890609724c14a79ae7",
+      "name": "Cómo un núcleo fuerte o 'core' favorece los movimientos cotidianos",
+      "language": "es",
+      "thumbnail": "assets/How a Strong Core Supports Everyday Movement.png",
+      "translations": {
+        "en": "d8c956a7834659d1c8242ba5720d32da"
+      }
+    },
+    {
+      "id": "d8b20bb20050fa44f8e516cffd35552a",
+      "name": "Qué es el IMC y por qué es importante",
+      "language": "es",
+      "thumbnail": "assets/What Is BMI and Why It Matters.png",
+      "translations": {
+        "en": "f8de9a285cc7390d52cfae13eece1eae"
+      }
+    },
+    {
+      "id": "44f22996bbba7f01ea38e7666bb43602",
+      "name": "¿está tu IMC dentro del rango saludable?",
+      "language": "es",
+      "thumbnail": "assets/Is Your BMI in the Healthy Range.png",
+      "translations": {
+        "en": "16aed88c4ff2798221e7a11655280275"
+      }
+    },
+    {
+      "id": "f42aae0c66e96f82868a1654a5635511",
+      "name": "Por qué la composición corporal puede ser más importante que el IMC",
+      "language": "es",
+      "thumbnail": "assets/Why Body Composition Might Matter More Than BMI Alone.png",
+      "translations": {
+        "en": "96080f2e03ca62381c4ca282d9cb3601"
+      }
+    },
+    {
+      "id": "51ce7754306fc572ecefaf645a4a8f32",
+      "name": "Comprender los efectos secundarios de los medicamentos",
+      "language": "es",
+      "thumbnail": "assets/Understanding Medication Side Effects- What’s Normal, What’s Not.png",
+      "translations": {
+        "en": "e9b4b55c4a2f5011097987f457a799b3"
+      }
+    },
+    {
+      "id": "8ce499066f46ef681e06bf0896274334",
+      "name": "Por qué es importante tomar los medicamentos según lo prescrito",
+      "language": "es",
+      "thumbnail": "assets/Why Taking Medications as Prescribed Matters.png",
+      "translations": {
+        "en": "2b7bc7265cec0a74b338b90e0dc53c3c"
+      }
+    },
+    {
+      "id": "44664cfbd4fed3cfc6f517cf7ba0a0b9",
+      "name": "Lo primero que hay que comprobar con la mezcla de medicamentos",
+      "language": "es",
+      "thumbnail": "assets/What to Check First with Mixing Medications.png",
+      "translations": {
+        "en": "57d27148778a38e1254913fddc40e16f"
+      }
+    },
+    {
+      "id": "00ecb8baf86d62c95aac85ee803dddde",
+      "name": "Cómo hablar con tu médico de dudas con la medicación",
+      "language": "es",
+      "thumbnail": "assets/How to Talk to Your Doctor About Medication Concerns.png",
+      "translations": {
+        "en": "5a77726038e935d62b6560db1f410e91"
+      }
+    },
+    {
+      "id": "8e03d9a04cde891dee7efbf28f5e9867",
+      "name": "Hábitos de medicación inteligentes",
+      "language": "es",
+      "thumbnail": "assets/Smart Medication Habits.png",
+      "translations": {
+        "en": "34ffb728c05d4b19a7b667b347988d5d"
+      }
+    },
+    {
+      "id": "5ea3f9fb484ddb56d6a6e858bcb1139b",
+      "name": "Hacer del uso del cinturón de seguridad un hábito no negociable",
+      "language": "es",
+      "thumbnail": "assets/Make Seat Belt Use a Non-Negotiable Habit.png",
+      "translations": {
+        "en": "7bccb62796dd6b1dc6d2c0c1d5f8fe75"
+      }
+    },
+    {
+      "id": "4701e37455d93d18bc957cb36f330282",
+      "name": "Por qué la decisión de abrocharse el cinturón afecta a todos los ocupantes del vehículo",
+      "language": "es",
+      "thumbnail": "assets/Why Your Choice of Buckle Up Affects Everyone in the Car.png",
+      "translations": {
+        "en": "08c6849c4ef653355df207f9ab506126"
+      }
+    },
+    {
+      "id": "655318f4c2dee5e2802517b054b06746",
+      "name": "Cómo crear hábitos saludables para cuidar de nuestro tiempo frente a la pantalla",
+      "language": "es",
+      "thumbnail": "assets/Creating Healthy Screen Time Habits That Actually Stick.png",
+      "translations": {
+        "en": "c82878dcfcac083907807ac3d2df9aa8"
+      }
+    },
+    {
+      "id": "036bffd7edf578b920db1ea90a44764d",
+      "name": "El bucle de la dopamina: por qué es difícil dejar el teléfono",
+      "language": "es",
+      "thumbnail": "assets/The Dopamine Loop- Why It’s Hard to Put Your Phone Down.png",
+      "translations": {
+        "en": "35ccac13b55fbbb6f7731bbce94c2d4b"
+      }
+    },
+    {
+      "id": "0bc7440274bc419a48a3f4e9e4a42f57",
+      "name": "Baños de bosque: qué son y cómo probarlos",
+      "language": "es",
+      "thumbnail": "assets/Forest Bathing- What It Is and How to Try It.png",
+      "translations": {
+        "en": "e4dc8332326cee0dd9557fb09e031b62"
+      }
+    },
+    {
+      "id": "de1308633492b2ac7450b7b4dacf1b22",
+      "name": "Cómo hacer que la naturaleza forme parte de tu rutina diaria",
+      "language": "es",
+      "thumbnail": "assets/How to Make Nature Part of Your Daily Routine.png",
+      "translations": {
+        "en": "846255e157fa3b30a1bba9eee536ab6a"
+      }
+    },
+    {
+      "id": "17169a018d5e7ea1d1c7588c54022762",
+      "name": "Cómo la naturaleza reduce el estrés y la ansiedad",
+      "language": "es",
+      "thumbnail": "assets/How Nature Reduces Stress and Anxiety.png",
+      "translations": {
+        "en": "e2a30de6fdce41291ab78a2e122739cc"
+      }
+    },
+    {
+      "id": "58e89c451fb89b9889768057fc825d53",
+      "name": "Qué hacer en caso de caída",
+      "language": "es",
+      "thumbnail": "assets/What to Do If You Fall.png",
+      "translations": {
+        "en": "c3164177d8b85f630b0025e155826549"
+      }
+    },
+    {
+      "id": "e6048a22317d507afc91473d796f3bf4",
+      "name": "Cómo utilizar un bastón o un andador con seguridad",
+      "language": "es",
+      "thumbnail": "assets/How to Use a Cane or Walker Safely.png",
+      "translations": {
+        "en": "e116d524a57e9d25d28ec40787646151"
+      }
+    },
+    {
+      "id": "15a372d4d46f4fa8c5e1ad3ddea9a615",
+      "name": "Cómo hablar con su médico sobre las preocupaciones relacionadas con las caídas",
+      "language": "es",
+      "thumbnail": "assets/How to Talk to Your Doctor About Fall Concerns.jpg",
+      "translations": {
+        "en": "b385290ad179a8b8bc2a99d79e64a998"
+      }
+    },
+    {
+      "id": "7c024e6b5a4b9ee04c183c04259c4f4c",
+      "name": "Cómo hacer que tu baño, dormitorio y cocina sean a prueba de caídas",
+      "language": "es",
+      "thumbnail": "assets/How to Fall-Proof Your Bathroom, Bedroom, and Kitchen.png",
+      "translations": {
+        "en": "f2d6cc61e24adc8755e076a6a1f6c420"
+      }
+    },
+    {
+      "id": "4ea229a9234c7b4c98c87bdf20a651cf",
+      "name": "Cómo afectan la vista y el oído al riesgo de caídas",
+      "language": "es",
+      "thumbnail": "assets/How Vision and Hearing Affect Fall Risk.png",
+      "translations": {
+        "en": "783b1bdb09cef9b97e8de4abf8674e82"
+      }
+    },
+    {
+      "id": "446123a15fd3531bfbfebd45ca77d29f",
+      "name": "Por qué se producen caídas en casa",
+      "language": "es",
+      "thumbnail": "assets/Why Falls Happen at Home.png",
+      "translations": {
+        "en": "f791e9bed11287812aa77ede2080bd19"
+      }
+    },
+    {
+      "id": "835e4cfdec5ce9ac7fb063fcde133f61",
+      "name": "La relación entre el equilibrio, la fuerza y la prevención de caídas",
+      "language": "es",
+      "thumbnail": "assets/The Link Between Balance, Strength, and Fall Prevention.png",
+      "translations": {
+        "en": "fa2dc453df132a7dd7d620678a90fd53"
+      }
+    },
+    {
+      "id": "fa7a7988a85e43b3f2c5393dd9a6f0ff",
+      "name": "Comprender las causas de las caídas",
+      "language": "es",
+      "thumbnail": "assets/Understanding the Causes of Falls.png",
+      "translations": {
+        "en": "89424e17f5cf20ff6bda9d1c4b582f26"
+      }
+    },
+    {
+      "id": "6ccf3b71fba2d68d00faed7d763ffd6b",
+      "name": "Cómo las dosis de medicación olvidadas pueden afectar a las enfermedades crónicas",
+      "language": "es",
+      "thumbnail": "assets/How Missed Medication Doses Can Impact Chronic Conditions.png",
+      "translations": {
+        "en": "1b52f755f5c26a3238b60a3c8563fd88"
+      }
+    },
+    {
+      "id": "da278a20f5e1a37e4633a754de83b803",
+      "name": "Sal, estrés, sueño y tensión arterial",
+      "language": "es",
+      "thumbnail": "assets/Salt, Stress, Sleep, and Blood Pressure.png",
+      "translations": {
+        "en": "b96da0782e35a1fcf7f51cb89f9f9cc9"
+      }
+    },
+    {
+      "id": "d4f0e8ef7a0b63bf5599f54fdfc5a973",
+      "name": "¿qué significa tener la tensión arterial baja?",
+      "language": "es",
+      "thumbnail": "assets/What Does Low Blood Pressure Mean.png",
+      "translations": {
+        "en": "ce0097955ddb132668e9cb8e52008329"
+      }
+    },
+    {
+      "id": "b08439fa5dcf2c53203b96898570b56e",
+      "name": "El impacto de la hipertensión arterial en el corazón, el cerebro y los riñones",
+      "language": "es",
+      "thumbnail": "assets/The Impact of High Blood Pressure on the Heart, Brain, and Kidneys.png",
+      "translations": {
+        "en": "fe0634210a85ab2b656c8d305610580c"
+      }
+    },
+    {
+      "id": "a233a8edde3543339a4479ff826043ee",
+      "name": "Qué significan realmente tus niveles de colesterol",
+      "language": "es",
+      "thumbnail": "assets/What Your Cholesterol Numbers Really Mean.png",
+      "translations": {
+        "en": "4bb043b44d68b30e7199a532aaedb52d"
+      }
+    },
+    {
+      "id": "d0a62f8fb269d4946c8a11856ff987a7",
+      "name": "Colesterol, infartos e ictus",
+      "language": "es",
+      "thumbnail": "assets/Cholesterol, Heart Attacks, and Strokes.png",
+      "translations": {
+        "en": "6988c5ab608528b67762cc41cd53fcf5"
+      }
+    },
+    {
+      "id": "fff41653c62eed98bbfd3ef7ee915cb3",
+      "name": "Cómo el colesterol afecta a las arterias, el cerebro y otros órganos",
+      "language": "es",
+      "thumbnail": "assets/How Cholesterol Affects Your Arteries, Brain, and Beyond.png",
+      "translations": {
+        "en": "b6a4a60e47f6e601e8eea1b16cdc21cd"
+      }
+    },
+    {
+      "id": "05d5e865a6746d90debd35dd11a84511",
+      "name": "Cómo favorecer el bienestar mental de tus hijos en el mundo digital ",
+      "language": "es",
+      "thumbnail": "assets/Supporting Your Children's Mental Wellbeing In The Digital World.png",
+      "translations": {
+        "en": "70bd3b79624c9f6c6559296d6308e6db"
+      }
+    },
+    {
+      "id": "d1a5a89e7af91bca955adf0bddf59518",
+      "name": "Cuándo iniciar las revisiones rutinarias del cáncer de mama",
+      "language": "es",
+      "thumbnail": "assets/When To Begin Routine Breast Cancer Screenings.png",
+      "translations": {
+        "en": "75ff50baf22d4583b3501270309d4baa"
+      }
+    },
+    {
+      "id": "f61379c3d9171eb867234fc398723780",
+      "name": "Cáncer de mama en mujeres en distintas etapas de la vida",
+      "language": "es",
+      "thumbnail": "assets/Breast Cancer in Women at Various Life Stages.png",
+      "translations": {
+        "en": "4a339c486d2cbcf3325d9b7d513c14fb"
+      }
+    },
+    {
+      "id": "d0d4b5c7dd562971d8689fff353e9c4e",
+      "name": "¿qué es el índice UV?",
+      "language": "es",
+      "thumbnail": "assets/What is the UV Index.png",
+      "translations": {
+        "en": "a0401a474e06ed0b1d4ee0d19bdbf657"
+      }
+    },
+    {
+      "id": "53e31e20b27736fd56b679ef4608efca",
+      "name": "Lista de verificación de la salud masculina en varias etapas de la vida",
+      "language": "es",
+      "thumbnail": "assets/Men’s Health Checklist at Various Life Stages.png",
+      "translations": {
+        "en": "45fca734a265ae5ac9a4690303b5d421"
+      }
+    },
+    {
+      "id": "8172a3a7d21f7c77fd90f003eaf39d75",
+      "name": "Mitos y realidades de las conmociones cerebrales",
+      "language": "es",
+      "thumbnail": "assets/Myth vs Facts of Concussions.png",
+      "translations": {
+        "en": "0f1b9e7e565fd41104033d993fb9cb2a"
+      }
+    },
+    {
+      "id": "678389945c0c25da1edea9dab5116f4b",
+      "name": "Educación sobre el suelo pélvico y anatomía básica",
+      "language": "es",
+      "thumbnail": "assets/Pelvic Floor Education & Basic Anatomy.png",
+      "translations": {
+        "en": "309626398da2496ac3ff3a98fa62a05e"
+      }
+    },
+    {
+      "id": "3de067bf98887888532148e7e55d131e",
+      "name": "Exámenes médicos recomendados para personas mayores",
+      "language": "es",
+      "thumbnail": "assets/Recommended Health Screenings For Seniors.png",
+      "translations": {
+        "en": "629a8f8d9a16d50905c3db8a8bff8391"
+      }
+    },
+    {
+      "id": "bc78ea6147f59d1991034f479463e223",
+      "name": "Cómo distinguir una migraña de un dolor de cabeza",
+      "language": "es",
+      "thumbnail": "assets/How to Identify a Migraine vs. a Headache.png",
+      "translations": {
+        "en": "afac99165828d22095272b8c30ab40ae"
+      }
+    },
+    {
+      "id": "b8d71f64b980c7fd92d325db3ca9f2bc",
+      "name": "Fundamentos y consejos para el seguimiento de la ovulación",
+      "language": "es",
+      "thumbnail": "assets/Fundamentals and Tips for Tracking Ovulation.png",
+      "translations": {
+        "en": "7ddb3b6e0c7b5948cfc79a138275119b"
+      }
+    },
+    {
+      "id": "554f3cca66411a2a4cc37a2460bc178c",
+      "name": "Cómo enseñar a los niños la importancia de la generosidad",
+      "language": "es",
+      "thumbnail": "assets/Teaching Children About Giving.png",
+      "translations": {
+        "en": "9fc8ac7b6be48324cfae6d4f64af3634"
+      }
+    },
+    {
+      "id": "0d720825805f1bf627d15ad433de206f",
+      "name": "Formas inteligentes de dar las gracias",
+      "language": "es",
+      "thumbnail": "assets/Thoughtful Ways To Say “Thank You”.png",
+      "translations": {
+        "en": "11a95625bb855d72f42fbcaa7500bfe3"
+      }
+    },
+    {
+      "id": "93f367e2bec8d6c63325446fcceb46d3",
+      "name": "El reto de los 30 pequeños actos de bondad",
+      "language": "es",
+      "thumbnail": "assets/The 30 Small Acts of Kindness Challenge.png",
+      "translations": {
+        "en": "2caf362a569f6ae434f42ded6103a508"
+      }
+    },
+    {
+      "id": "d804950887f6862c141282b91cf1f161",
+      "name": "Anticonceptivos hormonales vs. no hormonales",
+      "language": "es",
+      "thumbnail": "assets/Hormonal vs. Nonhormonal Birth Control.png",
+      "translations": {
+        "en": "1c34a6f9a1161fc0d524df43f4885e10"
+      }
+    },
+    {
+      "id": "47fe850b0d821eaa5228d882f67001fc",
+      "name": "Realidad emocional del parto",
+      "language": "es",
+      "thumbnail": "assets/Emotional Realities of Child Labor.png",
+      "translations": {
+        "en": "c734a883bfbee7044d1c43b288b79421"
+      }
+    },
+    {
+      "id": "16be830d53f67fad077d44104b579611",
+      "name": "Qué preguntar al fisioterapeuta en la primera visita",
+      "language": "es",
+      "thumbnail": "assets/What To Ask at a Physical Therapist on Your First Visit.png",
+      "translations": {
+        "en": "10c0f1b1db8c89cb5decfccae77b8663"
+      }
+    },
+    {
+      "id": "56b0c4facdcf6e6e724b7ca851f2878d",
+      "name": "¿por qué tengo los músculos rígidos?",
+      "language": "es",
+      "thumbnail": "assets/Why Do My Muscles Feel Stiff.png",
+      "translations": {
+        "en": "ceb7efc928f2bce9b240f378b0da627e"
+      }
+    },
+    {
+      "id": "7d74211b2686c5cdcbad34337a171c08",
+      "name": "Qué músculos se trabajan al hacer sentadillas y cómo nos ayudan",
+      "language": "es",
+      "thumbnail": "assets/What Muscles Are Worked When Doing Squats and How It Helps.png",
+      "translations": {
+        "en": "9fecf0494fbd8336ee1bd25a90bcbf49"
+      }
+    },
+    {
+      "id": "7cb1183ec7406a5b6b7d6a4283c47fcf",
+      "name": "Cómo el estrés diario afecta la parte superior del cuerpo",
+      "language": "es",
+      "thumbnail": "assets/How Daily Stress Affects Your Upper Body.png",
+      "translations": {
+        "en": "0e238992f1561707f6d1a4c7dcb64a06"
+      }
+    },
+    {
+      "id": "3967625c402aa5d54d46915788a513f7",
+      "name": "Por qué fortalecer la espalda puede aliviar el dolor de espalda",
+      "language": "es",
+      "thumbnail": "assets/Why Strengthening Your Back May Relieve Back Pain.png",
+      "translations": {
+        "en": "8b55d5863ff977144415373aed77fdc1"
+      }
+    },
+    {
+      "id": "ce80bbee64ae3e34ed4fbd0ed01bc5d6",
+      "name": "Por qué unas caderas tensas pueden causar lumbalgia",
+      "language": "es",
+      "thumbnail": "assets/Why Tight Hips Can Cause Low Back Pain.png",
+      "translations": {
+        "en": "96646ef90d96cbc0e529c79d6c266bd5"
+      }
+    },
+    {
+      "id": "06f260e87460c61df704afdfca449b8b",
+      "name": "Qué es la conexión mente-cuerpo y cómo maximizarla",
+      "language": "es",
+      "thumbnail": "assets/What Is the Mind-Body Connection and How to Maximize It.png",
+      "translations": {
+        "en": "f43cf855ddf50e05a0360c928ab6e7a9"
+      }
+    },
+    {
+      "id": "43a881732e2dc6549f35c5365dcc5508",
+      "name": "Cuidado ocular para personas mayores ",
+      "language": "es",
+      "thumbnail": "assets/Eye Care For Seniors .png",
+      "translations": {
+        "en": "ef6a6ddc3c6736ef9c86222eeb5d0ef0"
+      }
+    },
+    {
+      "id": "72a19fde34de051a56d7a9dcaa13d5b6",
+      "name": "Cuidado de los ojos para niños",
+      "language": "es",
+      "thumbnail": "assets/Eye Care For Kids.png",
+      "translations": {
+        "en": "c545e4bab5cdf1d0a0cd0c752df7ce9e"
+      }
+    },
+    {
+      "id": "ffe29b63657ae1ec9ae3a2acc551ddf5",
+      "name": "Seguimiento de los hábitos del sueño con tecnología portátil",
+      "language": "es",
+      "thumbnail": "assets/Tracking Sleep Habits With Wearable Technology.png",
+      "translations": {
+        "en": "beba1d37af554b44501ae7994fcef9d3"
+      }
+    },
+    {
+      "id": "6e8f906ac74396e6a980a9cf30929f7b",
+      "name": "Dispositivos portátiles para monitorear la salud cardíaca",
+      "language": "es",
+      "thumbnail": "assets/Wearable Devices for Monitoring Cardiac Health.png",
+      "translations": {
+        "en": "ec6fec68f0171ff2da3a73a9fe1c1d0c"
+      }
+    },
+    {
+      "id": "d2aaf00d41dd21eb870d424bae7d0978",
+      "name": "Dispositivos portátiles para controlar la respiración y el pulso ",
+      "language": "es",
+      "thumbnail": "assets/Wearable Devices for Tracking Respirations and Pulse Oximetry.png",
+      "translations": {
+        "en": "0797498a859855d054f4c55c637a8129"
+      }
+    },
+    {
+      "id": "a27c12e241aa102e9d5ceb6699f82c42",
+      "name": "Hidratación e ingesta de líquidos para un rendimiento óptimo",
+      "language": "es",
+      "thumbnail": "assets/Hydration & Fluid Intake For Optimal Performance.png",
+      "translations": {
+        "en": "55ebeed024d8eeb4e09da5a1c7771e18"
+      }
+    },
+    {
+      "id": "b8ea7079a3f8ded258e9a0caa9b11f24",
+      "name": "Afirmaciones del mediodía para tu bienestar",
+      "language": "es",
+      "thumbnail": "assets/Midday Affirmations For Wellbeing.png",
+      "translations": {
+        "en": "d63ba5d7b42e534fdfc132c4ea505960"
+      }
+    },
+    {
+      "id": "98585897c454f5205c5b5e79bf00db73",
+      "name": "Consejos sobre cómo ser padres y compaginarlo con la vida amorosa",
+      "language": "es",
+      "thumbnail": "assets/Tips For Balancing Parenthood & Romance.png",
+      "translations": {
+        "en": "6b1df76ff313933f83f6f41aa90696d4"
+      }
+    },
+    {
+      "id": "e5439cc22472beebcbe0ffa85a950576",
+      "name": "Recupera tu tiempo con una programación productiva ",
+      "language": "es",
+      "thumbnail": "assets/Reclaim Your Time With Productive Scheduling.png",
+      "translations": {
+        "en": "8bf4fbb5932dbbcd7c385363f391537a"
+      }
+    },
+    {
+      "id": "7f688706c84fdf1bc1b26cb311c98463",
+      "name": "Recuperarse tras un despido",
+      "language": "es",
+      "thumbnail": "assets/Bouncing Back After A Layoff.png",
+      "translations": {
+        "en": "59f5040d5a7a9aade185b159f784bbae"
+      }
+    },
+    {
+      "id": "62676e4aae4dad063f7c48f2dcd9fa26",
+      "name": "Cómo encontrar tu comunidad ideal",
+      "language": "es",
+      "thumbnail": "assets/How To Find Your Ideal Community.png",
+      "translations": {
+        "en": "d5ba7d7a53846101515dbbd5a5204278"
+      }
+    },
+    {
+      "id": "9a87e506b804639bf833656118a7efc3",
+      "name": "La lucha silenciosa de la depresión",
+      "language": "es",
+      "thumbnail": "assets/The Silent Struggle Of Depression.png",
+      "translations": {
+        "en": "d7505eec75383c326344feebf392d8a4"
+      }
+    },
+    {
+      "id": "50b5871bb9f34947c6d6afa71fe451ea",
+      "name": "Probando el enfoque flexitariano",
+      "language": "es",
+      "thumbnail": "assets/Trying The Flexitarian Approach.png",
+      "translations": {
+        "en": "a548de5314f1436c5f84cf8f3a32ac51"
+      }
+    },
+    {
+      "id": "283550c6fe48cf69a6ca995ba5d4dd45",
+      "name": "Datos sobre los alimentos procesados",
+      "language": "es",
+      "thumbnail": "assets/Facts About Processed Foods.png",
+      "translations": {
+        "en": "33bdc136bd55fb712def15b08caac7c6"
+      }
+    },
+    {
+      "id": "114278b4d6d023ce46bba92e9e601796",
+      "name": "Cultivar el bienestar cognitivo del alzhéimer",
+      "language": "es",
+      "thumbnail": "assets/Nurturing Cognitive Wellbeing For Alzheimer's.png",
+      "translations": {
+        "en": "9df5bcf25548d2b6a81c420194558fda"
+      }
+    },
+    {
+      "id": "ab4ef909752c7483bad52fa58d572ecf",
+      "name": "Control del dolor y las molestias de la artritis",
+      "language": "es",
+      "thumbnail": "assets/Managing Arthritis Pain & Discomfort.png",
+      "translations": {
+        "en": "a1196b8611059dc49b55521536798441"
+      }
+    },
+    {
+      "id": "f653fcc184e88a6bf74d3db5dc4dfc61",
+      "name": "Consumo de bebidas saludables para una salud óptima",
+      "language": "es",
+      "thumbnail": "assets/Healthy Beverage Consumption For Optimal Health.png",
+      "translations": {
+        "en": "a4f360cbca9aca0c0cb6c7ef5f7f54a2"
+      }
+    },
+    {
+      "id": "a8d417533ea3dfc1573493699c56754c",
+      "name": "Priorizar la salud del cuello uterino",
+      "language": "es",
+      "thumbnail": "assets/Prioritizing Cervical Health.png",
+      "translations": {
+        "en": "2d61a9183263f394ff6102539b298e49"
+      }
+    },
+    {
+      "id": "a44af32e486f1b9e9e0ecad5dda6a7a3",
+      "name": "Nutrientes esenciales para el bienestar y la salud de la mujer",
+      "language": "es",
+      "thumbnail": "assets/Essential Nutrients For Women's Wellbeing & Health.png",
+      "translations": {
+        "en": "3fbec6feb5d3bc4e6353930f8b0985e2"
+      }
+    },
+    {
+      "id": "488c1fe6b0a6fe230556561e171c8f02",
+      "name": "Afrontar la menopausia y sus cambios",
+      "language": "es",
+      "thumbnail": "assets/Embracing Menopause & Its Changes.png",
+      "translations": {
+        "en": "0c6ad2d5b70a37f6f6b661870e9dc816"
+      }
+    },
+    {
+      "id": "0b552b5ac6fb6978a096d02643ade76d",
+      "name": "Cómo combatir y revertir el colesterol alto",
+      "language": "es",
+      "thumbnail": "assets/How To Tackle And Reverse High Cholesterol.png",
+      "translations": {
+        "en": "dbf091dac15a9dbc17087879511cb401"
+      }
+    },
+    {
+      "id": "aaa00c07fc3b58ba089d49f6efec50ea",
+      "name": "Multivitaminas diarias para hombres y mujeres",
+      "language": "es",
+      "thumbnail": "assets/Daily Multivitamins For Men And Women.png",
+      "translations": {
+        "en": "14eb3f61f7b5c39aadede04484acc095"
+      }
+    },
+    {
+      "id": "74c29a5430849022f9edfe8492be221e",
+      "name": "¿qué es el síndrome de ovario poliquístico?",
+      "language": "es",
+      "thumbnail": "assets/What Is PCOS.png",
+      "translations": {
+        "en": "0dd90332e41365f6a8b85100ae2983b0"
+      }
+    },
+    {
+      "id": "4f2c6d93e21666b0a84cc65ae2b7fd60",
+      "name": "Identificar y prevenir las caries en las personas mayores",
+      "language": "es",
+      "thumbnail": "assets/Identifying & Preventing Tooth Decay In Older Adults.png",
+      "translations": {
+        "en": "46cdd7fdabe30d0114cfc4af39c00932"
+      }
+    },
+    {
+      "id": "62ba48af0c3967aa0ef170e2dd74154b",
+      "name": "Autorreflexión para un uso más saludable del teléfono",
+      "language": "es",
+      "thumbnail": "assets/Self-Reflection For Healthier Phone Use.png",
+      "translations": {
+        "en": "17a6b7dd7092b93f4d0244ebcd0f84df"
+      }
+    },
+    {
+      "id": "ffbb1e7a9551d49842808b5bf5dc09f3",
+      "name": "Abogar por sí mismo en el cuidado de la salud",
+      "language": "es",
+      "thumbnail": "assets/Advocating For Yourself In Healthcare.png",
+      "translations": {
+        "en": "f1143b9d7aa27ce05e5d14331ff0c67e"
+      }
+    },
+    {
+      "id": "c8788cf2579fe55de36a64a483681149",
+      "name": "Los beneficios del yoga prenatal para las futuras madres",
+      "language": "es",
+      "thumbnail": "assets/The Benefits Of Prenatal Yoga For Expecting Mothers.png",
+      "translations": {
+        "en": "530bc1bde4c97afdbee25444a0add540"
+      }
+    },
+    {
+      "id": "94cfa15a606a7d57884664e08f530fc4",
+      "name": "Nutrición para el equilibrio hormonal",
+      "language": "es",
+      "thumbnail": "assets/Hormone Balancing Nutrition.png",
+      "translations": {
+        "en": "d2543580a8be90c8eac50e40bcbe5ea7"
+      }
+    },
+    {
+      "id": "4118b1be0fb9a6c00e3279b764632c90",
+      "name": "Los beneficios de pasar tiempo al aire libre",
+      "language": "es",
+      "thumbnail": "assets/The Benefits Of Spending Time Outdoors.png",
+      "translations": {
+        "en": "b4e3706e64fac75373b52db43a7c603b"
+      }
+    },
+    {
+      "id": "f47199189aa477f0cebe6be13c7691d1",
+      "name": "Tipos de 'feedback'",
+      "language": "es",
+      "thumbnail": "assets/Types Of Feedback.png",
+      "translations": {
+        "en": "57dbd443ea414154f3d6387ff8031cb6"
+      }
+    },
+    {
+      "id": "e1132b6d06e341127495961835542942",
+      "name": "Ingredientes inmunoestimulantes",
+      "language": "es",
+      "thumbnail": "assets/Immunity-Boosting Ingredients.png",
+      "translations": {
+        "en": "e0e231ded3291a1d7e095779be5dca80"
+      }
+    },
+    {
+      "id": "aa5731b4051dd0d7b9ae59bd33662d3d",
+      "name": "Infusiones que ayudan a controlar el peso",
+      "language": "es",
+      "thumbnail": "assets/Herbal Teas That Support Weight Management.png",
+      "translations": {
+        "en": "a8c843214c74ce98359a169211d73c21"
+      }
+    },
+    {
+      "id": "d861259887bfc54873c7e78b2fe9f011",
+      "name": "Por qué los trabajadores de oficina deben preocuparse por la prevención de la artritis",
+      "language": "es",
+      "thumbnail": "assets/Why Desk Workers Should Care About Arthritis Prevention.png",
+      "translations": {
+        "en": "048acffc86ef6ea652fc64a98b9e220c"
+      }
+    },
+    {
+      "id": "c796667ad91b10040ff6587f36ada4f3",
+      "name": "¿a quién afecta la artritis?",
+      "language": "es",
+      "thumbnail": "assets/Who Does Arthritis Affect.png",
+      "translations": {
+        "en": "87267e23ba08e9531cbe1e5b8adfdbce"
+      }
+    },
+    {
+      "id": "27eeed327d2dc7d25f282126cd7212df",
+      "name": "Introducción a la planificación patrimonial",
+      "language": "es",
+      "thumbnail": "assets/Introduction To Estate Planning.png",
+      "translations": {
+        "en": "3b9888134371401bbd096e87c6429896"
+      }
+    },
+    {
+      "id": "7d15a68d22ffb3aef7fa63b29489f158",
+      "name": "Elegir al médico adecuado para el cuidado de la endometriosis",
+      "language": "es",
+      "thumbnail": "assets/Choosing The Right Doctor For Endometriosis Care.png",
+      "translations": {
+        "en": "b86db2057c6afefb1e2771a79957d460"
+      }
+    },
+    {
+      "id": "0c837433f52d94f646d3a2fe98a3df3d",
+      "name": "Endometriosis 101: entendiendo los conceptos básicos",
+      "language": "es",
+      "thumbnail": "assets/Endometriosis 101.png",
+      "translations": {
+        "en": "00ecfe7e3ec4d8a2f5ef45475d14d141"
+      }
+    },
+    {
+      "id": "09dee3e89a235af8f6c9fa3a43fd609e",
+      "name": "Demencia: signos tempranos, factores de riesgo y técnicas de diagnóstico",
+      "language": "es",
+      "thumbnail": "assets/Early Signs & Risk Factors For Dementia.png",
+      "translations": {
+        "en": "f0cef6f8c898fe5b9cc5c857f85f7114"
+      }
+    },
+    {
+      "id": "22faf627ce0f16b4ea34b4f20c2712e2",
+      "name": "Estrategias efectivas de cuidado para la demencia: consejos para cuidadores familiares",
+      "language": "es",
+      "thumbnail": "assets/Effective Caregiving Strategies For Dementia.png",
+      "translations": {
+        "en": "2b330d1de8233ddd63877e004bb11cd7"
+      }
+    },
+    {
+      "id": "c1bffc1d4c2ef43b2bff6410c6774196",
+      "name": "Cómo hablar con seres queridos sobre los signos y síntomas de la demencia",
+      "language": "es",
+      "thumbnail": "assets/How To Talk To Loved Ones About Dementia Signs & Symptoms.png",
+      "translations": {
+        "en": "18087160522252c54c367a8b1a99d1e7"
+      }
+    },
+    {
+      "id": "b8865796dafb3fbf13774742329dc84d",
+      "name": "Comprender el cortisol: una guía sobre sus efectos y manejo",
+      "language": "es",
+      "thumbnail": "assets/A Guide To Cortisol Management & Effects.png",
+      "translations": {
+        "en": "5eeeb84fbfa7888ef8c702d44ed2edb7"
+      }
+    },
+    {
+      "id": "dace6e58734d32d57e706046a977b873",
+      "name": "Cómo manejar tus emociones en respuesta al estrés de las noticias",
+      "language": "es",
+      "thumbnail": "assets/How To Manage Your Emotions In Response To News Stress.png",
+      "translations": {
+        "en": "9cd6a2d6f184a31cd5ca208f57b99df3"
+      }
+    },
+    {
+      "id": "14f70d3f0f4b135676a6d614168d0f03",
+      "name": "10 actividades refrescantes al aire libre para enriquecer tu tiempo de ocio",
+      "language": "es",
+      "thumbnail": "assets/10 Refreshing Outdoor Activities To Elevate Your Leisure Time.png",
+      "translations": {
+        "en": "36a97ca840ee3c6885dc57642f8abfa2"
+      }
+    },
+    {
+      "id": "0f439c4f8be4a378e3c40d0b3812fa62",
+      "name": "Una guía para principiantes de pilates",
+      "language": "es",
+      "thumbnail": "assets/A Beginner's Guide To Pilates.png",
+      "translations": {
+        "en": "c72701fb694caeb1cabdabda25a47ee3"
+      }
+    },
+    {
+      "id": "c3eb273d7c3d02610c1cc73bd18e0c76",
+      "name": "Entrenamiento cardiovascular para un corazón saludable",
+      "language": "es",
+      "thumbnail": "assets/Cardio Workout For A Healthy Heart.png",
+      "translations": {
+        "en": "7862f2f1768577d023a8ba57ddbd4bbb"
+      }
+    },
+    {
+      "id": "56a496add2d00f414e539840af86e461",
+      "name": "El papel crucial del calentamiento y el enfriamiento en el ejercicio: mejorando el rendimiento y reduciendo el riesgo de lesiones",
+      "language": "es",
+      "thumbnail": "assets/Warming Up & Cooling Down In Exercise.png",
+      "translations": {
+        "en": "cf1cb4f1d9942a79c63cc1e290e185fa"
+      }
+    },
+    {
+      "id": "84f86e657efb85bfade666ab74f93eee",
+      "name": "La importancia de la movilidad articular y los ejercicios para un movimiento óptimo",
+      "language": "es",
+      "thumbnail": "assets/The Importance Of Joint Mobility & Exercises For Optimal Movement.png",
+      "translations": {
+        "en": "90fabc0e9969bd951e08aa5f0fe867e7"
+      }
+    },
+    {
+      "id": "37954166d9d374a40d347f9de318c742",
+      "name": "El poder terapéutico del baile",
+      "language": "es",
+      "thumbnail": "assets/The Therapeutic Power Of Dance.png",
+      "translations": {
+        "en": "fa263b0410205aad8018c5e7bf94ee8e"
+      }
+    },
+    {
+      "id": "e7d7c1f1f4fc999e019e465784210cc8",
+      "name": "Prevenir la pérdida muscular con dieta y ejercicio",
+      "language": "es",
+      "thumbnail": "assets/Preventing Muscle Loss With Diet & Exercise.png",
+      "translations": {
+        "en": "a7c622ba7fcbe46577da76c45c2cf714"
+      }
+    },
+    {
+      "id": "af5499586845b8eac72b38af0dfae6fa",
+      "name": "Cómo apoyar la salud del hígado de manera natural",
+      "language": "es",
+      "thumbnail": "assets/How To Support Your Liver Health Naturally.png",
+      "translations": {
+        "en": "4d71358bfddf376d4e1824bfc8ffd12e"
+      }
+    },
+    {
+      "id": "70f590a46ad9d41209e176903801e158",
+      "name": "Comprender el papel de las vitaminas b en la producción de energía",
+      "language": "es",
+      "thumbnail": "assets/Understanding The Role Of B Vitamins In Energy Production.png",
+      "translations": {
+        "en": "9a89956909a4c72b4d485090aca86abf"
+      }
+    },
+    {
+      "id": "ccd9d191a064ae3c1fcd2f34baf7fcbb",
+      "name": "Cómo manejar el reflujo ácido de forma natural",
+      "language": "es",
+      "thumbnail": "assets/How To Manage Acid Reflux Naturally.png",
+      "translations": {
+        "en": "89893855030d74b810d2d314719e5d15"
+      }
+    },
+    {
+      "id": "cbb582264b9253c8f0f11c57cf807585",
+      "name": "Reconocimiento y tratamiento de la anemia por deficiencia de hierro",
+      "language": "es",
+      "thumbnail": "assets/Recognizing & Treating Iron Deficiency Anemia.png",
+      "translations": {
+        "en": "d0a8d4e0ec785556ea255c29c361484a"
+      }
+    },
+    {
+      "id": "acf2f258da9089a56c4125ef388eb930",
+      "name": "Comprender y manejar el hipotiroidismo",
+      "language": "es",
+      "thumbnail": "assets/Understanding & Managing Hypothyroidism.png",
+      "translations": {
+        "en": "f82f4f43d3ce87e97d6fa7d9cc4c35f7"
+      }
+    },
+    {
+      "id": "715ef5762af568cff76a67a33197d37e",
+      "name": "Prevención y manejo de los síntomas del resfriado común",
+      "language": "es",
+      "thumbnail": "assets/Preventing & Managing Common Cold Symptoms.png",
+      "translations": {
+        "en": "1e8c5b196c7187f9d21a62484f665e31"
+      }
+    },
+    {
+      "id": "eb1f5e641ce6125fe72f2f63476492ef",
+      "name": "El papel del magnesio en la salud muscular",
+      "language": "es",
+      "thumbnail": "assets/The Role Of Magnesium In Muscle Health.png",
+      "translations": {
+        "en": "4f77799aa17e2c0d943351a292ca6394"
+      }
+    },
+    {
+      "id": "1e238158a41f487817e5a08e8b4860ee",
+      "name": "Comprender y manejar el asma",
+      "language": "es",
+      "thumbnail": "assets/Understanding & Managing Asthma.png",
+      "translations": {
+        "en": "10fc6c84ce0b226f7d57eac9e096a262"
+      }
+    },
+    {
+      "id": "8467fb6bf3e5b93d7f197d09421b73a4",
+      "name": "Consejos para manejar la fatiga crónica",
+      "language": "es",
+      "thumbnail": "assets/Tips For Managing Chronic Fatigue.png",
+      "translations": {
+        "en": "49e1d0580a2a4e990bd3d247bd8eb6d9"
+      }
+    },
+    {
+      "id": "7c74582999dc79787e27422c5e8f3eba",
+      "name": "Consejos esenciales para una columna vertebral saludable",
+      "language": "es",
+      "thumbnail": "assets/Essential Tips For A Healthy Spine.png",
+      "translations": {
+        "en": "67c6df0cca2a6266e476912ec676491b"
+      }
+    },
+    {
+      "id": "e2d18a2523c215693e3d4ddf4ac0be31",
+      "name": "Maneras de fortalecer tu sistema inmunológico",
+      "language": "es",
+      "thumbnail": "assets/Ways To Boost Your Immune System.png",
+      "translations": {
+        "en": "672454889134c3a9c1a7d89420150276"
+      }
+    },
+    {
+      "id": "900587f556c5f49236cb8a047a76cb74",
+      "name": "Tomando el control de tu salud cardiovascular",
+      "language": "es",
+      "thumbnail": "assets/Taking Charge of Your Cardiovascular Health.png",
+      "translations": {
+        "en": "d1c33af920c5fcd28f15944cdc89be66"
+      }
+    },
+    {
+      "id": "471ba050e0bb2dcbf5952f95c4ac8801",
+      "name": "Un futuro libre de humo para la salud y la felicidad",
+      "language": "es",
+      "thumbnail": "assets/A Smoke-Free Future for Health and Happiness.png",
+      "translations": {
+        "en": "2f070a8f26a661fa0a5f5e3a2d6477e3"
+      }
+    },
+    {
+      "id": "64874d3af84e971938b1cb4b918958f6",
+      "name": "Unidos por un futuro libre de cáncer",
+      "language": "es",
+      "thumbnail": "assets/Uniting For A Cancer-Free Future.png",
+      "translations": {
+        "en": "166e4b0e6586eb569fceab8c6fd2d25f"
+      }
+    },
+    {
+      "id": "e5d81f56b4a701ca55d9751ae84ebad9",
+      "name": "Disfruta del sol de forma segura: consejos para una exposición saludable al sol",
+      "language": "es",
+      "thumbnail": "assets/Safe Sun Exposure Tips For Healthy Skin.png",
+      "translations": {
+        "en": "f394684287f1e884d7c8871adde663ae"
+      }
+    },
+    {
+      "id": "2353c12965ea4dfe2610e6d2a4a19de7",
+      "name": "Nutriendo el eje cerebro-intestino: consejos para una conexión saludable",
+      "language": "es",
+      "thumbnail": "assets/Nurturing The Brain-Gut Axis For Health.png",
+      "translations": {
+        "en": "4d97c802e57c8faefe8218e49c86f62c"
+      }
+    },
+    {
+      "id": "706c182fd3e200d97421c15453732ff1",
+      "name": "Vitamina c: un superalimento para la salud óptima",
+      "language": "es",
+      "thumbnail": "assets/Vitamin C As A Superfood For Health.png",
+      "translations": {
+        "en": "8948f8163ae0c3ec9ee7df87edebe6ec"
+      }
+    },
+    {
+      "id": "ab88008b4f329fda894d0132e3b80782",
+      "name": "Bienestar holístico: cerrando la brecha entre el bienestar físico y mental",
+      "language": "es",
+      "thumbnail": "assets/Bridging Physical & Mental Wellbeing Gap.png",
+      "translations": {
+        "en": "2ac9a53d1df90d01dfa48aeb3b9fce7b"
+      }
+    },
+    {
+      "id": "6407adb4875e2cab30af682db6b2667a",
+      "name": "Cómo afrontar una enfermedad crónica: estrategias para la vida diaria",
+      "language": "es",
+      "thumbnail": "assets/Daily Strategies For Coping With Chronic Illness.png",
+      "translations": {
+        "en": "368c4bb694afcdc25a13ad4e628a4847"
+      }
+    },
+    {
+      "id": "bc1a4e2a73ff47fa97f127a4815707b6",
+      "name": "Guía para principiantes en meditación",
+      "language": "es",
+      "thumbnail": "assets/A Beginner's Guide To Meditation.png",
+      "translations": {
+        "en": "1d7d0ccd8766674ff3d932b09272735e"
+      }
+    },
+    {
+      "id": "b708541a1101ebcd6281478f8e80bdae",
+      "name": "Los beneficios de los granos enteros en tu dieta",
+      "language": "es",
+      "thumbnail": "assets/How Whole Grains Benefit Your Diet.png",
+      "translations": {
+        "en": "94843b3e7e2807e3bb0a9364d96a86c4"
+      }
+    },
+    {
+      "id": "26b5c9f86126f595db05c078d6de6abd",
+      "name": "Cómo reducir la inflamación a través de la dietaa",
+      "language": "es",
+      "thumbnail": "assets/How To Reduce Inflammation Through Diet.png",
+      "translations": {
+        "en": "5c6788e69b7ced024d78fa5a8d5f084c"
+      }
+    },
+    {
+      "id": "22ca0307f75c529a4cd448049d4d7526",
+      "name": "Los beneficios de los alimentos ricos en fibra",
+      "language": "es",
+      "thumbnail": "assets/The Benefits Of High-Fiber Foods.png",
+      "translations": {
+        "en": "9d10b6e92098062b87eb956b3e2e12bc"
+      }
+    },
+    {
+      "id": "2ee06abcdae2b6ca7a1b4e4d23835436",
+      "name": "El papel de la proteína en una dieta saludablee",
+      "language": "es",
+      "thumbnail": "assets/The Role Of Protein In A Healthy Diet.png",
+      "translations": {
+        "en": "d2c614c7f125ab929603b8a0633a47bc"
+      }
+    },
+    {
+      "id": "c7b36bf292bcecb7ce0894e3ed291151",
+      "name": "Los beneficios para la salud de una dieta basada en planta",
+      "language": "es",
+      "thumbnail": "assets/Health Benefits Of A Plant-Based Diet.png",
+      "translations": {
+        "en": "d49f959a38ef2fc0ce9660a103301161"
+      }
+    },
+    {
+      "id": "d521701f876fb1eb3641ab629d76d5bd",
+      "name": "El poder de la nutrición en la menopausia",
+      "language": "es",
+      "thumbnail": "assets/The Power Of Nutrition In Menopause.png",
+      "translations": {
+        "en": "60ab8eba01a426bc0c373fbb32a93387"
+      }
+    },
+    {
+      "id": "7231ff599ea6dda37181d9e76295d3f3",
+      "name": "Carbohidratos: explicación",
+      "language": "es",
+      "thumbnail": "assets/Carbohydrates Explained.png",
+      "translations": {
+        "en": "44c534ac387c3880ecf34f5eb8d2333f"
+      }
+    },
+    {
+      "id": "40832fe862cb9acb7828d0958872106c",
+      "name": "Salud intestinal 101",
+      "language": "es",
+      "thumbnail": "assets/Gut Health 101.png",
+      "translations": {
+        "en": "1c21a534abb1f4e4e3f5635c00ec3a32"
+      }
+    },
+    {
+      "id": "640ecc94080defb440ed886c2d8f5df8",
+      "name": "Comprendiendo la desintoxicación del hígado",
+      "language": "es",
+      "thumbnail": "assets/Understanding Liver Detoxification.png",
+      "translations": {
+        "en": "e8686be5be2fc3814e9c23bcb251e260"
+      }
+    },
+    {
+      "id": "428c906184174c3d20bf7488a508ae04",
+      "name": "Construye tu mejor rutina matutina",
+      "language": "es",
+      "thumbnail": "assets/Build Your Best Morning Routine.png",
+      "translations": {
+        "en": "7803ea3f464b79083a8a96b1d696e262"
+      }
+    },
+    {
+      "id": "debc29f75a80d4b809eaac28bdc31575",
+      "name": "El vínculo inextricable entre el rendimiento y el sueño de calidad",
+      "language": "es",
+      "thumbnail": "assets/The Link Between Performance & Quality Sleep.png",
+      "translations": {
+        "en": "2a92ac09c44a3c3662852d70ae5a9edd"
+      }
+    },
+    {
+      "id": "06449ed94a2dd93f4f6e2d035c1307d7",
+      "name": "Priorizar las relaciones de calidad para una vida plena",
+      "language": "es",
+      "thumbnail": "assets/Prioritizing Quality Relationships For A Fulfilling Life.png",
+      "translations": {
+        "en": "3c08045e294631b7e9e17b26e516a609"
+      }
+    },
+    {
+      "id": "ebbf14be2f8d44c7b299af3280c82a93",
+      "name": "Creación de un entorno amigable para personas con demencia: pasos, consejos y precauciones",
+      "language": "es",
+      "thumbnail": "assets/Creating A Dementia-Friendly Environment.png",
+      "translations": {
+        "en": "6b6eab21b87c5d2ceacec11c2413628a"
+      }
+    },
+    {
+      "id": "af4267b2de679ec2a29e08a2b6bff2ad",
+      "name": "Diabetes tipo 1 en niños",
+      "language": "es",
+      "thumbnail": "assets/T1D In Children.png",
+      "translations": {
+        "en": "af971d75a392abfcaaa87c50d943505c"
+      }
+    },
+    {
+      "id": "7b7061974ac49ccd4e7a5f9b47e95f1d",
+      "name": "Entender la diabetes de tipo 1 y tipo 2",
+      "language": "es",
+      "thumbnail": "assets/T1D vs. T2D.png",
+      "translations": {
+        "en": "47ddb3feb4c481cc513b751ab110810b"
+      }
+    },
+    {
+      "id": "b8d20a66363f0567c2e711748b6987d2",
+      "name": "Comprender la diabetes tipo 2: guía para las familias",
+      "language": "es",
+      "thumbnail": "assets/101 Basics of Type 2 Diabetes.png",
+      "translations": {
+        "en": "f3bdb0ea3fdb5560cb5721e3f9cb8e91"
+      }
+    },
+    {
+      "id": "a54be72cb5e067cc3926c5801bd190e2",
+      "name": "Encontrar claridad cuando no estás contento en el trabajo",
+      "language": "es",
+      "thumbnail": "assets/Finding Clarity When You're Unhappy At Work.png",
+      "translations": {
+        "en": "78865bb35f3dd99ed621058a962d75c4"
+      }
+    },
+    {
+      "id": "f02e6ff566bf27cb2f95757bb080683f",
+      "name": "Cómo apoyar a alguien en crisis",
+      "language": "es",
+      "thumbnail": "assets/How to Support Others in Crisis.png",
+      "translations": {
+        "en": "9b4a21c8bb5cf143cad90f3d7d729b34"
+      }
+    },
+    {
+      "id": "ba4cee334314cbe2d569213c02d8367c",
+      "name": "Primeros auxilios para la salud mental",
+      "language": "es",
+      "thumbnail": "assets/Mental Health First Aid.png",
+      "translations": {
+        "en": "bf8a8f9370e0ca89f13b091cd17cab7d"
+      }
+    },
+    {
+      "id": "315d8a36c2a03c3df229d40c0e773aa8",
+      "name": "Romper el estigma de la salud mental",
+      "language": "es",
+      "thumbnail": "assets/Breaking The Mental Health Stigma.png",
+      "translations": {
+        "en": "fe592c275c730b204185d27d98ac0ef9"
+      }
+    },
+    {
+      "id": "229e14ef0aa4d81f1533e55d86758773",
+      "name": "¿por qué siempre tengo hinchazón",
+      "language": "es",
+      "thumbnail": "assets/Why Am I Always Bloated.png",
+      "translations": {
+        "en": "96d91c18ea503fe9ca2fd3f85e6457bb"
+      }
+    },
+    {
+      "id": "e9392f1091f289c6e78674d1da9ce1ca",
+      "name": "Prevención del deterioro cognitivo en personas mayores",
+      "language": "es",
+      "thumbnail": "assets/Preventing Cognitive Decline for Seniors.png",
+      "translations": {
+        "en": "125132a9742b35efd767a62980f3804f"
+      }
+    },
+    {
+      "id": "4ca8d74ce6f73de90101f578a5cde8f9",
+      "name": "La psicología del envejecimiento con elegancia",
+      "language": "es",
+      "thumbnail": "assets/The Psychology of Aging Gracefully.png",
+      "translations": {
+        "en": "d8c08925a9a6428ca1e1a9528bb628e5"
+      }
+    },
+    {
+      "id": "0d3334e88dc4c61e981c882b80bbe064",
+      "name": "Cultivar la gratitud en la tercera edad",
+      "language": "es",
+      "thumbnail": "assets/Build a Gratitude Practice in Later Life.png",
+      "translations": {
+        "en": "5709c94e6b2e5dc688b81bfabc8df16a"
+      }
+    },
+    {
+      "id": "0c5125d5c6849992641fb7786005fa72",
+      "name": "El sueño y el envejecimiento",
+      "language": "es",
+      "thumbnail": "assets/Sleep and Aging.png",
+      "translations": {
+        "en": "ae3986c20859670fa2d06b80df29c2b1"
+      }
+    },
+    {
+      "id": "7c7ca9c45405eec40e9da3ff34b6c366",
+      "name": "Cómo mantener una vida social a medida que envejecemos",
+      "language": "es",
+      "thumbnail": "assets/How to Stay Social as You Age.png",
+      "translations": {
+        "en": "426d442786030fee7aea9d2756af22f5"
+      }
+    },
+    {
+      "id": "8647d5c28c3787ea98d4545b99c1971a",
+      "name": "Prácticas de alimentación consciente",
+      "language": "es",
+      "thumbnail": "assets/Mindful Eating Practices.png",
+      "translations": {
+        "en": "8c01ee1cc62c2a78fea41fb360f8c5ca"
+      }
+    },
+    {
+      "id": "4bd4e23c9acfd4f5cadee9c699b7792e",
+      "name": "Cuándo buscar ayuda profesional o de emergencia para la salud mental",
+      "language": "es",
+      "thumbnail": "assets/When To Seek Professional Or Emergency Help for Mental Health.png",
+      "translations": {
+        "en": "f92259e3bcdf606a555576f3385bfb44"
+      }
+    },
+    {
+      "id": "eace8227bf5a08dea078a415604bd25c",
+      "name": "Consejos para una piel sana y luminosa",
+      "language": "es",
+      "thumbnail": "assets/Tips For Healthy, Glowing Skin.png",
+      "translations": {
+        "en": "d67a13291a6f3b05eac735bff1e587cc"
+      }
+    },
+    {
+      "id": "ed2cce18ee1e7fc799f8f2b73a490925",
+      "name": "Inmunizaciones: protegiendo tu salud y la de tu comunidad",
+      "language": "es",
+      "thumbnail": "assets/Protecting Health & Community With Immunizations.png",
+      "translations": {
+        "en": "568d8211bdcdbf6a16a5fd40d5fad88b"
+      }
+    },
+    {
+      "id": "072474e41eb365c1af06aa82fd4eb605",
+      "name": "Cómo influye tu percepción de la salud en los niveles de estrés",
+      "language": "es",
+      "thumbnail": "assets/How Your Health Perception Impacts Stress Levels.png",
+      "translations": {
+        "en": "b7c78cc629ae942b0fce66c5d9482b51"
+      }
+    },
+    {
+      "id": "66e78ac321f6a129f96f1fd1cbb5f8be",
+      "name": "Cómo la percepción da forma a la realidad de tu salud",
+      "language": "es",
+      "thumbnail": "assets/How Perception Shapes Your Health Reality.png",
+      "translations": {
+        "en": "ea14360ef204f0da5b542740227887eb"
+      }
+    },
+    {
+      "id": "25a9377660df3a9b11e5ff5c257ddff9",
+      "name": "Con qué frecuencia te mueves cuando estás sentado y por qué es importante",
+      "language": "es",
+      "thumbnail": "assets/How Often You Might Move When Seated and Why It Matters.png",
+      "translations": {
+        "en": "ca4f79d2c5e702e7c09fd3ecf174931c"
+      }
+    },
+    {
+      "id": "753c43c99755d500361df57cfb03c0ab",
+      "name": "Cómo puede afectar el alcohol a tu sueño, estado de ánimo y productividad",
+      "language": "es",
+      "thumbnail": "assets/How Alcohol Affects Your Sleep, Mood, and Productivity.png",
+      "translations": {
+        "en": "9b56333806c364b6ece030511e5de538"
+      }
+    },
+    {
+      "id": "6bb8af91b3a9aebd124875b73e828ac0",
+      "name": "Cómo puede afectar el alcohol a la ansiedad",
+      "language": "es",
+      "thumbnail": "assets/How Alcohol May Affect Anxiety.png",
+      "translations": {
+        "en": "e4d4f36e02adca54ecb35faf400543cf"
+      }
+    },
+    {
+      "id": "ca76197f558bf973dbb2144a94a2edfc",
+      "name": "Comprender los desencadenantes emocionales que rodean a la bebida y el alcoholismo",
+      "language": "es",
+      "thumbnail": "assets/Understanding the Emotional Triggers Behind Drinking.png",
+      "translations": {
+        "en": "ed7b274eb9bf864a4a542bf4fe218afa"
+      }
+    },
+    {
+      "id": "bca43583adf973241901d20c4c3b4153",
+      "name": "¿el alcohol está alterando tu claridad mental?",
+      "language": "es",
+      "thumbnail": "assets/Is Alcohol Disrupting Your Mental Clarity.png",
+      "translations": {
+        "en": "c7ca34629f77dc9df3cec9c774a808c7"
+      }
+    },
+    {
+      "id": "6be1461ef53e63f2c3432cdfc58ed4d0",
+      "name": "Crear límites en torno al alcohol en un entorno social",
+      "language": "es",
+      "thumbnail": "assets/Creating Boundaries with Alcohol in Social Settings.png",
+      "translations": {
+        "en": "d94a704858a6b4e1367925d0aeca8b70"
+      }
+    },
+    {
+      "id": "f21ffffca0539adb089fa2595d0751e2",
+      "name": "Vida sin alcohol y conceptos erróneos frente a la realidad",
+      "language": "es",
+      "thumbnail": "assets/Alcohol-Free Living- Misconceptions vs. Reality.png",
+      "translations": {
+        "en": "c10a232cd0bed7af1b30a2685d438806"
+      }
+    },
+    {
+      "id": "f68f2c7dbbedd30f79c8e67cf2e244b6",
+      "name": "Diferentes tipos de trauma",
+      "language": "es",
+      "thumbnail": "assets/Understanding The Different Types of Trauma.png",
+      "translations": {
+        "en": "6c758b0f8af38b6ec4434a53d984cb27"
+      }
+    },
+    {
+      "id": "9b6ca25ba4c3bf71de1489bb2c957a36",
+      "name": "Cómo el trauma infantil puede aparecer en la vida adulta",
+      "language": "es",
+      "thumbnail": "assets/How Childhood Trauma Shows Up in Adult Life.png",
+      "translations": {
+        "en": "46cc4619f1b4688df248917cf71ad6f1"
+      }
+    },
+    {
+      "id": "963d1d1261dd699a5cb3a8b994bd087f",
+      "name": "Consejos para ayudar a un ser querido a superar un trauma",
+      "language": "es",
+      "thumbnail": "assets/Tips for Supporting a Loved One Through Trauma.png",
+      "translations": {
+        "en": "8b4fc44f8be223ecf599d77f2c305229"
+      }
+    },
+    {
+      "id": "d37bfcb10e176716f85856a4b685b449",
+      "name": "Creación de herramientas personales para la recuperación un trauma",
+      "language": "es",
+      "thumbnail": "assets/How to Build a Personal Coping Toolkit for Trauma Recovery.png",
+      "translations": {
+        "en": "cab857e3d26f16443e25e8060d409b11"
+      }
+    },
+    {
+      "id": "ed83acc428ddf268930459a35ccdce77",
+      "name": "Mitos sobre el chequeo médico",
+      "language": "es",
+      "thumbnail": "assets/Health Screening Myths.png",
+      "translations": {
+        "en": "bb93286f973e91be6b1c6b58ba02aee2"
+      }
+    },
+    {
+      "id": "27fcc0becad65a069b4457ff1998087a",
+      "name": "Cómo prepararse para un cribado cardíaco",
+      "language": "es",
+      "thumbnail": "assets/How to Prepare for a Cardiac Screening.png",
+      "translations": {
+        "en": "01eb038d5a6ada55db0c609ac35c2f0e"
+      }
+    },
+    {
+      "id": "56b1b7368b80e805c76d0484da150a5d",
+      "name": "Minimizar la exposición al polen en el hogar",
+      "language": "es",
+      "thumbnail": "assets/Minimizing Exposure to Pollen at Home.png",
+      "translations": {
+        "en": "cfcb75d5106748e220c6342b86105a31"
+      }
+    },
+    {
+      "id": "e1195658dac53c4f70d0a377449ff772",
+      "name": "Cómo reacciona el sistema inmunitario al polen",
+      "language": "es",
+      "thumbnail": "assets/How the Immune System Reacts to Pollen.png",
+      "translations": {
+        "en": "c719dc5a91a77c6c876dc392be5a4327"
+      }
+    },
+    {
+      "id": "02c3689bc9e006291eafacb37857b541",
+      "name": "Cómo crear un hogar seguro para alérgicos graves",
+      "language": "es",
+      "thumbnail": "assets/Creating an Allergy-Safe Home For Those With Severe Allergies.png",
+      "translations": {
+        "en": "cc8e0d506b176cbbf2505acdc9f22a45"
+      }
+    },
+    {
+      "id": "3f6176b8fc314de410fc3cc65300d4d8",
+      "name": "Consejos para ayudar a un ser querido con ansiedad",
+      "language": "es",
+      "thumbnail": "assets/Tips for Supporting a Loved One With Anxiety.png",
+      "translations": {
+        "en": "b8a3dd2cf68356747ffba20cac008fdc"
+      }
+    },
+    {
+      "id": "483c93ee21e5b8c5934ea01a2de3cc9f",
+      "name": "Reconocer la ansiedad antes de que se agrave",
+      "language": "es",
+      "thumbnail": "assets/Recognizing Anxiety Before It Escalates.png",
+      "translations": {
+        "en": "b1bc7dce53a6fc7bd755e9dd0d7431fa"
+      }
+    },
+    {
+      "id": "a36b2a21d149aa891a2ed79fecb9bec2",
+      "name": "Mitos y verdades sobre la ansiedad",
+      "language": "es",
+      "thumbnail": "assets/Debunking Common Anxiety Myths with Facts.png",
+      "translations": {
+        "en": "949dd21ced81421b97e6b0f87f4160fa"
+      }
+    },
+    {
+      "id": "377280b3e92e5e3abe97f820b9186dd6",
+      "name": "Consideraciones para apoyar a un ser querido con trastorno de estrés postraumático",
+      "language": "es",
+      "thumbnail": "assets/Considerations for Supporting a Loved One With PTSD.png",
+      "translations": {
+        "en": "c9d1262221b4e18831d276e41658c37f"
+      }
+    },
+    {
+      "id": "2924d7c5829487e365699cf03aa33da5",
+      "name": "Comprender las ideas erróneas sobre el suicidio",
+      "language": "es",
+      "thumbnail": "assets/Common Misconceptions About Suicide.png",
+      "translations": {
+        "en": "1d4e94eb1aa8afdc0b30e304a42e4d2b"
+      }
+    },
+    {
+      "id": "5eae0d7debf0cf3da216763e3847c124",
+      "name": "Comprender el índice de apnea-hipopnea y cómo se utiliza",
+      "language": "es",
+      "thumbnail": "assets/Understanding the Apnea-Hypopnea Index.png",
+      "translations": {
+        "en": "412472fe822481f832f9120b0c9aebda"
+      }
+    },
+    {
+      "id": "7bffa64afb27afc77c375a4d31a598ac",
+      "name": "Qué es la satisfacción vital y por qué es importante",
+      "language": "es",
+      "thumbnail": "assets/What Is Life Satisfaction and Why It Matters.png",
+      "translations": {
+        "en": "e7a3b9c8f4d14299a5cb7c9e2341b820"
+      }
+    },
+    {
+      "id": "f02d2d32ebf3cddd1354058ee689e38b",
+      "name": "Todo lo que necesitas saber sobre los entrenamientos de la parte inferior del cuerpo",
+      "language": "es",
+      "thumbnail": "assets/Everything You Need to Know About Lower Body Workouts.png",
+      "translations": {
+        "en": "a13fd77f916f4bc394f6d3c07e2783e2"
+      }
+    },
+    {
+      "id": "f0db86ea51d13b83032d8a51f0162a9b",
+      "name": "La conexión mente-cuerpo: cómo la nutrición apoya la salud mental",
+      "language": "es",
+      "thumbnail": "assets/How Nutrition Supports Better Mental Health.png",
+      "translations": {
+        "en": "c58b32ef1a7a42c7b2feaf88fadcba5a"
+      }
+    },
+    {
+      "id": "0013ccddd1e5bea301ebcb676aa30b2b",
+      "name": "La importancia de tomar descansos para mejorar la productividad y la salud mental",
+      "language": "es",
+      "thumbnail": "assets/Why Breaks Boost Productivity & Mental Health.png",
+      "translations": {
+        "en": "61d4c7f3cda54c6e84a67ec94092cb8b"
+      }
+    },
+    {
+      "id": "01652d63f62373d8e5c563bd04ce4b60",
+      "name": "Combinando dieta y GLP-1 para una salud óptima",
+      "language": "es",
+      "thumbnail": "assets/Combining Diet & GLP-1 For Optimal Health.png",
+      "translations": {
+        "en": "f923ea4198454b0aa5adbbf89b5d6ec7"
+      }
+    },
+    {
+      "id": "18c4142538de15ba7a1003103ebf9f78",
+      "name": "El función del GLP-1 en el manejo de la diabetes",
+      "language": "es",
+      "thumbnail": "assets/The Role of GLP-1 in Diabetes Management.png",
+      "translations": {
+        "en": "c719dc5a91a77c6c876dc392be5a4321"
       }
     }
   ],
