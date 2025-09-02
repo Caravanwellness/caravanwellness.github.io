@@ -1,18 +1,11 @@
 name: Claude Code
 
 on:
-  # 1) Auto-review PRs
+  # Auto-review PRs
   pull_request:
     types: [opened, synchronize, reopened]
 
-  # 2) Run on pushes to main (optional)
-  push:
-    branches: [main]
-
-  # 3) Manual run from Actions tab
-  workflow_dispatch:
-
-  # 4) Optional: react to /claude comments on issues/PRs
+  # Optional: react to /claude comments on issues/PRs
   issue_comment:
     types: [created]
 
@@ -37,23 +30,7 @@ jobs:
             --max-turns 12
             --model claude-3-5-sonnet-20240620
 
-  push_review:
-    if: github.event_name == 'push'
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Claude Code Action (push to main)
-        uses: anthropics/claude-code-action@v1
-        with:
-          prompt: "Summarize this push and flag risky changes (security/performance). Suggest follow-up tasks or tests."
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
-          claude_args: |
-            --system-prompt "Focus on CI/CD, security, and maintainability. Keep it practical."
-            --max-turns 8
-            --model claude-3-5-sonnet-20240620
-
   comment_commands:
-    # Only run when a new comment is created AND it begins with '/claude'
     if: >
       github.event_name == 'issue_comment' &&
       startsWith(github.event.comment.body, '/claude')
@@ -63,7 +40,6 @@ jobs:
       - name: Claude Code Action (comment command)
         uses: anthropics/claude-code-action@v1
         with:
-          # Pass the whole comment to Claude; it will see context from the thread/PR.
           prompt: "${{ github.event.comment.body }}"
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           claude_args: |
