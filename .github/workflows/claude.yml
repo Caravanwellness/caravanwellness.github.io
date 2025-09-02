@@ -1,0 +1,20 @@
+name: Claude Code
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Claude Code Action Official
+        uses: anthropics/claude-code-action@v1
+        with:
+          prompt: "Review this PR for bugs and style issues"
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: |
+            --system-prompt "Adhere to project coding standards"
+            --max-turns 10
+            --model claude-3-5-sonnet-20240620
