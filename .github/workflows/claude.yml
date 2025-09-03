@@ -1,11 +1,8 @@
 name: Claude Code
 
 on:
-  # Auto-review PRs
   pull_request:
     types: [opened, synchronize, reopened]
-
-  # Optional: react to /claude comments on issues/PRs
   issue_comment:
     types: [created]
 
@@ -13,6 +10,7 @@ permissions:
   contents: read
   pull-requests: write
   issues: write
+  id-token: write   # <-- REQUIRED for OIDC
 
 jobs:
   pr_review:
