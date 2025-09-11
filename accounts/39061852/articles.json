@@ -10,7 +10,7 @@
       },
       "tags": [
         "sleep quality",
-        "mental health", 
+        "mental health",
         "productivity",
         "wellness",
         "alcohol effects",
@@ -1603,7 +1603,19 @@
       "thumbnail": "assets/Understanding The Stress Continuum.png",
       "translations": {
         "es": "31e5303e58ef4cfbb00bad7f2dc1fddb"
-      }
+      },
+      "tags": [
+        "stress management",
+        "mental health",
+        "stress continuum",
+        "emotional wellbeing",
+        "stress awareness",
+        "coping strategies",
+        "psychological framework",
+        "stress levels",
+        "personal awareness",
+        "support systems"
+      ]
     },
     {
       "id": "80cd1983a95714dd9dd5bda5e02a3955",
@@ -1612,7 +1624,19 @@
       "thumbnail": "assets/De-Stressing With Your Five Senses.png",
       "translations": {
         "es": "6291667c4a4741bba25e28ab668e2ed6"
-      }
+      },
+      "tags": [
+        "sensory mindfulness",
+        "stress relief",
+        "grounding techniques",
+        "mindfulness",
+        "relaxation methods",
+        "present moment awareness",
+        "anxiety reduction",
+        "mindful practices",
+        "meditation techniques",
+        "mental wellness"
+      ]
     },
     {
       "id": "61ecdeaede9b33483bce0c24d7e1c9db",
@@ -1621,7 +1645,19 @@
       "thumbnail": "assets/Meditation To Reduce Stress & Anxiety.png",
       "translations": {
         "es": "a18acde2b15b4be38521e9543ec15f33"
-      }
+      },
+      "tags": [
+        "meditation",
+        "mindfulness",
+        "stress reduction",
+        "anxiety relief",
+        "emotional regulation",
+        "brain health",
+        "mental wellness",
+        "neuroscience",
+        "mind body connection",
+        "resilience building"
+      ]
     },
     {
       "id": "bb00c7c1192bcab102122f7aa0171c38",
@@ -1630,7 +1666,19 @@
       "thumbnail": "assets/Exploring Different Types Of Meditation.png",
       "translations": {
         "es": "bc082135ca3e491e85bab50d0319a9a4"
-      }
+      },
+      "tags": [
+        "meditation",
+        "mindfulness",
+        "stress reduction",
+        "mental health",
+        "breathing techniques",
+        "body awareness",
+        "concentration",
+        "visualization",
+        "relaxation",
+        "wellness practices"
+      ]
     },
     {
       "id": "d875e8ad5356485d8b2a5542cc1f160f",
@@ -1639,7 +1687,19 @@
       "thumbnail": "assets/Strategies For Living Fully In The Moment.png",
       "translations": {
         "es": "7c485d3963b345c68d31eb8931aacd91"
-      }
+      },
+      "tags": [
+        "mindfulness",
+        "present moment",
+        "flow state",
+        "active observation",
+        "emotional awareness",
+        "deep breathing",
+        "mindful movement",
+        "stress reduction",
+        "intentional living",
+        "wellness practices"
+      ]
     },
     {
       "id": "af04f409b5852d617ce995a34b9dd66c",
@@ -1648,7 +1708,19 @@
       "thumbnail": "assets/Understanding Mindfulness.png",
       "translations": {
         "es": "525f3fe490e540d2a388e04a0c2b05de"
-      }
+      },
+      "tags": [
+        "mindfulness",
+        "meditation",
+        "present moment awareness",
+        "stress reduction",
+        "mental health",
+        "Buddhism",
+        "concentration",
+        "emotional regulation",
+        "wellness",
+        "self awareness"
+      ]
     },
     {
       "id": "dab8e58db46b4946b17160df456b17e2",
@@ -1657,7 +1729,19 @@
       "thumbnail": "assets/Breathwork For Mental Clarity & Refocus.png",
       "translations": {
         "es": "98b66fd169a0425190a53df19f59b89b"
-      }
+      },
+      "tags": [
+        "breathwork",
+        "mental clarity",
+        "focus",
+        "stress reduction",
+        "anxiety management",
+        "breathing techniques",
+        "mindfulness",
+        "nervous system",
+        "cognitive function",
+        "wellness practices"
+      ]
     },
     {
       "id": "134e15df4f89bff6f76711e76f5a6048",
@@ -1666,7 +1750,19 @@
       "thumbnail": "assets/Finding Peace In The Present Moment.png",
       "translations": {
         "es": "0e0bab535d6141f1a6e6d5107e2677b1"
-      }
+      },
+      "tags": [
+        "meditation",
+        "present moment",
+        "daily routine",
+        "mindfulness",
+        "stress reduction",
+        "sleep quality",
+        "gratitude",
+        "emotional wellbeing",
+        "mental health",
+        "wellness practices"
+      ]
     },
     {
       "id": "3352876f0736f1d19f18ab8907d75c49",
@@ -1675,7 +1771,19 @@
       "thumbnail": "assets/The Benefits Of Mindful Breathing.png",
       "translations": {
         "es": "b1697cb78c354472a2f22b7dcb93294b"
-      }
+      },
+      "tags": [
+        "mindful breathing",
+        "digestive health",
+        "pain management",
+        "blood pressure",
+        "self awareness",
+        "mental clarity",
+        "stress reduction",
+        "cardiovascular health",
+        "physical health",
+        "wellness practices"
+      ]
     },
     {
       "id": "e3619d508e5558b17b731409fb649b1d",
@@ -1684,7 +1792,19 @@
       "thumbnail": "assets/Anger Management & Meditation.png",
       "translations": {
         "es": "dd8edbc79cd14bc8b6d82c1b34d2709d"
-      }
+      },
+      "tags": [
+        "anger management",
+        "meditation",
+        "emotional regulation",
+        "stress response",
+        "mindfulness",
+        "self control",
+        "mental health",
+        "self awareness",
+        "cortisol",
+        "emotional wellbeing"
+      ]
     },
     {
       "id": "4b30848ad9a7e3685b0b61ee99649157",
@@ -1693,7 +1813,19 @@
       "thumbnail": "assets/Exploring The Benefits Of Body Scan Meditation.png",
       "translations": {
         "es": "eafd60318098490aa7ffb36613fb8029"
-      }
+      },
+      "tags": [
+        "body scan meditation",
+        "mind body connection",
+        "self awareness",
+        "pain management",
+        "stress reduction",
+        "sleep quality",
+        "emotional wellbeing",
+        "mindfulness",
+        "present moment",
+        "wellness practices"
+      ]
     },
     {
       "id": "b92177cfe26042e59a0514e324030f47",
@@ -1702,7 +1834,19 @@
       "thumbnail": "assets/Understanding & Coping With Post-Traumatic Stress Disorder.png",
       "translations": {
         "es": "6c22472e634e43c8b87b8e6aacad182f"
-      }
+      },
+      "tags": [
+        "PTSD",
+        "trauma recovery",
+        "mental health",
+        "flashbacks",
+        "hyperarousal",
+        "therapy",
+        "support systems",
+        "mindfulness",
+        "lifestyle habits",
+        "emotional healing"
+      ]
     },
     {
       "id": "e90035ce09654260b7250eaeb8075d40",
@@ -1711,7 +1855,19 @@
       "thumbnail": "assets/Healthy Sleeping Habits For A Better Rest.png",
       "translations": {
         "es": "0b33bf044f9e46fb83d704d806bf8dd1"
-      }
+      },
+      "tags": [
+        "sleep hygiene",
+        "sleep quality",
+        "circadian rhythm",
+        "bedtime routine",
+        "screen time",
+        "stress management",
+        "physical activity",
+        "sleep environment",
+        "wellness habits",
+        "mental health"
+      ]
     },
     {
       "id": "678dc48674c4400bb1acc34f06cec13a",
@@ -1720,7 +1876,19 @@
       "thumbnail": "assets/Snoring vs. Sleep Apnea.png",
       "translations": {
         "es": "7ff2be6f915c40468ee6225ef823bf1e"
-      }
+      },
+      "tags": [
+        "sleep apnea",
+        "snoring",
+        "sleep disorders",
+        "breathing problems",
+        "airway obstruction",
+        "CPAP therapy",
+        "sleep quality",
+        "cardiovascular health",
+        "nasal congestion",
+        "medical treatment"
+      ]
     },
     {
       "id": "9418deb606bf4a708ce3659ce6a335ab",
@@ -1729,7 +1897,19 @@
       "thumbnail": "assets/Understanding The Importance Of Melatonin.png",
       "translations": {
         "es": "e5f4fe5eb8b545879784d65c19c01fd1"
-      }
+      },
+      "tags": [
+        "melatonin",
+        "circadian rhythm",
+        "sleep wake cycle",
+        "blue light",
+        "pineal gland",
+        "sleep quality",
+        "screen time",
+        "natural sleep",
+        "hormonal balance",
+        "sleep hygiene"
+      ]
     },
     {
       "id": "3a344cfa5aa14002889625b9f4c3c818",
@@ -1738,7 +1918,19 @@
       "thumbnail": "assets/The Stages Of Sleep.png",
       "translations": {
         "es": "dc6094ff2cdd49c89e24b15543bae44e"
-      }
+      },
+      "tags": [
+        "sleep stages",
+        "REM sleep",
+        "deep sleep",
+        "sleep cycle",
+        "brain waves",
+        "memory consolidation",
+        "physical recovery",
+        "emotional regulation",
+        "sleep science",
+        "restorative sleep"
+      ]
     },
     {
       "id": "46876913b71b40a286859b0e4bd6505a",
@@ -1747,7 +1939,19 @@
       "thumbnail": "assets/10 Signs Of Healthy Sleep.png",
       "translations": {
         "es": "7486d21d48c247809adf50cc2a817738"
-      }
+      },
+      "tags": [
+        "healthy sleep",
+        "sleep quality",
+        "sleep assessment",
+        "sleep patterns",
+        "sleep duration",
+        "daytime energy",
+        "mood regulation",
+        "sleep environment",
+        "sleep hygiene",
+        "wellness indicators"
+      ]
     },
     {
       "id": "8fc6f244e37240dba4221116b944d0c2",
@@ -1756,7 +1960,19 @@
       "thumbnail": "assets/Unlocking Optimal Sleep Quality Through REM Sleep.png",
       "translations": {
         "es": "2174330a664449eda5b567fd2e928d7a"
-      }
+      },
+      "tags": [
+        "REM sleep",
+        "sleep quality",
+        "memory consolidation",
+        "emotional processing",
+        "sleep cycle",
+        "circadian rhythm",
+        "bedtime routine",
+        "sleep environment",
+        "dream sleep",
+        "cognitive function"
+      ]
     },
     {
       "id": "f52bf271ce1b4319b321275726ddf566",
@@ -1765,7 +1981,19 @@
       "thumbnail": "assets/Sleep Hygiene.png",
       "translations": {
         "es": "16152eb45da74bf98ed3b7d88c34bfb0"
-      }
+      },
+      "tags": [
+        "sleep hygiene",
+        "sleep environment",
+        "blue light",
+        "screen time",
+        "room temperature",
+        "sleep quality",
+        "bedtime routine",
+        "sleep habits",
+        "wellness practices",
+        "restorative sleep"
+      ]
     },
     {
       "id": "c4c85f6e97861882cabf4ffc324cc8b0",
@@ -1774,7 +2002,19 @@
       "thumbnail": "assets/Nutrition for Sleep.png",
       "translations": {
         "es": "09fecbfb465548f6a8cc3d199ab7b45d"
-      }
+      },
+      "tags": [
+        "sleep nutrition",
+        "evening meals",
+        "sleep promoting foods",
+        "bedtime snacks",
+        "dietary habits",
+        "nutrition",
+        "sleep quality",
+        "relaxation",
+        "healthy eating",
+        "wellness practices"
+      ]
     },
     {
       "id": "34c16231e9fb116afc7ffdca416e436a",
@@ -1783,7 +2023,19 @@
       "thumbnail": "assets/Sleep Secrets For A Restful Night.png",
       "translations": {
         "es": "22b1f45eb6b7451e875d617abc90979d"
-      }
+      },
+      "tags": [
+        "sleep tips",
+        "sleep quality",
+        "daily habits",
+        "restful sleep",
+        "sleep improvement",
+        "wellness habits",
+        "sleep strategies",
+        "bedtime routine",
+        "sleep hygiene",
+        "mental health"
+      ]
     },
     {
       "id": "fc2b7adccd1b4caff49ee25854e1bfd9",
@@ -1792,7 +2044,19 @@
       "thumbnail": "assets/How Smoking & Vaping Affect Oral Health.png",
       "translations": {
         "es": "a7d941d036e013098e861f65a93c4c23"
-      }
+      },
+      "tags": [
+        "oral health",
+        "smoking",
+        "vaping",
+        "gum disease",
+        "dental health",
+        "tooth loss",
+        "tobacco effects",
+        "dental care",
+        "health risks",
+        "preventive care"
+      ]
     },
     {
       "id": "bd35add475d113c8995d9778be5d6cfa",
@@ -1801,7 +2065,19 @@
       "thumbnail": "assets/Myths Vs. Facts Of Vaping.png",
       "translations": {
         "es": "3b2696a84fb94a6ab488b5c1b7d8ed5a"
-      }
+      },
+      "tags": [
+        "vaping",
+        "health myths",
+        "tobacco research",
+        "smoking cessation",
+        "health facts",
+        "nicotine",
+        "public health",
+        "harm reduction",
+        "e cigarettes",
+        "health education"
+      ]
     },
     {
       "id": "b5572b56e7c5927cfe27c15ac13765b4",
@@ -1810,7 +2086,19 @@
       "thumbnail": "assets/Understanding The Science Behind Nicotine Cravings.png",
       "translations": {
         "es": "5154236eb91c46be82c33ef475306b19"
-      }
+      },
+      "tags": [
+        "nicotine cravings",
+        "brain chemistry",
+        "addiction science",
+        "neurological factors",
+        "nicotine dependency",
+        "smoking cessation",
+        "withdrawal symptoms",
+        "behavioral addiction",
+        "neurotransmitters",
+        "substance abuse"
+      ]
     },
     {
       "id": "ea9619cb6b09db698003c760ea086846",
@@ -1819,7 +2107,19 @@
       "thumbnail": "assets/Strategies For Handling Triggers During Smoking Cessation.png",
       "translations": {
         "es": "9b08803e467545a5b826faf459a9bef2"
-      }
+      },
+      "tags": [
+        "smoking cessation",
+        "trigger management",
+        "cravings",
+        "breathing techniques",
+        "mindfulness",
+        "SMART goals",
+        "healthy alternatives",
+        "behavioral change",
+        "addiction recovery",
+        "coping strategies"
+      ]
     },
     {
       "id": "78d40ba9a4a995abb9101441b6bc2e91",
@@ -1828,7 +2128,19 @@
       "thumbnail": "assets/Tips For Talking To Your Doctor About Quitting Smoking.png",
       "translations": {
         "es": "9800b826d7354593abf1303f0b3dda25"
-      }
+      },
+      "tags": [
+        "smoking cessation",
+        "healthcare communication",
+        "doctor consultation",
+        "medical support",
+        "quit smoking",
+        "treatment options",
+        "nicotine replacement",
+        "healthcare provider",
+        "medical advice",
+        "patient advocacy"
+      ]
     },
     {
       "id": "f9271203a3d38a26fb6bee0c34a1c24c",
@@ -1837,7 +2149,19 @@
       "thumbnail": "assets/The Effects Of Second-Hand Smoke On Others.png",
       "translations": {
         "es": "9929eaac991a3a48aa3a6d57ed555058"
-      }
+      },
+      "tags": [
+        "secondhand smoke",
+        "passive smoking",
+        "family health",
+        "smoke free environment",
+        "public health",
+        "environmental tobacco",
+        "health risks",
+        "community health",
+        "tobacco exposure",
+        "protective measures"
+      ]
     },
     {
       "id": "a70dcfef27b5ae66da381a525c674deb",
@@ -1846,7 +2170,19 @@
       "thumbnail": "assets/The Link Between Smoking & Chronic Diseases.png",
       "translations": {
         "es": "6376d25958e84eaa900f98f79edeffd7"
-      }
+      },
+      "tags": [
+        "smoking",
+        "chronic diseases",
+        "cardiovascular disease",
+        "respiratory disease",
+        "health risks",
+        "disease prevention",
+        "tobacco effects",
+        "long term health",
+        "medical complications",
+        "public health"
+      ]
     },
     {
       "id": "7b17717097b5b90fbdd2f7cc71e45b30",
@@ -1855,7 +2191,19 @@
       "thumbnail": "assets/The Connection Between Smoking & Sleep Issues.png",
       "translations": {
         "es": "e8dd264cc73e4117bb043fb4b50dd04b"
-      }
+      },
+      "tags": [
+        "smoking",
+        "sleep quality",
+        "sleep disorders",
+        "nicotine effects",
+        "sleep disruption",
+        "insomnia",
+        "tobacco effects",
+        "sleep health",
+        "circadian rhythm",
+        "wellness"
+      ]
     },
     {
       "id": "c74a7612ce6db7c1362e30afc6c28d12",
@@ -1864,7 +2212,19 @@
       "thumbnail": "assets/Nutrition Tips for Healthy Weight Management.png",
       "translations": {
         "es": "3ae5f4ea0d9b47afb376c96098eda5ab"
-      }
+      },
+      "tags": [
+        "nutrition",
+        "weight management",
+        "healthy eating",
+        "dietary habits",
+        "sustainable nutrition",
+        "wellness",
+        "meal planning",
+        "balanced diet",
+        "lifestyle habits",
+        "health education"
+      ]
     },
     {
       "id": "e1e350922149975c3ccd8ce6e9e46151",
@@ -1873,7 +2233,19 @@
       "thumbnail": "assets/The Secret To Body Positivity.png",
       "translations": {
         "es": "53fcfa39a62d4af9b6bec6e02171ca10"
-      }
+      },
+      "tags": [
+        "body positivity",
+        "self acceptance",
+        "confidence building",
+        "mental health",
+        "self esteem",
+        "body image",
+        "emotional wellbeing",
+        "self love",
+        "psychological health",
+        "wellness mindset"
+      ]
     },
     {
       "id": "faac3498248e667951e8fcfcf7295f8e",
@@ -1882,7 +2254,19 @@
       "thumbnail": "assets/Cultivating a Positive Mindset for Weight Management.png",
       "translations": {
         "es": "67fc596aecc5417aaaf4c97c4c27c3c1"
-      }
+      },
+      "tags": [
+        "positive mindset",
+        "weight management",
+        "self compassion",
+        "behavioral change",
+        "mental health",
+        "wellness psychology",
+        "sustainable habits",
+        "body relationship",
+        "mindful eating",
+        "emotional health"
+      ]
     },
     {
       "id": "f00776e100fe74e93217b3e3924351c1",
@@ -1891,7 +2275,19 @@
       "thumbnail": "assets/How Weight Loss Boosts Overall Health.png",
       "translations": {
         "es": "e53fa471789e469d9faea6d13959628f"
-      }
+      },
+      "tags": [
+        "weight loss",
+        "overall health",
+        "cardiovascular health",
+        "respiratory health",
+        "cognitive health",
+        "wellness benefits",
+        "health improvement",
+        "physical fitness",
+        "metabolic health",
+        "quality of life"
+      ]
     },
     {
       "id": "05f5921b6ddb2bf384d1e9bab448206f",
@@ -1900,7 +2296,19 @@
       "thumbnail": "assets/How Sleep Is Crucial for Weight Management.png",
       "translations": {
         "es": "ce000dc00a2c4924b08150697019c593"
-      }
+      },
+      "tags": [
+        "sleep",
+        "weight management",
+        "metabolic health",
+        "sleep quality",
+        "weight loss",
+        "hormonal balance",
+        "circadian rhythm",
+        "wellness",
+        "healthy lifestyle",
+        "sleep hygiene"
+      ]
     },
     {
       "id": "251db41932b00b39dfb915f7d6c15d14",
@@ -1909,16 +2317,40 @@
       "thumbnail": "assets/Managing Appetite Changes on GLP-1.png",
       "translations": {
         "es": "130235f18cd14ed2aea99cf4997cf018"
-      }
+      },
+      "tags": [
+        "GLP-1",
+        "appetite management",
+        "medication effects",
+        "weight management",
+        "diabetes medication",
+        "appetite changes",
+        "medication adaptation",
+        "health management",
+        "medical treatment",
+        "dietary adjustments"
+      ]
     },
     {
       "id": "862ca1f4b0bcd582f0bcf84214ef01cb",
-      "name": "GLP-1 & It’s Impact on Mental Health",
+      "name": "GLP-1 & It\u2019s Impact on Mental Health",
       "language": "en",
       "thumbnail": "assets/GLP-1 & It's Impact on Mental Health.png",
       "translations": {
         "es": "cdff0f5ba040421b8f94a4c713eea7b6"
-      }
+      },
+      "tags": [
+        "GLP-1",
+        "mental health",
+        "mood regulation",
+        "cognitive function",
+        "stress response",
+        "brain health",
+        "medication effects",
+        "psychological wellbeing",
+        "neuroscience",
+        "mental wellness"
+      ]
     },
     {
       "id": "1caa5daaab1f93606b52461cb61f8304",
@@ -1927,7 +2359,19 @@
       "thumbnail": "assets/How to Discuss GLP-1 Therapy With Your Doctor.png",
       "translations": {
         "es": "400f12c3a79e4af5a47245fc1556a670"
-      }
+      },
+      "tags": [
+        "GLP-1 therapy",
+        "doctor consultation",
+        "healthcare communication",
+        "diabetes treatment",
+        "weight loss medication",
+        "medical advice",
+        "patient advocacy",
+        "treatment options",
+        "healthcare provider",
+        "informed decisions"
+      ]
     },
     {
       "id": "fdffe288eea6bbd8495b7bda714b718c",
@@ -1936,7 +2380,19 @@
       "thumbnail": "assets/The Benefits of Reducing Sugar Consumption.png",
       "translations": {
         "es": "5d3bd36c624b4e1e9fe3c0f43eca14e7"
-      }
+      },
+      "tags": [
+        "sugar reduction",
+        "dietary health",
+        "energy levels",
+        "mental clarity",
+        "nutrition",
+        "healthy eating",
+        "wellness",
+        "blood sugar",
+        "metabolic health",
+        "lifestyle change"
+      ]
     },
     {
       "id": "7d10b24e8bb4cfe7fc703913dcdcd1af",
@@ -1945,7 +2401,19 @@
       "thumbnail": "assets/The Impact of Ultra-Processed Foods.png",
       "translations": {
         "es": "2142cc711d0048259c8d7a5543aef48f"
-      }
+      },
+      "tags": [
+        "ultra processed foods",
+        "processed foods",
+        "nutrition",
+        "health risks",
+        "dietary choices",
+        "food quality",
+        "wellness",
+        "healthy eating",
+        "food science",
+        "preventive health"
+      ]
     },
     {
       "id": "e6c43b8f4ca5bd4d8e1215167a3d922f",
@@ -1954,7 +2422,19 @@
       "thumbnail": "assets/Building a Positive Relationship With Food.png",
       "translations": {
         "es": "7015db46911a49f195462bca951f872e"
-      }
+      },
+      "tags": [
+        "food relationship",
+        "intuitive eating",
+        "mindful eating",
+        "healthy eating",
+        "emotional eating",
+        "nutrition psychology",
+        "food mindset",
+        "wellness",
+        "self compassion",
+        "eating behaviors"
+      ]
     },
     {
       "id": "34016e6467d04c0238c2206037983fb8",
@@ -1963,7 +2443,19 @@
       "thumbnail": "assets/The Power of Intuitive & Mindful Eating.png",
       "translations": {
         "es": "cd82f678b9a249a88426703373a547b6"
-      }
+      },
+      "tags": [
+        "intuitive eating",
+        "mindful eating",
+        "hunger cues",
+        "emotional eating",
+        "food awareness",
+        "eating psychology",
+        "mindfulness",
+        "nutrition",
+        "wellness",
+        "healthy habits"
+      ]
     },
     {
       "id": "ce8b3fd01015f015f98741f79e863f05",
@@ -1972,7 +2464,19 @@
       "thumbnail": "assets/Foods For Healthy Eyesight & Vision.png",
       "translations": {
         "es": "5139dd74bdbe48c19ab3328938220a4b"
-      }
+      },
+      "tags": [
+        "eye health",
+        "vision nutrition",
+        "healthy foods",
+        "nutritional supplements",
+        "eye care",
+        "vision protection",
+        "antioxidants",
+        "dietary health",
+        "preventive care",
+        "wellness nutrition"
+      ]
     },
     {
       "id": "d5421ca2050727d1b7bbbedfc6c82699",
@@ -1981,7 +2485,19 @@
       "thumbnail": "assets/Understanding The Low FODMAP Diet.png",
       "translations": {
         "es": "1f7bdba3e6134d818499f7e3231c3174"
-      }
+      },
+      "tags": [
+        "low FODMAP diet",
+        "digestive health",
+        "elimination diet",
+        "food triggers",
+        "IBS",
+        "gut health",
+        "digestive disorders",
+        "dietary management",
+        "nutrition therapy",
+        "gastrointestinal health"
+      ]
     },
     {
       "id": "3e27b64e8b4e9495067cfb642dfbbbcb",
@@ -1990,7 +2506,19 @@
       "thumbnail": "assets/Why IBS Is Often Misunderstood.png",
       "translations": {
         "es": "0e656c81e3ba4eacb63b34e6a205dae2"
-      }
+      },
+      "tags": [
+        "IBS",
+        "irritable bowel syndrome",
+        "digestive disorders",
+        "misdiagnosis",
+        "gastrointestinal health",
+        "chronic illness",
+        "gut health",
+        "digestive health",
+        "medical awareness",
+        "health advocacy"
+      ]
     },
     {
       "id": "4a13fbe87cf33e2b53851b0cf1f8b0fc",
@@ -1999,7 +2527,19 @@
       "thumbnail": "assets/The Importance Of Hydrating.png",
       "translations": {
         "es": "a7ec1ba93df443c3b1434e67ad884e12"
-      }
+      },
+      "tags": [
+        "hydration",
+        "water intake",
+        "physical wellbeing",
+        "mental wellbeing",
+        "health maintenance",
+        "wellness",
+        "fluid balance",
+        "cellular health",
+        "energy levels",
+        "healthy habits"
+      ]
     },
     {
       "id": "cd1bbb3c0b90aebab1f2ec8ef29548ff",
@@ -2008,7 +2548,19 @@
       "thumbnail": "assets/Nutrient-Rich Foods Packed With Antioxidants.png",
       "translations": {
         "es": "a82995bc18fe447f9dc4e5eccf18c8bc"
-      }
+      },
+      "tags": [
+        "antioxidants",
+        "nutrient rich foods",
+        "oxidative stress",
+        "superfoods",
+        "berries",
+        "leafy greens",
+        "nutrition",
+        "healthy eating",
+        "preventive health",
+        "dietary antioxidants"
+      ]
     },
     {
       "id": "3d5e922ddbb8fac53f0563dc438b0171",
@@ -2017,7 +2569,19 @@
       "thumbnail": "assets/Red Dye 40 & Its Health Impacts.png",
       "translations": {
         "es": "e52cdfce07c34af1aaa3cc5695bff744"
-      }
+      },
+      "tags": [
+        "Red Dye 40",
+        "artificial coloring",
+        "food additives",
+        "hyperactivity",
+        "allergic reactions",
+        "food safety",
+        "health risks",
+        "nutrition awareness",
+        "food ingredients",
+        "children's health"
+      ]
     },
     {
       "id": "9d236f8bb3d18c83a7cbc5f063f5235e",
@@ -2026,7 +2590,19 @@
       "thumbnail": "assets/Fermented Foods & Their Health Benefits.png",
       "translations": {
         "es": "486fc2d3ae7f49c88c02bc94bca0d4a7"
-      }
+      },
+      "tags": [
+        "fermented foods",
+        "probiotics",
+        "digestive health",
+        "gut health",
+        "immunity",
+        "nutrient absorption",
+        "yogurt",
+        "kimchi",
+        "kombucha",
+        "healthy eating"
+      ]
     },
     {
       "id": "f5f7c8a1e3847e650db8e56f08dc85a2",
@@ -2035,7 +2611,19 @@
       "thumbnail": "assets/Preparing Nutritious Lunches for Your Kids.png",
       "translations": {
         "es": "ec4774629cbb4f19aaa5f8bc7518dec6"
-      }
+      },
+      "tags": [
+        "kids nutrition",
+        "healthy lunches",
+        "child nutrition",
+        "meal planning",
+        "family health",
+        "nutritious meals",
+        "healthy eating",
+        "parenting",
+        "childhood development",
+        "food preparation"
+      ]
     },
     {
       "id": "f59db36d0bea452856ad50b170a8027a",
@@ -2044,7 +2632,19 @@
       "thumbnail": "assets/Energizing Foods To Fuel Your Day.png",
       "translations": {
         "es": "9e8febf009464284adcf83a9bcc656ae"
-      }
+      },
+      "tags": [
+        "energizing foods",
+        "sustained energy",
+        "nutrition",
+        "energy levels",
+        "healthy eating",
+        "fuel nutrition",
+        "metabolism",
+        "dietary energy",
+        "wellness nutrition",
+        "performance nutrition"
+      ]
     },
     {
       "id": "9919b7e7ebd91f0819773ddd142c797d",
@@ -2053,7 +2653,19 @@
       "thumbnail": "assets/Managing Finances for Caregiving Expenses.png",
       "translations": {
         "es": "6dba75d241df494d85c214fc3b8b5033"
-      }
+      },
+      "tags": [
+        "caregiving",
+        "financial planning",
+        "caregiving costs",
+        "financial assistance",
+        "budgeting",
+        "family care",
+        "healthcare finances",
+        "financial support",
+        "elder care",
+        "caregiver resources"
+      ]
     },
     {
       "id": "b524580da206f329eb6bd18ee0bf1b02",
@@ -2062,7 +2674,19 @@
       "thumbnail": "assets/A Guide to Self-Care For Caregivers.png",
       "translations": {
         "es": "47a0da560bb0409e9a1dbf74183708d4"
-      }
+      },
+      "tags": [
+        "caregiver self care",
+        "caregiver stress",
+        "boundaries",
+        "stress management",
+        "caregiver health",
+        "burnout prevention",
+        "emotional wellbeing",
+        "caregiver support",
+        "mental health",
+        "wellness practices"
+      ]
     },
     {
       "id": "cbe569c29dc0b645c6645e8c73a94c33",
@@ -2071,7 +2695,19 @@
       "thumbnail": "assets/A Glossary of Healthcare Terms for Patients & Caregivers.png",
       "translations": {
         "es": "681c1d1dbec24deaa08c687deac5976f"
-      }
+      },
+      "tags": [
+        "healthcare terminology",
+        "medical glossary",
+        "patient education",
+        "caregiver resources",
+        "health literacy",
+        "medical knowledge",
+        "healthcare navigation",
+        "patient advocacy",
+        "medical communication",
+        "health education"
+      ]
     },
     {
       "id": "30b9f5a9e52b41a5d3d69e9c9c11aca1",
@@ -2084,9 +2720,9 @@
     },
     {
       "id": "7e660bab493855d8419e32b889aeb3f9",
-      "name": "Occupying & Caring for Young Children While You’re Occupied",
+      "name": "Occupying & Caring for Young Children While You\u2019re Occupied",
       "language": "en",
-      "thumbnail": "assets/Occupying & Caring for Young Children While You’re Occupied.png",
+      "thumbnail": "assets/Occupying & Caring for Young Children While You\u2019re Occupied.png",
       "translations": {
         "es": "a693c77241a64250a50d1eefd45f5b50"
       }
@@ -2165,7 +2801,7 @@
     },
     {
       "id": "89d025c13166d3924aa0d112e918b992",
-      "name": "Symptoms, Diagnosis, & Management of Alzheimer’s Disease",
+      "name": "Symptoms, Diagnosis, & Management of Alzheimer\u2019s Disease",
       "language": "en",
       "thumbnail": "assets/Symptoms, Diagnosis, & Management Of Alzheimer's Disease.png",
       "translations": {
@@ -2174,7 +2810,7 @@
     },
     {
       "id": "4445ece49365054f3b3d48635ba1e0ae",
-      "name": "Alzheimer’s & Brain Health Awareness",
+      "name": "Alzheimer\u2019s & Brain Health Awareness",
       "language": "en",
       "thumbnail": "assets/Alzheimer's & Brain Health Awareness.png",
       "translations": {
@@ -2183,7 +2819,7 @@
     },
     {
       "id": "abfc706e8e86782b99b8fbea2f36ca76",
-      "name": "Comparing & Contrasting Dementia & Alzheimer’s Disease",
+      "name": "Comparing & Contrasting Dementia & Alzheimer\u2019s Disease",
       "language": "en",
       "thumbnail": "assets/Comparing & Contrasting Dementia & Alzheimer's Disease.png",
       "translations": {
@@ -2363,7 +2999,7 @@
     },
     {
       "id": "4a2e4117cb6e751bb224091f6909720a",
-      "name": "New Year’s Habits for a Healthier You",
+      "name": "New Year\u2019s Habits for a Healthier You",
       "language": "en",
       "thumbnail": "assets/New Year's Habits For A Healthier You.png",
       "translations": {
@@ -2624,9 +3260,9 @@
     },
     {
       "id": "e9b4b55c4a2f5011097987f457a799b3",
-      "name": "Understanding Medication Side Effects- What’s Normal, What’s Not",
+      "name": "Understanding Medication Side Effects- What\u2019s Normal, What\u2019s Not",
       "language": "en",
-      "thumbnail": "assets/Understanding Medication Side Effects- What’s Normal, What’s Not.png",
+      "thumbnail": "assets/Understanding Medication Side Effects- What\u2019s Normal, What\u2019s Not.png",
       "translations": {
         "es": "51ce7754306fc572ecefaf645a4a8f32"
       }
@@ -2732,9 +3368,9 @@
     },
     {
       "id": "35ccac13b55fbbb6f7731bbce94c2d4b",
-      "name": "The Dopamine Loop: Why It’s Hard to Put Your Phone Down",
+      "name": "The Dopamine Loop: Why It\u2019s Hard to Put Your Phone Down",
       "language": "en",
-      "thumbnail": "assets/The Dopamine Loop- Why It’s Hard to Put Your Phone Down.png",
+      "thumbnail": "assets/The Dopamine Loop- Why It\u2019s Hard to Put Your Phone Down.png",
       "translations": {
         "es": "036bffd7edf578b920db1ea90a44764d"
       }
@@ -2939,9 +3575,9 @@
     },
     {
       "id": "45fca734a265ae5ac9a4690303b5d421",
-      "name": "Men’s Health Checklist at Various Life Stages",
+      "name": "Men\u2019s Health Checklist at Various Life Stages",
       "language": "en",
-      "thumbnail": "assets/Men’s Health Checklist at Various Life Stages.png",
+      "thumbnail": "assets/Men\u2019s Health Checklist at Various Life Stages.png",
       "translations": {
         "es": "53e31e20b27736fd56b679ef4608efca"
       }
@@ -3008,9 +3644,9 @@
     },
     {
       "id": "11a95625bb855d72f42fbcaa7500bfe3",
-      "name": "Thoughtful Ways to Say “Thank You”",
+      "name": "Thoughtful Ways to Say \u201cThank You\u201d",
       "language": "en",
-      "thumbnail": "assets/Thoughtful Ways To Say “Thank You”.png",
+      "thumbnail": "assets/Thoughtful Ways To Say \u201cThank You\u201d.png",
       "translations": {
         "es": "0d720825805f1bf627d15ad433de206f"
       }
@@ -4073,7 +4709,7 @@
     },
     {
       "id": "1c7d2dcc41ba4f98867d980f7f558bea",
-      "name": "Navegando los desafíos de la vida con resiliencia",
+      "name": "Navegando los desaf\u00edos de la vida con resiliencia",
       "language": "es",
       "thumbnail": "assets/Navigating Life's Challenges with Resilience.png",
       "translations": {
@@ -4091,7 +4727,7 @@
     },
     {
       "id": "559a155bcecb4c9ab787698b61a1515d",
-      "name": "Consejos basados en la investigación para aumentar la resiliencia",
+      "name": "Consejos basados en la investigaci\u00f3n para aumentar la resiliencia",
       "language": "es",
       "thumbnail": "assets/Research-Backed Tips To Build Resilience.png",
       "translations": {
@@ -4109,7 +4745,7 @@
     },
     {
       "id": "a8af9428862c44029399031e33bccf1a",
-      "name": "Cómo cultivar la gratitud, incluso en momentos difíciles",
+      "name": "C\u00f3mo cultivar la gratitud, incluso en momentos dif\u00edciles",
       "language": "es",
       "thumbnail": "assets/How To Cultivate Gratitude, Even During Hard Times.png",
       "translations": {
@@ -4118,7 +4754,7 @@
     },
     {
       "id": "102e09c9e2824adc8ef81e8e488ea525",
-      "name": "Cultivando la positividad: infundiendo alegría en los hábitos diarios",
+      "name": "Cultivando la positividad: infundiendo alegr\u00eda en los h\u00e1bitos diarios",
       "language": "es",
       "thumbnail": "assets/Infusing Joy & Positivity Into Daily Habits.png",
       "translations": {
@@ -4127,7 +4763,7 @@
     },
     {
       "id": "052e43c6e471417d85e6199dadf63d8c",
-      "name": "Comprender la diabetes tipo 1: guía para las familias",
+      "name": "Comprender la diabetes tipo 1: gu\u00eda para las familias",
       "language": "es",
       "thumbnail": "assets/101 Basics of T1D.png",
       "translations": {
@@ -4136,7 +4772,7 @@
     },
     {
       "id": "6d661552663e439389209e4dc1e67f09",
-      "name": "Mantener niveles saludables de azúcar en sangre con diabetes",
+      "name": "Mantener niveles saludables de az\u00facar en sangre con diabetes",
       "language": "es",
       "thumbnail": "assets/Maintaining Healthy Blood Sugar Levels With Diabetes.png",
       "translations": {
@@ -4145,7 +4781,7 @@
     },
     {
       "id": "d5c0f1118e8d485db6b3bfab1ce43d94",
-      "name": "Cómo leer las etiquetas de los alimentos de manera efectiva",
+      "name": "C\u00f3mo leer las etiquetas de los alimentos de manera efectiva",
       "language": "es",
       "thumbnail": "assets/How To Read Food Labels Effectively.png",
       "translations": {
@@ -4154,7 +4790,7 @@
     },
     {
       "id": "a967ea48f13d4efc8cdf5c82fe8ecd82",
-      "name": "Síntomas comunes de la diabetes y cuándo buscar ayuda",
+      "name": "S\u00edntomas comunes de la diabetes y cu\u00e1ndo buscar ayuda",
       "language": "es",
       "thumbnail": "assets/Common Symptoms Of Diabetes & When To Seek Help.png",
       "translations": {
@@ -4181,7 +4817,7 @@
     },
     {
       "id": "7346aa94afe746a68dd9909ee891775d",
-      "name": "¿qué es la diabetes gestacional?",
+      "name": "\u00bfqu\u00e9 es la diabetes gestacional?",
       "language": "es",
       "thumbnail": "assets/What Is Gestational Diabetes.png",
       "translations": {
@@ -4190,7 +4826,7 @@
     },
     {
       "id": "477549c8a0404157ba375847238b0eeb",
-      "name": "Cómo hacerte oír si tienes diabetes",
+      "name": "C\u00f3mo hacerte o\u00edr si tienes diabetes",
       "language": "es",
       "thumbnail": "assets/How To Advocate For Yourself As A Person Living With Diabetes.png",
       "translations": {
@@ -4199,7 +4835,7 @@
     },
     {
       "id": "414bc69a5712406f8b029ba7d29f00ea",
-      "name": "Consejos holísticos para la prediabetes",
+      "name": "Consejos hol\u00edsticos para la prediabetes",
       "language": "es",
       "thumbnail": "assets/Holistic Management Tips For Prediabetes.png",
       "translations": {
@@ -4208,7 +4844,7 @@
     },
     {
       "id": "c1113f09f6574405a1193e2194cd7e25",
-      "name": "La importancia de los exámenes de salud regulares",
+      "name": "La importancia de los ex\u00e1menes de salud regulares",
       "language": "es",
       "thumbnail": "assets/The Importance Of Regular Health Screenings.png",
       "translations": {
@@ -4226,7 +4862,7 @@
     },
     {
       "id": "9a7567eb8d8f4719a6a3b04e8b9ba41b",
-      "name": "Qué llevar en el kit de emergencia para la diabetes",
+      "name": "Qu\u00e9 llevar en el kit de emergencia para la diabetes",
       "language": "es",
       "thumbnail": "assets/What To Pack In Your Diabetes Emergency Kit.png",
       "translations": {
@@ -4235,7 +4871,7 @@
     },
     {
       "id": "51662201fc944df7979d33878f4332ee",
-      "name": "Cómo hablar con tu familia sobre tu diagnóstico de diabetes",
+      "name": "C\u00f3mo hablar con tu familia sobre tu diagn\u00f3stico de diabetes",
       "language": "es",
       "thumbnail": "assets/How To Talk To Your Family About Your Diabetes Diagnosis.png",
       "translations": {
@@ -4262,7 +4898,7 @@
     },
     {
       "id": "6ff4acdbe3604aa883dfaca840fe197e",
-      "name": "Común es de común el estrés financiero y cómo aliviarlo",
+      "name": "Com\u00fan es de com\u00fan el estr\u00e9s financiero y c\u00f3mo aliviarlo",
       "language": "es",
       "thumbnail": "assets/Is Financial Stress Common and How to Ease It.png",
       "translations": {
@@ -4271,7 +4907,7 @@
     },
     {
       "id": "8f9d42aee22d428b9940df776ace0bfb",
-      "name": "Estrés financiero: cómo identificarlo y superarlo",
+      "name": "Estr\u00e9s financiero: c\u00f3mo identificarlo y superarlo",
       "language": "es",
       "thumbnail": "assets/Identify & Overcome Financial Stress.png",
       "translations": {
@@ -4280,7 +4916,7 @@
     },
     {
       "id": "86e02afd4d7a4472975f4e0b378b4550",
-      "name": "Hábitos de gasto y su impacto en tu libertad financiera",
+      "name": "H\u00e1bitos de gasto y su impacto en tu libertad financiera",
       "language": "es",
       "thumbnail": "assets/Spending Habits & Their Impact On Your Financial Freedom.png",
       "translations": {
@@ -4307,7 +4943,7 @@
     },
     {
       "id": "c3e1e0f5236e4684abdc14a59851211f",
-      "name": "Estiramientos dinámicos frente a los estáticos: ¿cuál es el más adecuado para ti?",
+      "name": "Estiramientos din\u00e1micos frente a los est\u00e1ticos: \u00bfcu\u00e1l es el m\u00e1s adecuado para ti?",
       "language": "es",
       "thumbnail": "assets/Dynamic vs. Static Stretching.png",
       "translations": {
@@ -4316,7 +4952,7 @@
     },
     {
       "id": "a08c6822b6bb492a80177943bd1c7dc7",
-      "name": "Sencillos hábitos diarios para mejorar la postura",
+      "name": "Sencillos h\u00e1bitos diarios para mejorar la postura",
       "language": "es",
       "thumbnail": "assets/Simple Daily Habits to Improve Posture.png",
       "translations": {
@@ -4334,7 +4970,7 @@
     },
     {
       "id": "b80e2c7ad44747078d635675d9f0b498",
-      "name": "Comprender las cardiopatías: guía para las familias ",
+      "name": "Comprender las cardiopat\u00edas: gu\u00eda para las familias ",
       "language": "es",
       "thumbnail": "assets/101 Basics of Heart Disease.png",
       "translations": {
@@ -4343,7 +4979,7 @@
     },
     {
       "id": "e6b530c30e4a4758b5199ebf02e5f5e1",
-      "name": "La salud del corazón a lo largo de la vida",
+      "name": "La salud del coraz\u00f3n a lo largo de la vida",
       "language": "es",
       "thumbnail": "assets/Heart Health Across the Lifespan.png\"",
       "translations": {
@@ -4352,7 +4988,7 @@
     },
     {
       "id": "8ab49e5942ac4fe0b8f2c4e9e2631cd0",
-      "name": "Cómo pueden diferir los ataques cardíacos en hombres y mujeres",
+      "name": "C\u00f3mo pueden diferir los ataques card\u00edacos en hombres y mujeres",
       "language": "es",
       "thumbnail": "assets/What a Heart Attack Looks Like.png",
       "translations": {
@@ -4370,7 +5006,7 @@
     },
     {
       "id": "e968944f37b94b4c941f23c4f46e10f6",
-      "name": "Digestión y estrés",
+      "name": "Digesti\u00f3n y estr\u00e9s",
       "language": "es",
       "thumbnail": "assets/Digestion & Stress.png",
       "translations": {
@@ -4379,7 +5015,7 @@
     },
     {
       "id": "52f0c274b9214a1e8ebd7e69531451cf",
-      "name": "Lo que hace realmente el estrés a tu cuerpo y mente",
+      "name": "Lo que hace realmente el estr\u00e9s a tu cuerpo y mente",
       "language": "es",
       "thumbnail": "assets/What Stress Really Does to Your Body and Mind.png",
       "translations": {
@@ -4388,7 +5024,7 @@
     },
     {
       "id": "43307f0fafdb4cfd977539d2f2a54d59",
-      "name": "Los efectos del estrés crónico en la salud",
+      "name": "Los efectos del estr\u00e9s cr\u00f3nico en la salud",
       "language": "es",
       "thumbnail": "assets/The Effects of Chronic Stress on Your Health.png",
       "translations": {
@@ -4397,7 +5033,7 @@
     },
     {
       "id": "9de1151eb1e6423690fcddaee7f85bb7",
-      "name": "Cómo el estrés afecta el sueño, el peso y el sistema inmunológico",
+      "name": "C\u00f3mo el estr\u00e9s afecta el sue\u00f1o, el peso y el sistema inmunol\u00f3gico",
       "language": "es",
       "thumbnail": "assets/How Stress Impacts Sleep, Weight, and Your Immune System.png",
       "translations": {
@@ -4406,7 +5042,7 @@
     },
     {
       "id": "91d6ef9b2d1840e5b90220c44860f64a",
-      "name": "Estrés y salud cardiaca ",
+      "name": "Estr\u00e9s y salud cardiaca ",
       "language": "es",
       "thumbnail": "assets/Stress and Heart Health.png",
       "translations": {
@@ -4415,7 +5051,7 @@
     },
     {
       "id": "aa0cd9e8f3e34c1b9e246f00e60b4b86",
-      "name": "La relación entre el estrés y la hipertensión",
+      "name": "La relaci\u00f3n entre el estr\u00e9s y la hipertensi\u00f3n",
       "language": "es",
       "thumbnail": "assets/The Link Between Stress and High Blood Pressure.png",
       "translations": {
@@ -4424,7 +5060,7 @@
     },
     {
       "id": "1760451916d843f4966c294f98662bec",
-      "name": "Cuando el estrés normal se convierte en agotamiento o ansiedad",
+      "name": "Cuando el estr\u00e9s normal se convierte en agotamiento o ansiedad",
       "language": "es",
       "thumbnail": "assets/When Normal Stress Becomes Burnout or Anxiety.png",
       "translations": {
@@ -4442,7 +5078,7 @@
     },
     {
       "id": "b62fbcd0f6c5434f96f9142c22107b43",
-      "name": "Estrategias prácticas para la gestión del estrés en el lugar de trabajo",
+      "name": "Estrategias pr\u00e1cticas para la gesti\u00f3n del estr\u00e9s en el lugar de trabajo",
       "language": "es",
       "thumbnail": "assets/Practical Strategies For Workplace Stress Management.png",
       "translations": {
@@ -4451,7 +5087,7 @@
     },
     {
       "id": "cdc3ae2ba22342d79ba02e6408f093ff",
-      "name": "Hábitos conscientes para una mentalidad positiva en el trabajo",
+      "name": "H\u00e1bitos conscientes para una mentalidad positiva en el trabajo",
       "language": "es",
       "thumbnail": "assets/Mindful Habits For A Positive Mindset At Work.png",
       "translations": {
@@ -4469,7 +5105,7 @@
     },
     {
       "id": "642a772086ed4dddb5b46c26d323f6af",
-      "name": "Productividad consciente: consejos para integrar la atención plena en tu jornada laboral",
+      "name": "Productividad consciente: consejos para integrar la atenci\u00f3n plena en tu jornada laboral",
       "language": "es",
       "thumbnail": "assets/Tips For Mindful Productivity At Work.png",
       "translations": {
@@ -4478,7 +5114,7 @@
     },
     {
       "id": "995070835c864dfcb3d58072348670cc",
-      "name": "Seguridad psicológica en el lugar de trabajo",
+      "name": "Seguridad psicol\u00f3gica en el lugar de trabajo",
       "language": "es",
       "thumbnail": "assets/Psychological Safety In The Workplace.png",
       "translations": {
@@ -4496,7 +5132,7 @@
     },
     {
       "id": "fb1c90721b4b498290bcfcfd25ddd0a5",
-      "name": "Una razón más para apreciar tus vacaciones: un corazón saludable",
+      "name": "Una raz\u00f3n m\u00e1s para apreciar tus vacaciones: un coraz\u00f3n saludable",
       "language": "es",
       "thumbnail": "assets/Understanding The Importance Of Vacation Time.png",
       "translations": {
@@ -4505,7 +5141,7 @@
     },
     {
       "id": "31e5303e58ef4cfbb00bad7f2dc1fddb",
-      "name": "El continuo del estrés: mejorando el apoyo y la comunicación",
+      "name": "El continuo del estr\u00e9s: mejorando el apoyo y la comunicaci\u00f3n",
       "language": "es",
       "thumbnail": "assets/Understanding The Stress Continuum.png",
       "translations": {
@@ -4523,7 +5159,7 @@
     },
     {
       "id": "a18acde2b15b4be38521e9543ec15f33",
-      "name": "Meditación para reducir el estrés y la ansiedad",
+      "name": "Meditaci\u00f3n para reducir el estr\u00e9s y la ansiedad",
       "language": "es",
       "thumbnail": "assets/Meditation To Reduce Stress & Anxiety.png",
       "translations": {
@@ -4532,7 +5168,7 @@
     },
     {
       "id": "bc082135ca3e491e85bab50d0319a9a4",
-      "name": "Explorar los distintos tipos de meditación",
+      "name": "Explorar los distintos tipos de meditaci\u00f3n",
       "language": "es",
       "thumbnail": "assets/Exploring Different Types Of Meditation.png",
       "translations": {
@@ -4550,7 +5186,7 @@
     },
     {
       "id": "525f3fe490e540d2a388e04a0c2b05de",
-      "name": "Entendiendo la atención plena",
+      "name": "Entendiendo la atenci\u00f3n plena",
       "language": "es",
       "thumbnail": "assets/Understanding Mindfulness.png",
       "translations": {
@@ -4559,7 +5195,7 @@
     },
     {
       "id": "98b66fd169a0425190a53df19f59b89b",
-      "name": "Respiración para la claridad mental y la reorientación ",
+      "name": "Respiraci\u00f3n para la claridad mental y la reorientaci\u00f3n ",
       "language": "es",
       "thumbnail": "assets/Breathwork For Mental Clarity & Refocus.png",
       "translations": {
@@ -4568,7 +5204,7 @@
     },
     {
       "id": "0e0bab535d6141f1a6e6d5107e2677b1",
-      "name": "Encontrar la paz en el momento presente con la meditación",
+      "name": "Encontrar la paz en el momento presente con la meditaci\u00f3n",
       "language": "es",
       "thumbnail": "assets/Finding Peace In The Present Moment.png",
       "translations": {
@@ -4577,7 +5213,7 @@
     },
     {
       "id": "b1697cb78c354472a2f22b7dcb93294b",
-      "name": "Los beneficios de la respiración consciente",
+      "name": "Los beneficios de la respiraci\u00f3n consciente",
       "language": "es",
       "thumbnail": "assets/The Benefits Of Mindful Breathing.png",
       "translations": {
@@ -4586,7 +5222,7 @@
     },
     {
       "id": "dd8edbc79cd14bc8b6d82c1b34d2709d",
-      "name": "Manejo de la ira y meditación",
+      "name": "Manejo de la ira y meditaci\u00f3n",
       "language": "es",
       "thumbnail": "assets/Anger Management & Meditation.png",
       "translations": {
@@ -4595,7 +5231,7 @@
     },
     {
       "id": "eafd60318098490aa7ffb36613fb8029",
-      "name": "Explorando los beneficios de la meditación de escaneo corporal",
+      "name": "Explorando los beneficios de la meditaci\u00f3n de escaneo corporal",
       "language": "es",
       "thumbnail": "assets/Exploring The Benefits Of Body Scan Meditation.png",
       "translations": {
@@ -4604,7 +5240,7 @@
     },
     {
       "id": "6c22472e634e43c8b87b8e6aacad182f",
-      "name": "Concienciación nacional sobre el tept: comprender y enfrentar el trastorno de estrés postraumático",
+      "name": "Concienciaci\u00f3n nacional sobre el tept: comprender y enfrentar el trastorno de estr\u00e9s postraum\u00e1tico",
       "language": "es",
       "thumbnail": "assets/Understanding & Coping With Post-Traumatic Stress Disorder.png",
       "translations": {
@@ -4613,7 +5249,7 @@
     },
     {
       "id": "0b33bf044f9e46fb83d704d806bf8dd1",
-      "name": "Hábitos de sueño saludables para descansar mejor",
+      "name": "H\u00e1bitos de sue\u00f1o saludables para descansar mejor",
       "language": "es",
       "thumbnail": "assets/Healthy Sleeping Habits For A Better Rest.png",
       "translations": {
@@ -4622,7 +5258,7 @@
     },
     {
       "id": "7ff2be6f915c40468ee6225ef823bf1e",
-      "name": "Ronquidos y apnea del sueño: comprender las diferencias",
+      "name": "Ronquidos y apnea del sue\u00f1o: comprender las diferencias",
       "language": "es",
       "thumbnail": "assets/Snoring vs. Sleep Apnea.png",
       "translations": {
@@ -4640,7 +5276,7 @@
     },
     {
       "id": "dc6094ff2cdd49c89e24b15543bae44e",
-      "name": "Las etapas del sueño",
+      "name": "Las etapas del sue\u00f1o",
       "language": "es",
       "thumbnail": "assets/The Stages Of Sleep.png",
       "translations": {
@@ -4649,7 +5285,7 @@
     },
     {
       "id": "7486d21d48c247809adf50cc2a817738",
-      "name": "10 señales de un sueño saludable: cómo saber si estás descansando de calidad",
+      "name": "10 se\u00f1ales de un sue\u00f1o saludable: c\u00f3mo saber si est\u00e1s descansando de calidad",
       "language": "es",
       "thumbnail": "assets/10 Signs Of Healthy Sleep.png",
       "translations": {
@@ -4658,7 +5294,7 @@
     },
     {
       "id": "2174330a664449eda5b567fd2e928d7a",
-      "name": "Cómo optimizar la calidad del sueño mediante la fase rem",
+      "name": "C\u00f3mo optimizar la calidad del sue\u00f1o mediante la fase rem",
       "language": "es",
       "thumbnail": "assets/Unlocking Optimal Sleep Quality Through REM Sleep.png",
       "translations": {
@@ -4667,7 +5303,7 @@
     },
     {
       "id": "16152eb45da74bf98ed3b7d88c34bfb0",
-      "name": "Higiene del sueño",
+      "name": "Higiene del sue\u00f1o",
       "language": "es",
       "thumbnail": "assets/Sleep Hygiene.png",
       "translations": {
@@ -4676,7 +5312,7 @@
     },
     {
       "id": "09fecbfb465548f6a8cc3d199ab7b45d",
-      "name": "Qué comer para dormir mejor",
+      "name": "Qu\u00e9 comer para dormir mejor",
       "language": "es",
       "thumbnail": "assets/Nutrition for Sleep.png",
       "translations": {
@@ -4685,7 +5321,7 @@
     },
     {
       "id": "22b1f45eb6b7451e875d617abc90979d",
-      "name": "Secretos del sueño para una noche tranquila",
+      "name": "Secretos del sue\u00f1o para una noche tranquila",
       "language": "es",
       "thumbnail": "assets/Sleep Secrets For A Restful Night.png",
       "translations": {
@@ -4694,7 +5330,7 @@
     },
     {
       "id": "3b2696a84fb94a6ab488b5c1b7d8ed5a",
-      "name": "Mitos y realidades de los cigarrillos electrónicos",
+      "name": "Mitos y realidades de los cigarrillos electr\u00f3nicos",
       "language": "es",
       "thumbnail": "assets/Myths Vs. Facts Of Vaping.png",
       "translations": {
@@ -4703,7 +5339,7 @@
     },
     {
       "id": "5154236eb91c46be82c33ef475306b19",
-      "name": "Entendiendo la ciencia detrás de los antojos de nicotina",
+      "name": "Entendiendo la ciencia detr\u00e1s de los antojos de nicotina",
       "language": "es",
       "thumbnail": "assets/Understanding The Science Behind Nicotine Cravings.png",
       "translations": {
@@ -4712,7 +5348,7 @@
     },
     {
       "id": "9b08803e467545a5b826faf459a9bef2",
-      "name": "Estrategias para manejar los desencadenantes durante el abandono del hábito de fumar",
+      "name": "Estrategias para manejar los desencadenantes durante el abandono del h\u00e1bito de fumar",
       "language": "es",
       "thumbnail": "assets/Strategies For Handling Triggers During Smoking Cessation.png",
       "translations": {
@@ -4721,7 +5357,7 @@
     },
     {
       "id": "9800b826d7354593abf1303f0b3dda25",
-      "name": "Consejos para hablar con tu médico sobre dejar de fumar",
+      "name": "Consejos para hablar con tu m\u00e9dico sobre dejar de fumar",
       "language": "es",
       "thumbnail": "assets/Tips For Talking To Your Doctor About Quitting Smoking.png",
       "translations": {
@@ -4730,7 +5366,7 @@
     },
     {
       "id": "6376d25958e84eaa900f98f79edeffd7",
-      "name": "La relación entre el tabaquismo y las enfermedades crónicas",
+      "name": "La relaci\u00f3n entre el tabaquismo y las enfermedades cr\u00f3nicas",
       "language": "es",
       "thumbnail": "assets/The Link Between Smoking & Chronic Diseases.png",
       "translations": {
@@ -4739,7 +5375,7 @@
     },
     {
       "id": "e8dd264cc73e4117bb043fb4b50dd04b",
-      "name": "La relación entre el tabaquismo y los problemas de sueño",
+      "name": "La relaci\u00f3n entre el tabaquismo y los problemas de sue\u00f1o",
       "language": "es",
       "thumbnail": "assets/The Connection Between Smoking & Sleep Issues.png",
       "translations": {
@@ -4748,7 +5384,7 @@
     },
     {
       "id": "3ae5f4ea0d9b47afb376c96098eda5ab",
-      "name": "Nutre tu camino hacia una vida más saludable: consejos nutricionales para una gestión saludable del peso",
+      "name": "Nutre tu camino hacia una vida m\u00e1s saludable: consejos nutricionales para una gesti\u00f3n saludable del peso",
       "language": "es",
       "thumbnail": "assets/Nutrition Tips for Healthy Weight Management.png",
       "translations": {
@@ -4775,7 +5411,7 @@
     },
     {
       "id": "e53fa471789e469d9faea6d13959628f",
-      "name": "Transformando tu vida: cómo la pérdida de peso mejora la salud del corazón, los pulmones, el cerebro y la salud en general",
+      "name": "Transformando tu vida: c\u00f3mo la p\u00e9rdida de peso mejora la salud del coraz\u00f3n, los pulmones, el cerebro y la salud en general",
       "language": "es",
       "thumbnail": "assets/How Weight Loss Boosts Overall Health.png",
       "translations": {
@@ -4784,7 +5420,7 @@
     },
     {
       "id": "ce000dc00a2c4924b08150697019c593",
-      "name": "La conexión oculta: cómo el sueño es crucial para la gestión del peso",
+      "name": "La conexi\u00f3n oculta: c\u00f3mo el sue\u00f1o es crucial para la gesti\u00f3n del peso",
       "language": "es",
       "thumbnail": "assets/How Sleep Is Crucial for Weight Management.png",
       "translations": {
@@ -4811,7 +5447,7 @@
     },
     {
       "id": "400f12c3a79e4af5a47245fc1556a670",
-      "name": "Cómo hablar sobre la terapia con GLP-1 con su doctor",
+      "name": "C\u00f3mo hablar sobre la terapia con GLP-1 con su doctor",
       "language": "es",
       "thumbnail": "assets/How to Discuss GLP-1 Therapy With Your Doctor.png",
       "translations": {
@@ -4820,7 +5456,7 @@
     },
     {
       "id": "5d3bd36c624b4e1e9fe3c0f43eca14e7",
-      "name": "Los beneficios de reducir el consumo de azúcar",
+      "name": "Los beneficios de reducir el consumo de az\u00facar",
       "language": "es",
       "thumbnail": "assets/The Benefits of Reducing Sugar Consumption.png",
       "translations": {
@@ -4838,7 +5474,7 @@
     },
     {
       "id": "7015db46911a49f195462bca951f872e",
-      "name": "Construir una relación positiva con la comida",
+      "name": "Construir una relaci\u00f3n positiva con la comida",
       "language": "es",
       "thumbnail": "assets/Building a Positive Relationship With Food.png",
       "translations": {
@@ -4847,7 +5483,7 @@
     },
     {
       "id": "cd82f678b9a249a88426703373a547b6",
-      "name": "El poder de la alimentación intuitiva y consciente: beneficios respaldados por la ciencia",
+      "name": "El poder de la alimentaci\u00f3n intuitiva y consciente: beneficios respaldados por la ciencia",
       "language": "es",
       "thumbnail": "assets/The Power of Intuitive & Mindful Eating.png",
       "translations": {
@@ -4874,7 +5510,7 @@
     },
     {
       "id": "0e656c81e3ba4eacb63b34e6a205dae2",
-      "name": "Por qué el sii a menudo se malinterpreta y se diagnostica erróneamente",
+      "name": "Por qu\u00e9 el sii a menudo se malinterpreta y se diagnostica err\u00f3neamente",
       "language": "es",
       "thumbnail": "assets/Why IBS Is Often Misunderstood.png",
       "translations": {
@@ -4883,7 +5519,7 @@
     },
     {
       "id": "a7ec1ba93df443c3b1434e67ad884e12",
-      "name": "La importancia de la hidratación",
+      "name": "La importancia de la hidrataci\u00f3n",
       "language": "es",
       "thumbnail": "assets/The Importance Of Hydrating.png",
       "translations": {
@@ -4910,7 +5546,7 @@
     },
     {
       "id": "486fc2d3ae7f49c88c02bc94bca0d4a7",
-      "name": "Alimentos fermentados: ¿cuáles son sus beneficios para la salud?",
+      "name": "Alimentos fermentados: \u00bfcu\u00e1les son sus beneficios para la salud?",
       "language": "es",
       "thumbnail": "assets/Fermented Foods & Their Health Benefits.png",
       "translations": {
@@ -4919,7 +5555,7 @@
     },
     {
       "id": "ec4774629cbb4f19aaa5f8bc7518dec6",
-      "name": "Cómo preparar almuerzos nutritivos para tus hijos",
+      "name": "C\u00f3mo preparar almuerzos nutritivos para tus hijos",
       "language": "es",
       "thumbnail": "assets/Preparing Nutritious Lunches for Your Kids.png",
       "translations": {
@@ -4928,7 +5564,7 @@
     },
     {
       "id": "9e8febf009464284adcf83a9bcc656ae",
-      "name": "Alimentos energéticos para tu día a día",
+      "name": "Alimentos energ\u00e9ticos para tu d\u00eda a d\u00eda",
       "language": "es",
       "thumbnail": "assets/Energizing Foods To Fuel Your Day.png",
       "translations": {
@@ -4946,7 +5582,7 @@
     },
     {
       "id": "47a0da560bb0409e9a1dbf74183708d4",
-      "name": "Cuidando al cuidador: una guía de autocuidado para cuidadores",
+      "name": "Cuidando al cuidador: una gu\u00eda de autocuidado para cuidadores",
       "language": "es",
       "thumbnail": "assets/A Guide to Self-Care For Caregivers.png",
       "translations": {
@@ -4955,7 +5591,7 @@
     },
     {
       "id": "681c1d1dbec24deaa08c687deac5976f",
-      "name": "Un glosario de términos de salud: una guía para pacientes y cuidadores",
+      "name": "Un glosario de t\u00e9rminos de salud: una gu\u00eda para pacientes y cuidadores",
       "language": "es",
       "thumbnail": "assets/A Glossary of Healthcare Terms for Patients & Caregivers.png",
       "translations": {
@@ -4964,7 +5600,7 @@
     },
     {
       "id": "0f8fed0a72bb438cb9bf1220cc134956",
-      "name": "Guía para padres sobre entrevistar, contratar y emplear a una niñera",
+      "name": "Gu\u00eda para padres sobre entrevistar, contratar y emplear a una ni\u00f1era",
       "language": "es",
       "thumbnail": "assets/Interviewing, Hiring & Employing a Nanny.png",
       "translations": {
@@ -4973,16 +5609,16 @@
     },
     {
       "id": "a693c77241a64250a50d1eefd45f5b50",
-      "name": "Estrategias efectivas para ocupar y cuidar a niños pequeños mientras estás ocupado",
+      "name": "Estrategias efectivas para ocupar y cuidar a ni\u00f1os peque\u00f1os mientras est\u00e1s ocupado",
       "language": "es",
-      "thumbnail": "assets/Occupying & Caring for Young Children While You’re Occupied.png",
+      "thumbnail": "assets/Occupying & Caring for Young Children While You\u2019re Occupied.png",
       "translations": {
         "en": "7e660bab493855d8419e32b889aeb3f9"
       }
     },
     {
       "id": "0ef0761c661a4db29bc042d862a14fb1",
-      "name": "Comprender la fatiga por compasión",
+      "name": "Comprender la fatiga por compasi\u00f3n",
       "language": "es",
       "thumbnail": "assets/Understanding Compassion Fatigue.png",
       "translations": {
@@ -4991,7 +5627,7 @@
     },
     {
       "id": "595f506a862d4a27a7777a6957365e27",
-      "name": "Planificando una cita de juego segura y divertida para tu hijo: guía para padres",
+      "name": "Planificando una cita de juego segura y divertida para tu hijo: gu\u00eda para padres",
       "language": "es",
       "thumbnail": "assets/Planning a Safe & Fun Playdate for Your Child.png",
       "translations": {
@@ -5000,7 +5636,7 @@
     },
     {
       "id": "36fc6e7e58c8404a85f7baf417320341",
-      "name": "Fomentando la atención plena en los niños",
+      "name": "Fomentando la atenci\u00f3n plena en los ni\u00f1os",
       "language": "es",
       "thumbnail": "assets/Nurturing Mindfulness in Children.png",
       "translations": {
@@ -5009,7 +5645,7 @@
     },
     {
       "id": "66a3588cd3a140e9a6bcef34f601fca3",
-      "name": "La satisfacción laboral es más que disfrutar del trabajo",
+      "name": "La satisfacci\u00f3n laboral es m\u00e1s que disfrutar del trabajo",
       "language": "es",
       "thumbnail": "assets/Job Satisfaction is More Than Enjoying Work.jpg",
       "translations": {
@@ -5018,7 +5654,7 @@
     },
     {
       "id": "1579d1f7943f4f0dab3b7a9b6313e6a2",
-      "name": "Satisfacción laboral frente a salud física y mental",
+      "name": "Satisfacci\u00f3n laboral frente a salud f\u00edsica y mental",
       "language": "es",
       "thumbnail": "assets/Job Satisfaction Vs. Your Mental and Physical Health.png",
       "translations": {
@@ -5027,7 +5663,7 @@
     },
     {
       "id": "587b8227021e4f9fa1644a418071dbf2",
-      "name": "Nutrición para un envejecimiento saludable",
+      "name": "Nutrici\u00f3n para un envejecimiento saludable",
       "language": "es",
       "thumbnail": "assets/Nutrition For Aging Gracefully.png",
       "translations": {
@@ -5036,7 +5672,7 @@
     },
     {
       "id": "5d82369bd9954cec9da27b73ffa95ba0",
-      "name": "Por qué el movimiento es importante al envejecer",
+      "name": "Por qu\u00e9 el movimiento es importante al envejecer",
       "language": "es",
       "thumbnail": "assets/Why Movement Matters as You Age.png",
       "translations": {
@@ -5045,7 +5681,7 @@
     },
     {
       "id": "3b31df4d638b4d85a9a4c6de653a1197",
-      "name": "Enfermedad de alzheimer: síntomas, diagnóstico y manejo",
+      "name": "Enfermedad de alzheimer: s\u00edntomas, diagn\u00f3stico y manejo",
       "language": "es",
       "thumbnail": "assets/Symptoms, Diagnosis, & Management Of Alzheimer's Disease.png",
       "translations": {
@@ -5054,7 +5690,7 @@
     },
     {
       "id": "2b5e34023907424194c146cceea0b4c4",
-      "name": "Concienciación sobre el alzheimer y el cerebro: fomentando el bienestar cognitivo",
+      "name": "Concienciaci\u00f3n sobre el alzheimer y el cerebro: fomentando el bienestar cognitivo",
       "language": "es",
       "thumbnail": "assets/Alzheimer's & Brain Health Awareness.png",
       "translations": {
@@ -5063,7 +5699,7 @@
     },
     {
       "id": "1fe86ff5db064079a1ac23aeb08085eb",
-      "name": "Comparación y contraste entre demencia y enfermedad de alzheimer",
+      "name": "Comparaci\u00f3n y contraste entre demencia y enfermedad de alzheimer",
       "language": "es",
       "thumbnail": "assets/Comparing & Contrasting Dementia & Alzheimer's Disease.png",
       "translations": {
@@ -5072,7 +5708,7 @@
     },
     {
       "id": "040c0d37b9844a29b3ebfa0fd8268609",
-      "name": "Por qué las pruebas de detección regulares son cruciales para la detección temprana del cáncer",
+      "name": "Por qu\u00e9 las pruebas de detecci\u00f3n regulares son cruciales para la detecci\u00f3n temprana del c\u00e1ncer",
       "language": "es",
       "thumbnail": "assets/Why Regular Screenings Are Crucial For Early Cancer Detection.png",
       "translations": {
@@ -5081,7 +5717,7 @@
     },
     {
       "id": "5a2fb25372834311b99918f557aa91f4",
-      "name": "Cambios en el estilo de vida para reducir el riesgo de cáncer",
+      "name": "Cambios en el estilo de vida para reducir el riesgo de c\u00e1ncer",
       "language": "es",
       "thumbnail": "assets/Lifestyle Changes To Reduce Cancer Risk.png",
       "translations": {
@@ -5090,7 +5726,7 @@
     },
     {
       "id": "2386262b6e5540f79079459a2cfeedd9",
-      "name": "El papel de la genética en el riesgo de cáncer",
+      "name": "El papel de la gen\u00e9tica en el riesgo de c\u00e1ncer",
       "language": "es",
       "thumbnail": "assets/The Role Of Genetics In Cancer Risk.png",
       "translations": {
@@ -5099,7 +5735,7 @@
     },
     {
       "id": "9125f2feced64134af83f25ca4afd433",
-      "name": "El impacto del ejercicio en la prevención y el tratamiento del cáncer",
+      "name": "El impacto del ejercicio en la prevenci\u00f3n y el tratamiento del c\u00e1ncer",
       "language": "es",
       "thumbnail": "assets/The Impact Of Exercise On Cancer Prevention & Treatment.png",
       "translations": {
@@ -5108,7 +5744,7 @@
     },
     {
       "id": "529ae3db3bd74a57986d69e75d106cf1",
-      "name": "Consumo intencional de redes sociales: una guía para un uso consciente",
+      "name": "Consumo intencional de redes sociales: una gu\u00eda para un uso consciente",
       "language": "es",
       "thumbnail": "assets/A Guide to Mindful Social Media Use.png",
       "translations": {
@@ -5117,7 +5753,7 @@
     },
     {
       "id": "bc48b01e2c124415b0ed66925a62d8a0",
-      "name": "¿qué es el propósito y cómo encontrarlo?",
+      "name": "\u00bfqu\u00e9 es el prop\u00f3sito y c\u00f3mo encontrarlo?",
       "language": "es",
       "thumbnail": "assets/What Is Purpose & How to Find It.png",
       "translations": {
@@ -5126,7 +5762,7 @@
     },
     {
       "id": "1853bb39de4c4f4485eda893bea54fca",
-      "name": "El poder de la mentalidad: liberando el rendimiento máximo",
+      "name": "El poder de la mentalidad: liberando el rendimiento m\u00e1ximo",
       "language": "es",
       "thumbnail": "assets/The Power of Mindset for Peak Performance.png",
       "translations": {
@@ -5153,7 +5789,7 @@
     },
     {
       "id": "1a593a643cdc4b579acc1aa098b35a4c",
-      "name": "Descubre el poder de escribir en un diario: una guía para comenzar",
+      "name": "Descubre el poder de escribir en un diario: una gu\u00eda para comenzar",
       "language": "es",
       "thumbnail": "assets/Discover the Power of Journaling.png",
       "translations": {
@@ -5162,7 +5798,7 @@
     },
     {
       "id": "7ecc0e15654d4fd98f218c74d0b5cf64",
-      "name": "Construyendo relaciones resilientes: una clave para la realización personal",
+      "name": "Construyendo relaciones resilientes: una clave para la realizaci\u00f3n personal",
       "language": "es",
       "thumbnail": "assets/Building Resilient Relationships for Personal Fulfillment.png",
       "translations": {
@@ -5180,7 +5816,7 @@
     },
     {
       "id": "5efd962473b04751a875f38bc5fa8d27",
-      "name": "Cómo mantener huesos saludables a medida que envejeces",
+      "name": "C\u00f3mo mantener huesos saludables a medida que envejeces",
       "language": "es",
       "thumbnail": "assets/How To Maintain Healthy Bones As You Age.png",
       "translations": {
@@ -5216,7 +5852,7 @@
     },
     {
       "id": "2b6f8b2c527b490b829a675adac0dfaf",
-      "name": "Mindfulness' para las fiestas navideñas",
+      "name": "Mindfulness' para las fiestas navide\u00f1as",
       "language": "es",
       "thumbnail": "assets/Mindfulness for the Holiday Season.png",
       "translations": {
@@ -5225,7 +5861,7 @@
     },
     {
       "id": "a586651c7b8748a0869bf60ed4d0d9a7",
-      "name": "Cómo celebrar las fiestas sin gastar de más",
+      "name": "C\u00f3mo celebrar las fiestas sin gastar de m\u00e1s",
       "language": "es",
       "thumbnail": "assets/How to Celebrate the Holidays Without Overspending.png",
       "translations": {
@@ -5234,7 +5870,7 @@
     },
     {
       "id": "ee0982a7c2d8433c8e885c5647c43a08",
-      "name": "Guía de autocuidado durante las vacaciones de navidad",
+      "name": "Gu\u00eda de autocuidado durante las vacaciones de navidad",
       "language": "es",
       "thumbnail": "assets/Holiday Self-Care Guide.png",
       "translations": {
@@ -5243,7 +5879,7 @@
     },
     {
       "id": "94bfe8e1c17e4b55ab9b176cf940bf28",
-      "name": "Hábitos de año nuevo para una vida más saludable",
+      "name": "H\u00e1bitos de a\u00f1o nuevo para una vida m\u00e1s saludable",
       "language": "es",
       "thumbnail": "assets/New Year's Habits For A Healthier You.png",
       "translations": {
@@ -5252,7 +5888,7 @@
     },
     {
       "id": "bbc3a33984f34f5e96e270b544fddd89",
-      "name": "Prácticas diarias para proteger nuestra salud ocular",
+      "name": "Pr\u00e1cticas diarias para proteger nuestra salud ocular",
       "language": "es",
       "thumbnail": "assets/Daily Practices To Protect Our Eye Health.png",
       "translations": {
@@ -5261,7 +5897,7 @@
     },
     {
       "id": "b39a45385c8046b5b4607e3c075b1a57",
-      "name": "Cómo el voluntariado aumenta el bienestar",
+      "name": "C\u00f3mo el voluntariado aumenta el bienestar",
       "language": "es",
       "thumbnail": "assets/How Volunteering Elevates Wellbeing.png",
       "translations": {
@@ -5279,7 +5915,7 @@
     },
     {
       "id": "219667130bc0418d94adf211a68f26f2",
-      "name": "El papel de los autoexámenes de mama en la detección temprana del cáncer de mama",
+      "name": "El papel de los autoex\u00e1menes de mama en la detecci\u00f3n temprana del c\u00e1ncer de mama",
       "language": "es",
       "thumbnail": "assets/The Role of Self-Breast Examinations in Early Detection of Breast Cancer.png",
       "translations": {
@@ -5288,7 +5924,7 @@
     },
     {
       "id": "b9661da97c1b4bd09507726ab77bad7e",
-      "name": "Concienciación sobre la diabetes: empoderando tu salud",
+      "name": "Concienciaci\u00f3n sobre la diabetes: empoderando tu salud",
       "language": "es",
       "thumbnail": "assets/Diabetes Awareness.png",
       "translations": {
@@ -5297,7 +5933,7 @@
     },
     {
       "id": "ed046a676ad24925a5d92e7772c45bd7",
-      "name": "Cómo afrontar la soledad vacacional",
+      "name": "C\u00f3mo afrontar la soledad vacacional",
       "language": "es",
       "thumbnail": "assets/Dealing With Holiday Loneliness.png",
       "translations": {
@@ -5324,7 +5960,7 @@
     },
     {
       "id": "e0c03772dc8d43e68ad8e1b75087113a",
-      "name": "Presión arterial: qué significan los números",
+      "name": "Presi\u00f3n arterial: qu\u00e9 significan los n\u00fameros",
       "language": "es",
       "thumbnail": "assets/What Do The Numbers Mean In Blood Pressure.png",
       "translations": {
@@ -5333,7 +5969,7 @@
     },
     {
       "id": "bea7acb3471740e3ac8c3b3ee6488655",
-      "name": "Consejos para prevenir y manejar la hipertensión",
+      "name": "Consejos para prevenir y manejar la hipertensi\u00f3n",
       "language": "es",
       "thumbnail": "assets/Tips For Preventing & Managing Hypertension.png",
       "translations": {
@@ -5351,7 +5987,7 @@
     },
     {
       "id": "c583e6d10c4042b9ad8c21dee9161f4b",
-      "name": "Por qué el sedentarismo puede ser un riesgo oculto para la salud",
+      "name": "Por qu\u00e9 el sedentarismo puede ser un riesgo oculto para la salud",
       "language": "es",
       "thumbnail": "assets/Why Being Sedentary May be a Hidden Health Risk.png",
       "translations": {
@@ -5360,7 +5996,7 @@
     },
     {
       "id": "3612a5b1e5554cd3858c457b1c88b693",
-      "name": "¿te sientes sin energía? Puede que te falte moverte más",
+      "name": "\u00bfte sientes sin energ\u00eda? Puede que te falte moverte m\u00e1s",
       "language": "es",
       "thumbnail": "assets/Feeling Sluggish_ Your Activity Level Might Be the Missing Link.png",
       "translations": {
@@ -5369,7 +6005,7 @@
     },
     {
       "id": "cffe347e583440caa9fd05ab514805bf",
-      "name": "Desbloqueando una buena postura a través de prácticas de apertura del corazón",
+      "name": "Desbloqueando una buena postura a trav\u00e9s de pr\u00e1cticas de apertura del coraz\u00f3n",
       "language": "es",
       "thumbnail": "assets/Unlocking Good Posture Through Heart-Opening Practices.png",
       "translations": {
@@ -5387,7 +6023,7 @@
     },
     {
       "id": "7238cf7cf40048139ea92a7cc91f558c",
-      "name": "Nutrición y ejercicio para una óptima salud mental",
+      "name": "Nutrici\u00f3n y ejercicio para una \u00f3ptima salud mental",
       "language": "es",
       "thumbnail": "assets/Nutrition & Exercise For Optimal Mental Health.png",
       "translations": {
@@ -5396,7 +6032,7 @@
     },
     {
       "id": "be3e6e698b2c442fb45d4153bdb28ed9",
-      "name": "Conexión entre el sueño y la positividad: el poder del descanso para un estado de ánimo positivo",
+      "name": "Conexi\u00f3n entre el sue\u00f1o y la positividad: el poder del descanso para un estado de \u00e1nimo positivo",
       "language": "es",
       "thumbnail": "assets/The Power Of Rest For A Positive Mood.png",
       "translations": {
@@ -5405,7 +6041,7 @@
     },
     {
       "id": "22957bdba1d3484395ba8b222b8958f9",
-      "name": "Beneficios científicos de un entrenamiento HIIT",
+      "name": "Beneficios cient\u00edficos de un entrenamiento HIIT",
       "language": "es",
       "thumbnail": "assets/Scientific Benefits Of A HIIT Workout.png",
       "translations": {
@@ -5423,7 +6059,7 @@
     },
     {
       "id": "3530affcdef04312aef564c835c9fa58",
-      "name": "¿qué es el movimiento de bajo impacto??",
+      "name": "\u00bfqu\u00e9 es el movimiento de bajo impacto??",
       "language": "es",
       "thumbnail": "assets/What Is Low-Impact Movement.png",
       "translations": {
@@ -5450,7 +6086,7 @@
     },
     {
       "id": "d401a131824b4d21b5c7156a4923a9ae",
-      "name": "Cómo usar medicamentos de venta libre de manera segura",
+      "name": "C\u00f3mo usar medicamentos de venta libre de manera segura",
       "language": "es",
       "thumbnail": "assets/How To Safely Use Over-The-Counter Medications.png",
       "translations": {
@@ -5459,7 +6095,7 @@
     },
     {
       "id": "894c344173fb42508c8dd1000d627b3f",
-      "name": "Entendiendo la pérdida de peso con GLP-1",
+      "name": "Entendiendo la p\u00e9rdida de peso con GLP-1",
       "language": "es",
       "thumbnail": "assets/Understanding Weight Loss With GLP-1.png",
       "translations": {
@@ -5477,7 +6113,7 @@
     },
     {
       "id": "6c5b68db84f0457188113c9698ff1633",
-      "name": "Cómo hablar sobre la terapia con GLP-1 con su doctor",
+      "name": "C\u00f3mo hablar sobre la terapia con GLP-1 con su doctor",
       "language": "es",
       "thumbnail": "assets/How To Discuss GLP-1 Therapy With Your Doctor.png",
       "translations": {
@@ -5486,7 +6122,7 @@
     },
     {
       "id": "0d2e25aba3d74902a11396cfab8f0734",
-      "name": "Prevención de la pérdida muscular durante la terapia con GLP-1",
+      "name": "Prevenci\u00f3n de la p\u00e9rdida muscular durante la terapia con GLP-1",
       "language": "es",
       "thumbnail": "assets/Preventing Muscle Loss While On GLP-1 Therapy.png",
       "translations": {
@@ -5504,7 +6140,7 @@
     },
     {
       "id": "eb499eaa9c47475e98a84d23d61bd154",
-      "name": "Proteger los ojos, los pies y los riñones cuando se tiene diabetes",
+      "name": "Proteger los ojos, los pies y los ri\u00f1ones cuando se tiene diabetes",
       "language": "es",
       "thumbnail": "assets/Protecting Your Eyes, Feet, and Kidneys for Diabetes.png",
       "translations": {
@@ -5513,7 +6149,7 @@
     },
     {
       "id": "6d5cf1d555f6ef92d1d38e711695e324",
-      "name": "Cómo los ácidos grasos omega-3 impactan la salud del corazón",
+      "name": "C\u00f3mo los \u00e1cidos grasos omega-3 impactan la salud del coraz\u00f3n",
       "language": "es",
       "thumbnail": "assets/How Omega-3 Fatty Acids Impact Heart Health.png",
       "translations": {
@@ -5522,7 +6158,7 @@
     },
     {
       "id": "dc53eaa1d134a4a43374b9a59ea9d2a3",
-      "name": "Cómo el estrés puede afectar a la fisiología y la salud del corazón",
+      "name": "C\u00f3mo el estr\u00e9s puede afectar a la fisiolog\u00eda y la salud del coraz\u00f3n",
       "language": "es",
       "thumbnail": "assets/How Stress Affects Your Heart.png",
       "translations": {
@@ -5531,7 +6167,7 @@
     },
     {
       "id": "9929565057a437edae0aa6a0e72c9cac",
-      "name": "Comprender los distintos estilos de comunicación",
+      "name": "Comprender los distintos estilos de comunicaci\u00f3n",
       "language": "es",
       "thumbnail": "assets/Understanding Different Communication Styles.png",
       "translations": {
@@ -5540,7 +6176,7 @@
     },
     {
       "id": "a7d941d036e013098e861f65a93c4c23",
-      "name": "Cómo afectan el tabaco y el vapeo a la salud bucodental",
+      "name": "C\u00f3mo afectan el tabaco y el vapeo a la salud bucodental",
       "language": "es",
       "thumbnail": "assets/How Smoking & Vaping Affect Oral Health.png",
       "translations": {
@@ -5549,7 +6185,7 @@
     },
     {
       "id": "9929eaac991a3a48aa3a6d57ed555058",
-      "name": "Los efectos del humo ajeno en los demás",
+      "name": "Los efectos del humo ajeno en los dem\u00e1s",
       "language": "es",
       "thumbnail": "assets/The Effects Of Second-Hand Smoke On Others.png",
       "translations": {
@@ -5567,7 +6203,7 @@
     },
     {
       "id": "caadaac77ce744c8199415850ecb1bc6",
-      "name": "Qué dice tu nivel de actividad sobre tu salud",
+      "name": "Qu\u00e9 dice tu nivel de actividad sobre tu salud",
       "language": "es",
       "thumbnail": "assets/What Your Activity Level Says About Your Health.png",
       "translations": {
@@ -5576,7 +6212,7 @@
     },
     {
       "id": "75504ba48608cc890609724c14a79ae7",
-      "name": "Cómo un núcleo fuerte o 'core' favorece los movimientos cotidianos",
+      "name": "C\u00f3mo un n\u00facleo fuerte o 'core' favorece los movimientos cotidianos",
       "language": "es",
       "thumbnail": "assets/How a Strong Core Supports Everyday Movement.png",
       "translations": {
@@ -5585,7 +6221,7 @@
     },
     {
       "id": "d8b20bb20050fa44f8e516cffd35552a",
-      "name": "Qué es el IMC y por qué es importante",
+      "name": "Qu\u00e9 es el IMC y por qu\u00e9 es importante",
       "language": "es",
       "thumbnail": "assets/What Is BMI and Why It Matters.png",
       "translations": {
@@ -5594,7 +6230,7 @@
     },
     {
       "id": "44f22996bbba7f01ea38e7666bb43602",
-      "name": "¿está tu IMC dentro del rango saludable?",
+      "name": "\u00bfest\u00e1 tu IMC dentro del rango saludable?",
       "language": "es",
       "thumbnail": "assets/Is Your BMI in the Healthy Range.png",
       "translations": {
@@ -5603,7 +6239,7 @@
     },
     {
       "id": "f42aae0c66e96f82868a1654a5635511",
-      "name": "Por qué la composición corporal puede ser más importante que el IMC",
+      "name": "Por qu\u00e9 la composici\u00f3n corporal puede ser m\u00e1s importante que el IMC",
       "language": "es",
       "thumbnail": "assets/Why Body Composition Might Matter More Than BMI Alone.png",
       "translations": {
@@ -5614,14 +6250,14 @@
       "id": "51ce7754306fc572ecefaf645a4a8f32",
       "name": "Comprender los efectos secundarios de los medicamentos",
       "language": "es",
-      "thumbnail": "assets/Understanding Medication Side Effects- What’s Normal, What’s Not.png",
+      "thumbnail": "assets/Understanding Medication Side Effects- What\u2019s Normal, What\u2019s Not.png",
       "translations": {
         "en": "e9b4b55c4a2f5011097987f457a799b3"
       }
     },
     {
       "id": "8ce499066f46ef681e06bf0896274334",
-      "name": "Por qué es importante tomar los medicamentos según lo prescrito",
+      "name": "Por qu\u00e9 es importante tomar los medicamentos seg\u00fan lo prescrito",
       "language": "es",
       "thumbnail": "assets/Why Taking Medications as Prescribed Matters.png",
       "translations": {
@@ -5639,7 +6275,7 @@
     },
     {
       "id": "00ecb8baf86d62c95aac85ee803dddde",
-      "name": "Cómo hablar con tu médico de dudas con la medicación",
+      "name": "C\u00f3mo hablar con tu m\u00e9dico de dudas con la medicaci\u00f3n",
       "language": "es",
       "thumbnail": "assets/How to Talk to Your Doctor About Medication Concerns.png",
       "translations": {
@@ -5648,7 +6284,7 @@
     },
     {
       "id": "8e03d9a04cde891dee7efbf28f5e9867",
-      "name": "Hábitos de medicación inteligentes",
+      "name": "H\u00e1bitos de medicaci\u00f3n inteligentes",
       "language": "es",
       "thumbnail": "assets/Smart Medication Habits.png",
       "translations": {
@@ -5657,7 +6293,7 @@
     },
     {
       "id": "5ea3f9fb484ddb56d6a6e858bcb1139b",
-      "name": "Hacer del uso del cinturón de seguridad un hábito no negociable",
+      "name": "Hacer del uso del cintur\u00f3n de seguridad un h\u00e1bito no negociable",
       "language": "es",
       "thumbnail": "assets/Make Seat Belt Use a Non-Negotiable Habit.png",
       "translations": {
@@ -5666,7 +6302,7 @@
     },
     {
       "id": "4701e37455d93d18bc957cb36f330282",
-      "name": "Por qué la decisión de abrocharse el cinturón afecta a todos los ocupantes del vehículo",
+      "name": "Por qu\u00e9 la decisi\u00f3n de abrocharse el cintur\u00f3n afecta a todos los ocupantes del veh\u00edculo",
       "language": "es",
       "thumbnail": "assets/Why Your Choice of Buckle Up Affects Everyone in the Car.png",
       "translations": {
@@ -5675,7 +6311,7 @@
     },
     {
       "id": "655318f4c2dee5e2802517b054b06746",
-      "name": "Cómo crear hábitos saludables para cuidar de nuestro tiempo frente a la pantalla",
+      "name": "C\u00f3mo crear h\u00e1bitos saludables para cuidar de nuestro tiempo frente a la pantalla",
       "language": "es",
       "thumbnail": "assets/Creating Healthy Screen Time Habits That Actually Stick.png",
       "translations": {
@@ -5684,16 +6320,16 @@
     },
     {
       "id": "036bffd7edf578b920db1ea90a44764d",
-      "name": "El bucle de la dopamina: por qué es difícil dejar el teléfono",
+      "name": "El bucle de la dopamina: por qu\u00e9 es dif\u00edcil dejar el tel\u00e9fono",
       "language": "es",
-      "thumbnail": "assets/The Dopamine Loop- Why It’s Hard to Put Your Phone Down.png",
+      "thumbnail": "assets/The Dopamine Loop- Why It\u2019s Hard to Put Your Phone Down.png",
       "translations": {
         "en": "35ccac13b55fbbb6f7731bbce94c2d4b"
       }
     },
     {
       "id": "0bc7440274bc419a48a3f4e9e4a42f57",
-      "name": "Baños de bosque: qué son y cómo probarlos",
+      "name": "Ba\u00f1os de bosque: qu\u00e9 son y c\u00f3mo probarlos",
       "language": "es",
       "thumbnail": "assets/Forest Bathing- What It Is and How to Try It.png",
       "translations": {
@@ -5702,7 +6338,7 @@
     },
     {
       "id": "de1308633492b2ac7450b7b4dacf1b22",
-      "name": "Cómo hacer que la naturaleza forme parte de tu rutina diaria",
+      "name": "C\u00f3mo hacer que la naturaleza forme parte de tu rutina diaria",
       "language": "es",
       "thumbnail": "assets/How to Make Nature Part of Your Daily Routine.png",
       "translations": {
@@ -5711,7 +6347,7 @@
     },
     {
       "id": "17169a018d5e7ea1d1c7588c54022762",
-      "name": "Cómo la naturaleza reduce el estrés y la ansiedad",
+      "name": "C\u00f3mo la naturaleza reduce el estr\u00e9s y la ansiedad",
       "language": "es",
       "thumbnail": "assets/How Nature Reduces Stress and Anxiety.png",
       "translations": {
@@ -5720,7 +6356,7 @@
     },
     {
       "id": "58e89c451fb89b9889768057fc825d53",
-      "name": "Qué hacer en caso de caída",
+      "name": "Qu\u00e9 hacer en caso de ca\u00edda",
       "language": "es",
       "thumbnail": "assets/What to Do If You Fall.png",
       "translations": {
@@ -5729,7 +6365,7 @@
     },
     {
       "id": "e6048a22317d507afc91473d796f3bf4",
-      "name": "Cómo utilizar un bastón o un andador con seguridad",
+      "name": "C\u00f3mo utilizar un bast\u00f3n o un andador con seguridad",
       "language": "es",
       "thumbnail": "assets/How to Use a Cane or Walker Safely.png",
       "translations": {
@@ -5738,7 +6374,7 @@
     },
     {
       "id": "15a372d4d46f4fa8c5e1ad3ddea9a615",
-      "name": "Cómo hablar con su médico sobre las preocupaciones relacionadas con las caídas",
+      "name": "C\u00f3mo hablar con su m\u00e9dico sobre las preocupaciones relacionadas con las ca\u00eddas",
       "language": "es",
       "thumbnail": "assets/How to Talk to Your Doctor About Fall Concerns.jpg",
       "translations": {
@@ -5747,7 +6383,7 @@
     },
     {
       "id": "7c024e6b5a4b9ee04c183c04259c4f4c",
-      "name": "Cómo hacer que tu baño, dormitorio y cocina sean a prueba de caídas",
+      "name": "C\u00f3mo hacer que tu ba\u00f1o, dormitorio y cocina sean a prueba de ca\u00eddas",
       "language": "es",
       "thumbnail": "assets/How to Fall-Proof Your Bathroom, Bedroom, and Kitchen.png",
       "translations": {
@@ -5756,7 +6392,7 @@
     },
     {
       "id": "4ea229a9234c7b4c98c87bdf20a651cf",
-      "name": "Cómo afectan la vista y el oído al riesgo de caídas",
+      "name": "C\u00f3mo afectan la vista y el o\u00eddo al riesgo de ca\u00eddas",
       "language": "es",
       "thumbnail": "assets/How Vision and Hearing Affect Fall Risk.png",
       "translations": {
@@ -5765,7 +6401,7 @@
     },
     {
       "id": "446123a15fd3531bfbfebd45ca77d29f",
-      "name": "Por qué se producen caídas en casa",
+      "name": "Por qu\u00e9 se producen ca\u00eddas en casa",
       "language": "es",
       "thumbnail": "assets/Why Falls Happen at Home.png",
       "translations": {
@@ -5774,7 +6410,7 @@
     },
     {
       "id": "835e4cfdec5ce9ac7fb063fcde133f61",
-      "name": "La relación entre el equilibrio, la fuerza y la prevención de caídas",
+      "name": "La relaci\u00f3n entre el equilibrio, la fuerza y la prevenci\u00f3n de ca\u00eddas",
       "language": "es",
       "thumbnail": "assets/The Link Between Balance, Strength, and Fall Prevention.png",
       "translations": {
@@ -5783,7 +6419,7 @@
     },
     {
       "id": "fa7a7988a85e43b3f2c5393dd9a6f0ff",
-      "name": "Comprender las causas de las caídas",
+      "name": "Comprender las causas de las ca\u00eddas",
       "language": "es",
       "thumbnail": "assets/Understanding the Causes of Falls.png",
       "translations": {
@@ -5792,7 +6428,7 @@
     },
     {
       "id": "6ccf3b71fba2d68d00faed7d763ffd6b",
-      "name": "Cómo las dosis de medicación olvidadas pueden afectar a las enfermedades crónicas",
+      "name": "C\u00f3mo las dosis de medicaci\u00f3n olvidadas pueden afectar a las enfermedades cr\u00f3nicas",
       "language": "es",
       "thumbnail": "assets/How Missed Medication Doses Can Impact Chronic Conditions.png",
       "translations": {
@@ -5801,7 +6437,7 @@
     },
     {
       "id": "da278a20f5e1a37e4633a754de83b803",
-      "name": "Sal, estrés, sueño y tensión arterial",
+      "name": "Sal, estr\u00e9s, sue\u00f1o y tensi\u00f3n arterial",
       "language": "es",
       "thumbnail": "assets/Salt, Stress, Sleep, and Blood Pressure.png",
       "translations": {
@@ -5810,7 +6446,7 @@
     },
     {
       "id": "d4f0e8ef7a0b63bf5599f54fdfc5a973",
-      "name": "¿qué significa tener la tensión arterial baja?",
+      "name": "\u00bfqu\u00e9 significa tener la tensi\u00f3n arterial baja?",
       "language": "es",
       "thumbnail": "assets/What Does Low Blood Pressure Mean.png",
       "translations": {
@@ -5819,7 +6455,7 @@
     },
     {
       "id": "b08439fa5dcf2c53203b96898570b56e",
-      "name": "El impacto de la hipertensión arterial en el corazón, el cerebro y los riñones",
+      "name": "El impacto de la hipertensi\u00f3n arterial en el coraz\u00f3n, el cerebro y los ri\u00f1ones",
       "language": "es",
       "thumbnail": "assets/The Impact of High Blood Pressure on the Heart, Brain, and Kidneys.png",
       "translations": {
@@ -5828,7 +6464,7 @@
     },
     {
       "id": "a233a8edde3543339a4479ff826043ee",
-      "name": "Qué significan realmente tus niveles de colesterol",
+      "name": "Qu\u00e9 significan realmente tus niveles de colesterol",
       "language": "es",
       "thumbnail": "assets/What Your Cholesterol Numbers Really Mean.png",
       "translations": {
@@ -5846,7 +6482,7 @@
     },
     {
       "id": "fff41653c62eed98bbfd3ef7ee915cb3",
-      "name": "Cómo el colesterol afecta a las arterias, el cerebro y otros órganos",
+      "name": "C\u00f3mo el colesterol afecta a las arterias, el cerebro y otros \u00f3rganos",
       "language": "es",
       "thumbnail": "assets/How Cholesterol Affects Your Arteries, Brain, and Beyond.png",
       "translations": {
@@ -5855,7 +6491,7 @@
     },
     {
       "id": "05d5e865a6746d90debd35dd11a84511",
-      "name": "Cómo favorecer el bienestar mental de tus hijos en el mundo digital ",
+      "name": "C\u00f3mo favorecer el bienestar mental de tus hijos en el mundo digital ",
       "language": "es",
       "thumbnail": "assets/Supporting Your Children's Mental Wellbeing In The Digital World.png",
       "translations": {
@@ -5864,7 +6500,7 @@
     },
     {
       "id": "d1a5a89e7af91bca955adf0bddf59518",
-      "name": "Cuándo iniciar las revisiones rutinarias del cáncer de mama",
+      "name": "Cu\u00e1ndo iniciar las revisiones rutinarias del c\u00e1ncer de mama",
       "language": "es",
       "thumbnail": "assets/When To Begin Routine Breast Cancer Screenings.png",
       "translations": {
@@ -5873,7 +6509,7 @@
     },
     {
       "id": "f61379c3d9171eb867234fc398723780",
-      "name": "Cáncer de mama en mujeres en distintas etapas de la vida",
+      "name": "C\u00e1ncer de mama en mujeres en distintas etapas de la vida",
       "language": "es",
       "thumbnail": "assets/Breast Cancer in Women at Various Life Stages.png",
       "translations": {
@@ -5882,7 +6518,7 @@
     },
     {
       "id": "d0d4b5c7dd562971d8689fff353e9c4e",
-      "name": "¿qué es el índice UV?",
+      "name": "\u00bfqu\u00e9 es el \u00edndice UV?",
       "language": "es",
       "thumbnail": "assets/What is the UV Index.png",
       "translations": {
@@ -5891,9 +6527,9 @@
     },
     {
       "id": "53e31e20b27736fd56b679ef4608efca",
-      "name": "Lista de verificación de la salud masculina en varias etapas de la vida",
+      "name": "Lista de verificaci\u00f3n de la salud masculina en varias etapas de la vida",
       "language": "es",
-      "thumbnail": "assets/Men’s Health Checklist at Various Life Stages.png",
+      "thumbnail": "assets/Men\u2019s Health Checklist at Various Life Stages.png",
       "translations": {
         "en": "45fca734a265ae5ac9a4690303b5d421"
       }
@@ -5909,7 +6545,7 @@
     },
     {
       "id": "678389945c0c25da1edea9dab5116f4b",
-      "name": "Educación sobre el suelo pélvico y anatomía básica",
+      "name": "Educaci\u00f3n sobre el suelo p\u00e9lvico y anatom\u00eda b\u00e1sica",
       "language": "es",
       "thumbnail": "assets/Pelvic Floor Education & Basic Anatomy.png",
       "translations": {
@@ -5918,7 +6554,7 @@
     },
     {
       "id": "3de067bf98887888532148e7e55d131e",
-      "name": "Exámenes médicos recomendados para personas mayores",
+      "name": "Ex\u00e1menes m\u00e9dicos recomendados para personas mayores",
       "language": "es",
       "thumbnail": "assets/Recommended Health Screenings For Seniors.png",
       "translations": {
@@ -5927,7 +6563,7 @@
     },
     {
       "id": "bc78ea6147f59d1991034f479463e223",
-      "name": "Cómo distinguir una migraña de un dolor de cabeza",
+      "name": "C\u00f3mo distinguir una migra\u00f1a de un dolor de cabeza",
       "language": "es",
       "thumbnail": "assets/How to Identify a Migraine vs. a Headache.png",
       "translations": {
@@ -5936,7 +6572,7 @@
     },
     {
       "id": "b8d71f64b980c7fd92d325db3ca9f2bc",
-      "name": "Fundamentos y consejos para el seguimiento de la ovulación",
+      "name": "Fundamentos y consejos para el seguimiento de la ovulaci\u00f3n",
       "language": "es",
       "thumbnail": "assets/Fundamentals and Tips for Tracking Ovulation.png",
       "translations": {
@@ -5945,7 +6581,7 @@
     },
     {
       "id": "554f3cca66411a2a4cc37a2460bc178c",
-      "name": "Cómo enseñar a los niños la importancia de la generosidad",
+      "name": "C\u00f3mo ense\u00f1ar a los ni\u00f1os la importancia de la generosidad",
       "language": "es",
       "thumbnail": "assets/Teaching Children About Giving.png",
       "translations": {
@@ -5956,14 +6592,14 @@
       "id": "0d720825805f1bf627d15ad433de206f",
       "name": "Formas inteligentes de dar las gracias",
       "language": "es",
-      "thumbnail": "assets/Thoughtful Ways To Say “Thank You”.png",
+      "thumbnail": "assets/Thoughtful Ways To Say \u201cThank You\u201d.png",
       "translations": {
         "en": "11a95625bb855d72f42fbcaa7500bfe3"
       }
     },
     {
       "id": "93f367e2bec8d6c63325446fcceb46d3",
-      "name": "El reto de los 30 pequeños actos de bondad",
+      "name": "El reto de los 30 peque\u00f1os actos de bondad",
       "language": "es",
       "thumbnail": "assets/The 30 Small Acts of Kindness Challenge.png",
       "translations": {
@@ -5990,7 +6626,7 @@
     },
     {
       "id": "16be830d53f67fad077d44104b579611",
-      "name": "Qué preguntar al fisioterapeuta en la primera visita",
+      "name": "Qu\u00e9 preguntar al fisioterapeuta en la primera visita",
       "language": "es",
       "thumbnail": "assets/What To Ask at a Physical Therapist on Your First Visit.png",
       "translations": {
@@ -5999,7 +6635,7 @@
     },
     {
       "id": "56b0c4facdcf6e6e724b7ca851f2878d",
-      "name": "¿por qué tengo los músculos rígidos?",
+      "name": "\u00bfpor qu\u00e9 tengo los m\u00fasculos r\u00edgidos?",
       "language": "es",
       "thumbnail": "assets/Why Do My Muscles Feel Stiff.png",
       "translations": {
@@ -6008,7 +6644,7 @@
     },
     {
       "id": "7d74211b2686c5cdcbad34337a171c08",
-      "name": "Qué músculos se trabajan al hacer sentadillas y cómo nos ayudan",
+      "name": "Qu\u00e9 m\u00fasculos se trabajan al hacer sentadillas y c\u00f3mo nos ayudan",
       "language": "es",
       "thumbnail": "assets/What Muscles Are Worked When Doing Squats and How It Helps.png",
       "translations": {
@@ -6017,7 +6653,7 @@
     },
     {
       "id": "7cb1183ec7406a5b6b7d6a4283c47fcf",
-      "name": "Cómo el estrés diario afecta la parte superior del cuerpo",
+      "name": "C\u00f3mo el estr\u00e9s diario afecta la parte superior del cuerpo",
       "language": "es",
       "thumbnail": "assets/How Daily Stress Affects Your Upper Body.png",
       "translations": {
@@ -6026,7 +6662,7 @@
     },
     {
       "id": "3967625c402aa5d54d46915788a513f7",
-      "name": "Por qué fortalecer la espalda puede aliviar el dolor de espalda",
+      "name": "Por qu\u00e9 fortalecer la espalda puede aliviar el dolor de espalda",
       "language": "es",
       "thumbnail": "assets/Why Strengthening Your Back May Relieve Back Pain.png",
       "translations": {
@@ -6035,7 +6671,7 @@
     },
     {
       "id": "ce80bbee64ae3e34ed4fbd0ed01bc5d6",
-      "name": "Por qué unas caderas tensas pueden causar lumbalgia",
+      "name": "Por qu\u00e9 unas caderas tensas pueden causar lumbalgia",
       "language": "es",
       "thumbnail": "assets/Why Tight Hips Can Cause Low Back Pain.png",
       "translations": {
@@ -6044,7 +6680,7 @@
     },
     {
       "id": "06f260e87460c61df704afdfca449b8b",
-      "name": "Qué es la conexión mente-cuerpo y cómo maximizarla",
+      "name": "Qu\u00e9 es la conexi\u00f3n mente-cuerpo y c\u00f3mo maximizarla",
       "language": "es",
       "thumbnail": "assets/What Is the Mind-Body Connection and How to Maximize It.png",
       "translations": {
@@ -6062,7 +6698,7 @@
     },
     {
       "id": "72a19fde34de051a56d7a9dcaa13d5b6",
-      "name": "Cuidado de los ojos para niños",
+      "name": "Cuidado de los ojos para ni\u00f1os",
       "language": "es",
       "thumbnail": "assets/Eye Care For Kids.png",
       "translations": {
@@ -6071,7 +6707,7 @@
     },
     {
       "id": "ffe29b63657ae1ec9ae3a2acc551ddf5",
-      "name": "Seguimiento de los hábitos del sueño con tecnología portátil",
+      "name": "Seguimiento de los h\u00e1bitos del sue\u00f1o con tecnolog\u00eda port\u00e1til",
       "language": "es",
       "thumbnail": "assets/Tracking Sleep Habits With Wearable Technology.png",
       "translations": {
@@ -6080,7 +6716,7 @@
     },
     {
       "id": "6e8f906ac74396e6a980a9cf30929f7b",
-      "name": "Dispositivos portátiles para monitorear la salud cardíaca",
+      "name": "Dispositivos port\u00e1tiles para monitorear la salud card\u00edaca",
       "language": "es",
       "thumbnail": "assets/Wearable Devices for Monitoring Cardiac Health.png",
       "translations": {
@@ -6089,7 +6725,7 @@
     },
     {
       "id": "d2aaf00d41dd21eb870d424bae7d0978",
-      "name": "Dispositivos portátiles para controlar la respiración y el pulso ",
+      "name": "Dispositivos port\u00e1tiles para controlar la respiraci\u00f3n y el pulso ",
       "language": "es",
       "thumbnail": "assets/Wearable Devices for Tracking Respirations and Pulse Oximetry.png",
       "translations": {
@@ -6098,7 +6734,7 @@
     },
     {
       "id": "a27c12e241aa102e9d5ceb6699f82c42",
-      "name": "Hidratación e ingesta de líquidos para un rendimiento óptimo",
+      "name": "Hidrataci\u00f3n e ingesta de l\u00edquidos para un rendimiento \u00f3ptimo",
       "language": "es",
       "thumbnail": "assets/Hydration & Fluid Intake For Optimal Performance.png",
       "translations": {
@@ -6107,7 +6743,7 @@
     },
     {
       "id": "b8ea7079a3f8ded258e9a0caa9b11f24",
-      "name": "Afirmaciones del mediodía para tu bienestar",
+      "name": "Afirmaciones del mediod\u00eda para tu bienestar",
       "language": "es",
       "thumbnail": "assets/Midday Affirmations For Wellbeing.png",
       "translations": {
@@ -6116,7 +6752,7 @@
     },
     {
       "id": "98585897c454f5205c5b5e79bf00db73",
-      "name": "Consejos sobre cómo ser padres y compaginarlo con la vida amorosa",
+      "name": "Consejos sobre c\u00f3mo ser padres y compaginarlo con la vida amorosa",
       "language": "es",
       "thumbnail": "assets/Tips For Balancing Parenthood & Romance.png",
       "translations": {
@@ -6125,7 +6761,7 @@
     },
     {
       "id": "e5439cc22472beebcbe0ffa85a950576",
-      "name": "Recupera tu tiempo con una programación productiva ",
+      "name": "Recupera tu tiempo con una programaci\u00f3n productiva ",
       "language": "es",
       "thumbnail": "assets/Reclaim Your Time With Productive Scheduling.png",
       "translations": {
@@ -6143,7 +6779,7 @@
     },
     {
       "id": "62676e4aae4dad063f7c48f2dcd9fa26",
-      "name": "Cómo encontrar tu comunidad ideal",
+      "name": "C\u00f3mo encontrar tu comunidad ideal",
       "language": "es",
       "thumbnail": "assets/How To Find Your Ideal Community.png",
       "translations": {
@@ -6152,7 +6788,7 @@
     },
     {
       "id": "9a87e506b804639bf833656118a7efc3",
-      "name": "La lucha silenciosa de la depresión",
+      "name": "La lucha silenciosa de la depresi\u00f3n",
       "language": "es",
       "thumbnail": "assets/The Silent Struggle Of Depression.png",
       "translations": {
@@ -6179,7 +6815,7 @@
     },
     {
       "id": "114278b4d6d023ce46bba92e9e601796",
-      "name": "Cultivar el bienestar cognitivo del alzhéimer",
+      "name": "Cultivar el bienestar cognitivo del alzh\u00e9imer",
       "language": "es",
       "thumbnail": "assets/Nurturing Cognitive Wellbeing For Alzheimer's.png",
       "translations": {
@@ -6197,7 +6833,7 @@
     },
     {
       "id": "f653fcc184e88a6bf74d3db5dc4dfc61",
-      "name": "Consumo de bebidas saludables para una salud óptima",
+      "name": "Consumo de bebidas saludables para una salud \u00f3ptima",
       "language": "es",
       "thumbnail": "assets/Healthy Beverage Consumption For Optimal Health.png",
       "translations": {
@@ -6233,7 +6869,7 @@
     },
     {
       "id": "0b552b5ac6fb6978a096d02643ade76d",
-      "name": "Cómo combatir y revertir el colesterol alto",
+      "name": "C\u00f3mo combatir y revertir el colesterol alto",
       "language": "es",
       "thumbnail": "assets/How To Tackle And Reverse High Cholesterol.png",
       "translations": {
@@ -6251,7 +6887,7 @@
     },
     {
       "id": "74c29a5430849022f9edfe8492be221e",
-      "name": "¿qué es el síndrome de ovario poliquístico?",
+      "name": "\u00bfqu\u00e9 es el s\u00edndrome de ovario poliqu\u00edstico?",
       "language": "es",
       "thumbnail": "assets/What Is PCOS.png",
       "translations": {
@@ -6269,7 +6905,7 @@
     },
     {
       "id": "62ba48af0c3967aa0ef170e2dd74154b",
-      "name": "Autorreflexión para un uso más saludable del teléfono",
+      "name": "Autorreflexi\u00f3n para un uso m\u00e1s saludable del tel\u00e9fono",
       "language": "es",
       "thumbnail": "assets/Self-Reflection For Healthier Phone Use.png",
       "translations": {
@@ -6278,7 +6914,7 @@
     },
     {
       "id": "ffbb1e7a9551d49842808b5bf5dc09f3",
-      "name": "Abogar por sí mismo en el cuidado de la salud",
+      "name": "Abogar por s\u00ed mismo en el cuidado de la salud",
       "language": "es",
       "thumbnail": "assets/Advocating For Yourself In Healthcare.png",
       "translations": {
@@ -6296,7 +6932,7 @@
     },
     {
       "id": "94cfa15a606a7d57884664e08f530fc4",
-      "name": "Nutrición para el equilibrio hormonal",
+      "name": "Nutrici\u00f3n para el equilibrio hormonal",
       "language": "es",
       "thumbnail": "assets/Hormone Balancing Nutrition.png",
       "translations": {
@@ -6341,7 +6977,7 @@
     },
     {
       "id": "d861259887bfc54873c7e78b2fe9f011",
-      "name": "Por qué los trabajadores de oficina deben preocuparse por la prevención de la artritis",
+      "name": "Por qu\u00e9 los trabajadores de oficina deben preocuparse por la prevenci\u00f3n de la artritis",
       "language": "es",
       "thumbnail": "assets/Why Desk Workers Should Care About Arthritis Prevention.png",
       "translations": {
@@ -6350,7 +6986,7 @@
     },
     {
       "id": "c796667ad91b10040ff6587f36ada4f3",
-      "name": "¿a quién afecta la artritis?",
+      "name": "\u00bfa qui\u00e9n afecta la artritis?",
       "language": "es",
       "thumbnail": "assets/Who Does Arthritis Affect.png",
       "translations": {
@@ -6359,7 +6995,7 @@
     },
     {
       "id": "27eeed327d2dc7d25f282126cd7212df",
-      "name": "Introducción a la planificación patrimonial",
+      "name": "Introducci\u00f3n a la planificaci\u00f3n patrimonial",
       "language": "es",
       "thumbnail": "assets/Introduction To Estate Planning.png",
       "translations": {
@@ -6368,7 +7004,7 @@
     },
     {
       "id": "7d15a68d22ffb3aef7fa63b29489f158",
-      "name": "Elegir al médico adecuado para el cuidado de la endometriosis",
+      "name": "Elegir al m\u00e9dico adecuado para el cuidado de la endometriosis",
       "language": "es",
       "thumbnail": "assets/Choosing The Right Doctor For Endometriosis Care.png",
       "translations": {
@@ -6377,7 +7013,7 @@
     },
     {
       "id": "0c837433f52d94f646d3a2fe98a3df3d",
-      "name": "Endometriosis 101: entendiendo los conceptos básicos",
+      "name": "Endometriosis 101: entendiendo los conceptos b\u00e1sicos",
       "language": "es",
       "thumbnail": "assets/Endometriosis 101.png",
       "translations": {
@@ -6386,7 +7022,7 @@
     },
     {
       "id": "09dee3e89a235af8f6c9fa3a43fd609e",
-      "name": "Demencia: signos tempranos, factores de riesgo y técnicas de diagnóstico",
+      "name": "Demencia: signos tempranos, factores de riesgo y t\u00e9cnicas de diagn\u00f3stico",
       "language": "es",
       "thumbnail": "assets/Early Signs & Risk Factors For Dementia.png",
       "translations": {
@@ -6404,7 +7040,7 @@
     },
     {
       "id": "c1bffc1d4c2ef43b2bff6410c6774196",
-      "name": "Cómo hablar con seres queridos sobre los signos y síntomas de la demencia",
+      "name": "C\u00f3mo hablar con seres queridos sobre los signos y s\u00edntomas de la demencia",
       "language": "es",
       "thumbnail": "assets/How To Talk To Loved Ones About Dementia Signs & Symptoms.png",
       "translations": {
@@ -6413,7 +7049,7 @@
     },
     {
       "id": "b8865796dafb3fbf13774742329dc84d",
-      "name": "Comprender el cortisol: una guía sobre sus efectos y manejo",
+      "name": "Comprender el cortisol: una gu\u00eda sobre sus efectos y manejo",
       "language": "es",
       "thumbnail": "assets/A Guide To Cortisol Management & Effects.png",
       "translations": {
@@ -6422,7 +7058,7 @@
     },
     {
       "id": "dace6e58734d32d57e706046a977b873",
-      "name": "Cómo manejar tus emociones en respuesta al estrés de las noticias",
+      "name": "C\u00f3mo manejar tus emociones en respuesta al estr\u00e9s de las noticias",
       "language": "es",
       "thumbnail": "assets/How To Manage Your Emotions In Response To News Stress.png",
       "translations": {
@@ -6440,7 +7076,7 @@
     },
     {
       "id": "0f439c4f8be4a378e3c40d0b3812fa62",
-      "name": "Una guía para principiantes de pilates",
+      "name": "Una gu\u00eda para principiantes de pilates",
       "language": "es",
       "thumbnail": "assets/A Beginner's Guide To Pilates.png",
       "translations": {
@@ -6449,7 +7085,7 @@
     },
     {
       "id": "c3eb273d7c3d02610c1cc73bd18e0c76",
-      "name": "Entrenamiento cardiovascular para un corazón saludable",
+      "name": "Entrenamiento cardiovascular para un coraz\u00f3n saludable",
       "language": "es",
       "thumbnail": "assets/Cardio Workout For A Healthy Heart.png",
       "translations": {
@@ -6467,7 +7103,7 @@
     },
     {
       "id": "84f86e657efb85bfade666ab74f93eee",
-      "name": "La importancia de la movilidad articular y los ejercicios para un movimiento óptimo",
+      "name": "La importancia de la movilidad articular y los ejercicios para un movimiento \u00f3ptimo",
       "language": "es",
       "thumbnail": "assets/The Importance Of Joint Mobility & Exercises For Optimal Movement.png",
       "translations": {
@@ -6476,7 +7112,7 @@
     },
     {
       "id": "37954166d9d374a40d347f9de318c742",
-      "name": "El poder terapéutico del baile",
+      "name": "El poder terap\u00e9utico del baile",
       "language": "es",
       "thumbnail": "assets/The Therapeutic Power Of Dance.png",
       "translations": {
@@ -6485,7 +7121,7 @@
     },
     {
       "id": "e7d7c1f1f4fc999e019e465784210cc8",
-      "name": "Prevenir la pérdida muscular con dieta y ejercicio",
+      "name": "Prevenir la p\u00e9rdida muscular con dieta y ejercicio",
       "language": "es",
       "thumbnail": "assets/Preventing Muscle Loss With Diet & Exercise.png",
       "translations": {
@@ -6494,7 +7130,7 @@
     },
     {
       "id": "af5499586845b8eac72b38af0dfae6fa",
-      "name": "Cómo apoyar la salud del hígado de manera natural",
+      "name": "C\u00f3mo apoyar la salud del h\u00edgado de manera natural",
       "language": "es",
       "thumbnail": "assets/How To Support Your Liver Health Naturally.png",
       "translations": {
@@ -6503,7 +7139,7 @@
     },
     {
       "id": "70f590a46ad9d41209e176903801e158",
-      "name": "Comprender el papel de las vitaminas b en la producción de energía",
+      "name": "Comprender el papel de las vitaminas b en la producci\u00f3n de energ\u00eda",
       "language": "es",
       "thumbnail": "assets/Understanding The Role Of B Vitamins In Energy Production.png",
       "translations": {
@@ -6512,7 +7148,7 @@
     },
     {
       "id": "ccd9d191a064ae3c1fcd2f34baf7fcbb",
-      "name": "Cómo manejar el reflujo ácido de forma natural",
+      "name": "C\u00f3mo manejar el reflujo \u00e1cido de forma natural",
       "language": "es",
       "thumbnail": "assets/How To Manage Acid Reflux Naturally.png",
       "translations": {
@@ -6539,7 +7175,7 @@
     },
     {
       "id": "715ef5762af568cff76a67a33197d37e",
-      "name": "Prevención y manejo de los síntomas del resfriado común",
+      "name": "Prevenci\u00f3n y manejo de los s\u00edntomas del resfriado com\u00fan",
       "language": "es",
       "thumbnail": "assets/Preventing & Managing Common Cold Symptoms.png",
       "translations": {
@@ -6566,7 +7202,7 @@
     },
     {
       "id": "8467fb6bf3e5b93d7f197d09421b73a4",
-      "name": "Consejos para manejar la fatiga crónica",
+      "name": "Consejos para manejar la fatiga cr\u00f3nica",
       "language": "es",
       "thumbnail": "assets/Tips For Managing Chronic Fatigue.png",
       "translations": {
@@ -6584,7 +7220,7 @@
     },
     {
       "id": "e2d18a2523c215693e3d4ddf4ac0be31",
-      "name": "Maneras de fortalecer tu sistema inmunológico",
+      "name": "Maneras de fortalecer tu sistema inmunol\u00f3gico",
       "language": "es",
       "thumbnail": "assets/Ways To Boost Your Immune System.png",
       "translations": {
@@ -6611,7 +7247,7 @@
     },
     {
       "id": "64874d3af84e971938b1cb4b918958f6",
-      "name": "Unidos por un futuro libre de cáncer",
+      "name": "Unidos por un futuro libre de c\u00e1ncer",
       "language": "es",
       "thumbnail": "assets/Uniting For A Cancer-Free Future.png",
       "translations": {
@@ -6620,7 +7256,7 @@
     },
     {
       "id": "e5d81f56b4a701ca55d9751ae84ebad9",
-      "name": "Disfruta del sol de forma segura: consejos para una exposición saludable al sol",
+      "name": "Disfruta del sol de forma segura: consejos para una exposici\u00f3n saludable al sol",
       "language": "es",
       "thumbnail": "assets/Safe Sun Exposure Tips For Healthy Skin.png",
       "translations": {
@@ -6629,7 +7265,7 @@
     },
     {
       "id": "2353c12965ea4dfe2610e6d2a4a19de7",
-      "name": "Nutriendo el eje cerebro-intestino: consejos para una conexión saludable",
+      "name": "Nutriendo el eje cerebro-intestino: consejos para una conexi\u00f3n saludable",
       "language": "es",
       "thumbnail": "assets/Nurturing The Brain-Gut Axis For Health.png",
       "translations": {
@@ -6638,7 +7274,7 @@
     },
     {
       "id": "706c182fd3e200d97421c15453732ff1",
-      "name": "Vitamina c: un superalimento para la salud óptima",
+      "name": "Vitamina c: un superalimento para la salud \u00f3ptima",
       "language": "es",
       "thumbnail": "assets/Vitamin C As A Superfood For Health.png",
       "translations": {
@@ -6647,7 +7283,7 @@
     },
     {
       "id": "ab88008b4f329fda894d0132e3b80782",
-      "name": "Bienestar holístico: cerrando la brecha entre el bienestar físico y mental",
+      "name": "Bienestar hol\u00edstico: cerrando la brecha entre el bienestar f\u00edsico y mental",
       "language": "es",
       "thumbnail": "assets/Bridging Physical & Mental Wellbeing Gap.png",
       "translations": {
@@ -6656,7 +7292,7 @@
     },
     {
       "id": "6407adb4875e2cab30af682db6b2667a",
-      "name": "Cómo afrontar una enfermedad crónica: estrategias para la vida diaria",
+      "name": "C\u00f3mo afrontar una enfermedad cr\u00f3nica: estrategias para la vida diaria",
       "language": "es",
       "thumbnail": "assets/Daily Strategies For Coping With Chronic Illness.png",
       "translations": {
@@ -6665,7 +7301,7 @@
     },
     {
       "id": "bc1a4e2a73ff47fa97f127a4815707b6",
-      "name": "Guía para principiantes en meditación",
+      "name": "Gu\u00eda para principiantes en meditaci\u00f3n",
       "language": "es",
       "thumbnail": "assets/A Beginner's Guide To Meditation.png",
       "translations": {
@@ -6683,7 +7319,7 @@
     },
     {
       "id": "26b5c9f86126f595db05c078d6de6abd",
-      "name": "Cómo reducir la inflamación a través de la dietaa",
+      "name": "C\u00f3mo reducir la inflamaci\u00f3n a trav\u00e9s de la dietaa",
       "language": "es",
       "thumbnail": "assets/How To Reduce Inflammation Through Diet.png",
       "translations": {
@@ -6701,7 +7337,7 @@
     },
     {
       "id": "2ee06abcdae2b6ca7a1b4e4d23835436",
-      "name": "El papel de la proteína en una dieta saludablee",
+      "name": "El papel de la prote\u00edna en una dieta saludablee",
       "language": "es",
       "thumbnail": "assets/The Role Of Protein In A Healthy Diet.png",
       "translations": {
@@ -6719,7 +7355,7 @@
     },
     {
       "id": "d521701f876fb1eb3641ab629d76d5bd",
-      "name": "El poder de la nutrición en la menopausia",
+      "name": "El poder de la nutrici\u00f3n en la menopausia",
       "language": "es",
       "thumbnail": "assets/The Power Of Nutrition In Menopause.png",
       "translations": {
@@ -6728,7 +7364,7 @@
     },
     {
       "id": "7231ff599ea6dda37181d9e76295d3f3",
-      "name": "Carbohidratos: explicación",
+      "name": "Carbohidratos: explicaci\u00f3n",
       "language": "es",
       "thumbnail": "assets/Carbohydrates Explained.png",
       "translations": {
@@ -6746,7 +7382,7 @@
     },
     {
       "id": "640ecc94080defb440ed886c2d8f5df8",
-      "name": "Comprendiendo la desintoxicación del hígado",
+      "name": "Comprendiendo la desintoxicaci\u00f3n del h\u00edgado",
       "language": "es",
       "thumbnail": "assets/Understanding Liver Detoxification.png",
       "translations": {
@@ -6764,7 +7400,7 @@
     },
     {
       "id": "debc29f75a80d4b809eaac28bdc31575",
-      "name": "El vínculo inextricable entre el rendimiento y el sueño de calidad",
+      "name": "El v\u00ednculo inextricable entre el rendimiento y el sue\u00f1o de calidad",
       "language": "es",
       "thumbnail": "assets/The Link Between Performance & Quality Sleep.png",
       "translations": {
@@ -6782,7 +7418,7 @@
     },
     {
       "id": "ebbf14be2f8d44c7b299af3280c82a93",
-      "name": "Creación de un entorno amigable para personas con demencia: pasos, consejos y precauciones",
+      "name": "Creaci\u00f3n de un entorno amigable para personas con demencia: pasos, consejos y precauciones",
       "language": "es",
       "thumbnail": "assets/Creating A Dementia-Friendly Environment.png",
       "translations": {
@@ -6791,7 +7427,7 @@
     },
     {
       "id": "af4267b2de679ec2a29e08a2b6bff2ad",
-      "name": "Diabetes tipo 1 en niños",
+      "name": "Diabetes tipo 1 en ni\u00f1os",
       "language": "es",
       "thumbnail": "assets/T1D In Children.png",
       "translations": {
@@ -6809,7 +7445,7 @@
     },
     {
       "id": "b8d20a66363f0567c2e711748b6987d2",
-      "name": "Comprender la diabetes tipo 2: guía para las familias",
+      "name": "Comprender la diabetes tipo 2: gu\u00eda para las familias",
       "language": "es",
       "thumbnail": "assets/101 Basics of Type 2 Diabetes.png",
       "translations": {
@@ -6818,7 +7454,7 @@
     },
     {
       "id": "a54be72cb5e067cc3926c5801bd190e2",
-      "name": "Encontrar claridad cuando no estás contento en el trabajo",
+      "name": "Encontrar claridad cuando no est\u00e1s contento en el trabajo",
       "language": "es",
       "thumbnail": "assets/Finding Clarity When You're Unhappy At Work.png",
       "translations": {
@@ -6827,7 +7463,7 @@
     },
     {
       "id": "f02e6ff566bf27cb2f95757bb080683f",
-      "name": "Cómo apoyar a alguien en crisis",
+      "name": "C\u00f3mo apoyar a alguien en crisis",
       "language": "es",
       "thumbnail": "assets/How to Support Others in Crisis.png",
       "translations": {
@@ -6854,7 +7490,7 @@
     },
     {
       "id": "229e14ef0aa4d81f1533e55d86758773",
-      "name": "¿por qué siempre tengo hinchazón",
+      "name": "\u00bfpor qu\u00e9 siempre tengo hinchaz\u00f3n",
       "language": "es",
       "thumbnail": "assets/Why Am I Always Bloated.png",
       "translations": {
@@ -6863,7 +7499,7 @@
     },
     {
       "id": "e9392f1091f289c6e78674d1da9ce1ca",
-      "name": "Prevención del deterioro cognitivo en personas mayores",
+      "name": "Prevenci\u00f3n del deterioro cognitivo en personas mayores",
       "language": "es",
       "thumbnail": "assets/Preventing Cognitive Decline for Seniors.png",
       "translations": {
@@ -6872,7 +7508,7 @@
     },
     {
       "id": "4ca8d74ce6f73de90101f578a5cde8f9",
-      "name": "La psicología del envejecimiento con elegancia",
+      "name": "La psicolog\u00eda del envejecimiento con elegancia",
       "language": "es",
       "thumbnail": "assets/The Psychology of Aging Gracefully.png",
       "translations": {
@@ -6890,7 +7526,7 @@
     },
     {
       "id": "0c5125d5c6849992641fb7786005fa72",
-      "name": "El sueño y el envejecimiento",
+      "name": "El sue\u00f1o y el envejecimiento",
       "language": "es",
       "thumbnail": "assets/Sleep and Aging.png",
       "translations": {
@@ -6899,7 +7535,7 @@
     },
     {
       "id": "7c7ca9c45405eec40e9da3ff34b6c366",
-      "name": "Cómo mantener una vida social a medida que envejecemos",
+      "name": "C\u00f3mo mantener una vida social a medida que envejecemos",
       "language": "es",
       "thumbnail": "assets/How to Stay Social as You Age.png",
       "translations": {
@@ -6908,7 +7544,7 @@
     },
     {
       "id": "8647d5c28c3787ea98d4545b99c1971a",
-      "name": "Prácticas de alimentación consciente",
+      "name": "Pr\u00e1cticas de alimentaci\u00f3n consciente",
       "language": "es",
       "thumbnail": "assets/Mindful Eating Practices.png",
       "translations": {
@@ -6917,7 +7553,7 @@
     },
     {
       "id": "4bd4e23c9acfd4f5cadee9c699b7792e",
-      "name": "Cuándo buscar ayuda profesional o de emergencia para la salud mental",
+      "name": "Cu\u00e1ndo buscar ayuda profesional o de emergencia para la salud mental",
       "language": "es",
       "thumbnail": "assets/When To Seek Professional Or Emergency Help for Mental Health.png",
       "translations": {
@@ -6944,7 +7580,7 @@
     },
     {
       "id": "072474e41eb365c1af06aa82fd4eb605",
-      "name": "Cómo influye tu percepción de la salud en los niveles de estrés",
+      "name": "C\u00f3mo influye tu percepci\u00f3n de la salud en los niveles de estr\u00e9s",
       "language": "es",
       "thumbnail": "assets/How Your Health Perception Impacts Stress Levels.png",
       "translations": {
@@ -6953,7 +7589,7 @@
     },
     {
       "id": "66e78ac321f6a129f96f1fd1cbb5f8be",
-      "name": "Cómo la percepción da forma a la realidad de tu salud",
+      "name": "C\u00f3mo la percepci\u00f3n da forma a la realidad de tu salud",
       "language": "es",
       "thumbnail": "assets/How Perception Shapes Your Health Reality.png",
       "translations": {
@@ -6962,7 +7598,7 @@
     },
     {
       "id": "25a9377660df3a9b11e5ff5c257ddff9",
-      "name": "Con qué frecuencia te mueves cuando estás sentado y por qué es importante",
+      "name": "Con qu\u00e9 frecuencia te mueves cuando est\u00e1s sentado y por qu\u00e9 es importante",
       "language": "es",
       "thumbnail": "assets/How Often You Might Move When Seated and Why It Matters.png",
       "translations": {
@@ -6971,7 +7607,7 @@
     },
     {
       "id": "753c43c99755d500361df57cfb03c0ab",
-      "name": "Cómo puede afectar el alcohol a tu sueño, estado de ánimo y productividad",
+      "name": "C\u00f3mo puede afectar el alcohol a tu sue\u00f1o, estado de \u00e1nimo y productividad",
       "language": "es",
       "thumbnail": "assets/How Alcohol Affects Your Sleep, Mood, and Productivity.png",
       "translations": {
@@ -6980,7 +7616,7 @@
     },
     {
       "id": "6bb8af91b3a9aebd124875b73e828ac0",
-      "name": "Cómo puede afectar el alcohol a la ansiedad",
+      "name": "C\u00f3mo puede afectar el alcohol a la ansiedad",
       "language": "es",
       "thumbnail": "assets/How Alcohol May Affect Anxiety.png",
       "translations": {
@@ -6998,7 +7634,7 @@
     },
     {
       "id": "bca43583adf973241901d20c4c3b4153",
-      "name": "¿el alcohol está alterando tu claridad mental?",
+      "name": "\u00bfel alcohol est\u00e1 alterando tu claridad mental?",
       "language": "es",
       "thumbnail": "assets/Is Alcohol Disrupting Your Mental Clarity.png",
       "translations": {
@@ -7007,7 +7643,7 @@
     },
     {
       "id": "6be1461ef53e63f2c3432cdfc58ed4d0",
-      "name": "Crear límites en torno al alcohol en un entorno social",
+      "name": "Crear l\u00edmites en torno al alcohol en un entorno social",
       "language": "es",
       "thumbnail": "assets/Creating Boundaries with Alcohol in Social Settings.png",
       "translations": {
@@ -7016,7 +7652,7 @@
     },
     {
       "id": "f21ffffca0539adb089fa2595d0751e2",
-      "name": "Vida sin alcohol y conceptos erróneos frente a la realidad",
+      "name": "Vida sin alcohol y conceptos err\u00f3neos frente a la realidad",
       "language": "es",
       "thumbnail": "assets/Alcohol-Free Living- Misconceptions vs. Reality.png",
       "translations": {
@@ -7034,7 +7670,7 @@
     },
     {
       "id": "9b6ca25ba4c3bf71de1489bb2c957a36",
-      "name": "Cómo el trauma infantil puede aparecer en la vida adulta",
+      "name": "C\u00f3mo el trauma infantil puede aparecer en la vida adulta",
       "language": "es",
       "thumbnail": "assets/How Childhood Trauma Shows Up in Adult Life.png",
       "translations": {
@@ -7052,7 +7688,7 @@
     },
     {
       "id": "d37bfcb10e176716f85856a4b685b449",
-      "name": "Creación de herramientas personales para la recuperación un trauma",
+      "name": "Creaci\u00f3n de herramientas personales para la recuperaci\u00f3n un trauma",
       "language": "es",
       "thumbnail": "assets/How to Build a Personal Coping Toolkit for Trauma Recovery.png",
       "translations": {
@@ -7061,7 +7697,7 @@
     },
     {
       "id": "ed83acc428ddf268930459a35ccdce77",
-      "name": "Mitos sobre el chequeo médico",
+      "name": "Mitos sobre el chequeo m\u00e9dico",
       "language": "es",
       "thumbnail": "assets/Health Screening Myths.png",
       "translations": {
@@ -7070,7 +7706,7 @@
     },
     {
       "id": "27fcc0becad65a069b4457ff1998087a",
-      "name": "Cómo prepararse para un cribado cardíaco",
+      "name": "C\u00f3mo prepararse para un cribado card\u00edaco",
       "language": "es",
       "thumbnail": "assets/How to Prepare for a Cardiac Screening.png",
       "translations": {
@@ -7079,7 +7715,7 @@
     },
     {
       "id": "56b1b7368b80e805c76d0484da150a5d",
-      "name": "Minimizar la exposición al polen en el hogar",
+      "name": "Minimizar la exposici\u00f3n al polen en el hogar",
       "language": "es",
       "thumbnail": "assets/Minimizing Exposure to Pollen at Home.png",
       "translations": {
@@ -7088,7 +7724,7 @@
     },
     {
       "id": "e1195658dac53c4f70d0a377449ff772",
-      "name": "Cómo reacciona el sistema inmunitario al polen",
+      "name": "C\u00f3mo reacciona el sistema inmunitario al polen",
       "language": "es",
       "thumbnail": "assets/How the Immune System Reacts to Pollen.png",
       "translations": {
@@ -7097,7 +7733,7 @@
     },
     {
       "id": "02c3689bc9e006291eafacb37857b541",
-      "name": "Cómo crear un hogar seguro para alérgicos graves",
+      "name": "C\u00f3mo crear un hogar seguro para al\u00e9rgicos graves",
       "language": "es",
       "thumbnail": "assets/Creating an Allergy-Safe Home For Those With Severe Allergies.png",
       "translations": {
@@ -7133,7 +7769,7 @@
     },
     {
       "id": "377280b3e92e5e3abe97f820b9186dd6",
-      "name": "Consideraciones para apoyar a un ser querido con trastorno de estrés postraumático",
+      "name": "Consideraciones para apoyar a un ser querido con trastorno de estr\u00e9s postraum\u00e1tico",
       "language": "es",
       "thumbnail": "assets/Considerations for Supporting a Loved One With PTSD.png",
       "translations": {
@@ -7142,7 +7778,7 @@
     },
     {
       "id": "2924d7c5829487e365699cf03aa33da5",
-      "name": "Comprender las ideas erróneas sobre el suicidio",
+      "name": "Comprender las ideas err\u00f3neas sobre el suicidio",
       "language": "es",
       "thumbnail": "assets/Common Misconceptions About Suicide.png",
       "translations": {
@@ -7151,7 +7787,7 @@
     },
     {
       "id": "5eae0d7debf0cf3da216763e3847c124",
-      "name": "Comprender el índice de apnea-hipopnea y cómo se utiliza",
+      "name": "Comprender el \u00edndice de apnea-hipopnea y c\u00f3mo se utiliza",
       "language": "es",
       "thumbnail": "assets/Understanding the Apnea-Hypopnea Index.png",
       "translations": {
@@ -7160,7 +7796,7 @@
     },
     {
       "id": "7bffa64afb27afc77c375a4d31a598ac",
-      "name": "Qué es la satisfacción vital y por qué es importante",
+      "name": "Qu\u00e9 es la satisfacci\u00f3n vital y por qu\u00e9 es importante",
       "language": "es",
       "thumbnail": "assets/What Is Life Satisfaction and Why It Matters.png",
       "translations": {
@@ -7178,7 +7814,7 @@
     },
     {
       "id": "f0db86ea51d13b83032d8a51f0162a9b",
-      "name": "La conexión mente-cuerpo: cómo la nutrición apoya la salud mental",
+      "name": "La conexi\u00f3n mente-cuerpo: c\u00f3mo la nutrici\u00f3n apoya la salud mental",
       "language": "es",
       "thumbnail": "assets/How Nutrition Supports Better Mental Health.png",
       "translations": {
@@ -7196,7 +7832,7 @@
     },
     {
       "id": "01652d63f62373d8e5c563bd04ce4b60",
-      "name": "Combinando dieta y GLP-1 para una salud óptima",
+      "name": "Combinando dieta y GLP-1 para una salud \u00f3ptima",
       "language": "es",
       "thumbnail": "assets/Combining Diet & GLP-1 For Optimal Health.png",
       "translations": {
@@ -7205,7 +7841,7 @@
     },
     {
       "id": "18c4142538de15ba7a1003103ebf9f78",
-      "name": "El función del GLP-1 en el manejo de la diabetes",
+      "name": "El funci\u00f3n del GLP-1 en el manejo de la diabetes",
       "language": "es",
       "thumbnail": "assets/The Role of GLP-1 in Diabetes Management.png",
       "translations": {
