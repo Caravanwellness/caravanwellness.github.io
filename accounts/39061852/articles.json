@@ -6718,7 +6718,19 @@
       "thumbnail": "assets/The Power Of Nutrition In Menopause.png",
       "translations": {
         "es": "d521701f876fb1eb3641ab629d76d5bd"
-      }
+      },
+      "tags": [
+        "menopause",
+        "nutrition",
+        "hormonal balance",
+        "bone health",
+        "weight management",
+        "heart health",
+        "mood support",
+        "dietary strategies",
+        "womens health",
+        "healthy aging"
+      ]
     },
     {
       "id": "44c534ac387c3880ecf34f5eb8d2333f",
@@ -6727,7 +6739,19 @@
       "thumbnail": "assets/Carbohydrates Explained.png",
       "translations": {
         "es": "7231ff599ea6dda37181d9e76295d3f3"
-      }
+      },
+      "tags": [
+        "nutrition",
+        "carbohydrates",
+        "dietary guidelines",
+        "simple carbohydrates",
+        "complex carbohydrates",
+        "blood sugar",
+        "macronutrients",
+        "healthy eating",
+        "energy metabolism",
+        "food processing"
+      ]
     },
     {
       "id": "1c21a534abb1f4e4e3f5635c00ec3a32",
@@ -6736,7 +6760,19 @@
       "thumbnail": "assets/Gut Health 101.png",
       "translations": {
         "es": "40832fe862cb9acb7828d0958872106c"
-      }
+      },
+      "tags": [
+        "gut health",
+        "microbiome",
+        "probiotics",
+        "digestive health",
+        "fermented foods",
+        "prebiotics",
+        "dysbiosis",
+        "gastrointestinal health",
+        "nutrition",
+        "immune system"
+      ]
     },
     {
       "id": "e8686be5be2fc3814e9c23bcb251e260",
@@ -6745,7 +6781,19 @@
       "thumbnail": "assets/Understanding Liver Detoxification.png",
       "translations": {
         "es": "640ecc94080defb440ed886c2d8f5df8"
-      }
+      },
+      "tags": [
+        "liver detoxification",
+        "liver health",
+        "potassium",
+        "selenium",
+        "fatty liver disease",
+        "glutathione",
+        "detox foods",
+        "liver cleansing",
+        "organ health",
+        "nutritional therapy"
+      ]
     },
     {
       "id": "7803ea3f464b79083a8a96b1d696e262",
@@ -6754,7 +6802,19 @@
       "thumbnail": "assets/Build Your Best Morning Routine.png",
       "translations": {
         "es": "428c906184174c3d20bf7488a508ae04"
-      }
+      },
+      "tags": [
+        "morning routine",
+        "wellness habits",
+        "cognitive function",
+        "momentum building",
+        "habit formation",
+        "mindfulness",
+        "mental health",
+        "productivity",
+        "self care",
+        "holistic wellness"
+      ]
     },
     {
       "id": "2a92ac09c44a3c3662852d70ae5a9edd",
@@ -6763,7 +6823,19 @@
       "thumbnail": "assets/The Link Between Performance & Quality Sleep.png",
       "translations": {
         "es": "debc29f75a80d4b809eaac28bdc31575"
-      }
+      },
+      "tags": [
+        "sleep quality",
+        "performance optimization",
+        "cognitive function",
+        "memory consolidation",
+        "emotional resilience",
+        "physical recovery",
+        "sleep hygiene",
+        "restorative sleep",
+        "athletic performance",
+        "stress management"
+      ]
     },
     {
       "id": "3c08045e294631b7e9e17b26e516a609",
@@ -6772,7 +6844,19 @@
       "thumbnail": "assets/Prioritizing Quality Relationships For A Fulfilling Life.png",
       "translations": {
         "es": "06449ed94a2dd93f4f6e2d035c1307d7"
-      }
+      },
+      "tags": [
+        "relationships",
+        "social connections",
+        "emotional well being",
+        "brain health",
+        "longevity",
+        "happiness",
+        "social support",
+        "quality relationships",
+        "mental health",
+        "life satisfaction"
+      ]
     },
     {
       "id": "6b6eab21b87c5d2ceacec11c2413628a",
@@ -6781,7 +6865,19 @@
       "thumbnail": "assets/Creating A Dementia-Friendly Environment.png",
       "translations": {
         "es": "ebbf14be2f8d44c7b299af3280c82a93"
-      }
+      },
+      "tags": [
+        "dementia care",
+        "alzheimers",
+        "elderly care",
+        "cognitive decline",
+        "home safety",
+        "caregiver support",
+        "dementia friendly environment",
+        "neurological health",
+        "aging",
+        "family caregiving"
+      ]
     },
     {
       "id": "af971d75a392abfcaaa87c50d943505c",
@@ -6790,7 +6886,19 @@
       "thumbnail": "assets/T1D In Children.png",
       "translations": {
         "es": "af4267b2de679ec2a29e08a2b6bff2ad"
-      }
+      },
+      "tags": [
+        "type 1 diabetes",
+        "pediatric diabetes",
+        "insulin therapy",
+        "blood sugar management",
+        "diabetes in children",
+        "glucose monitoring",
+        "autoimmune disease",
+        "chronic illness",
+        "diabetes care",
+        "emergency management"
+      ]
     },
     {
       "id": "47ddb3feb4c481cc513b751ab110810b",
@@ -6799,7 +6907,19 @@
       "thumbnail": "assets/T1D vs. T2D.png",
       "translations": {
         "es": "7b7061974ac49ccd4e7a5f9b47e95f1d"
-      }
+      },
+      "tags": [
+        "diabetes",
+        "type 1 diabetes",
+        "type 2 diabetes",
+        "insulin resistance",
+        "blood glucose",
+        "autoimmune disease",
+        "chronic illness",
+        "diabetes management",
+        "lifestyle changes",
+        "medical conditions"
+      ]
     },
     {
       "id": "f3bdb0ea3fdb5560cb5721e3f9cb8e91",
@@ -6808,7 +6928,19 @@
       "thumbnail": "assets/101 Basics of Type 2 Diabetes.png",
       "translations": {
         "es": "b8d20a66363f0567c2e711748b6987d2"
-      }
+      },
+      "tags": [
+        "type 2 diabetes",
+        "diabetes management",
+        "family support",
+        "blood sugar control",
+        "insulin resistance",
+        "chronic disease",
+        "lifestyle modifications",
+        "healthy eating",
+        "diabetes education",
+        "caregiver guidance"
+      ]
     },
     {
       "id": "4bffb2f799a5e876fd829721c1622dfc",
@@ -6817,7 +6949,19 @@
       "thumbnail": "assets/The Profound Benefits Of Reducing Alcohol Consumption.png",
       "translations": {
         "es": "19231bd68cf94085a48d43be3fd60e4a"
-      }
+      },
+      "tags": [
+        "alcohol reduction",
+        "sobriety",
+        "addiction recovery",
+        "mental health",
+        "physical health",
+        "weight management",
+        "sleep quality",
+        "relationships",
+        "financial wellness",
+        "healthy lifestyle"
+      ]
     },
     {
       "id": "fddbfe86e85b22368c7ffba272cc82a8",
@@ -6826,7 +6970,19 @@
       "thumbnail": "assets/Protecting Your Eyes, Feet, and Kidneys for Diabetes.png",
       "translations": {
         "es": "eb499eaa9c47475e98a84d23d61bd154"
-      }
+      },
+      "tags": [
+        "diabetes complications",
+        "diabetic retinopathy",
+        "diabetic nephropathy",
+        "diabetic foot care",
+        "eye health",
+        "kidney health",
+        "blood sugar control",
+        "diabetes prevention",
+        "organ protection",
+        "chronic disease management"
+      ]
     },
     {
       "id": "78865bb35f3dd99ed621058a962d75c4",
@@ -6835,7 +6991,19 @@
       "thumbnail": "assets/Finding Clarity When You're Unhappy At Work.png",
       "translations": {
         "es": "a54be72cb5e067cc3926c5801bd190e2"
-      }
+      },
+      "tags": [
+        "workplace wellness",
+        "job dissatisfaction",
+        "career guidance",
+        "mental health at work",
+        "workplace stress",
+        "burnout prevention",
+        "career coaching",
+        "work life balance",
+        "professional development",
+        "employee wellbeing"
+      ]
     },
     {
       "id": "9b4a21c8bb5cf143cad90f3d7d729b34",
@@ -6844,7 +7012,19 @@
       "thumbnail": "assets/How to Support Others in Crisis.png",
       "translations": {
         "es": "f02e6ff566bf27cb2f95757bb080683f"
-      }
+      },
+      "tags": [
+        "crisis intervention",
+        "mental health crisis",
+        "suicide prevention",
+        "emergency support",
+        "crisis communication",
+        "mental health support",
+        "active listening",
+        "emotional support",
+        "safety planning",
+        "psychological first aid"
+      ]
     },
     {
       "id": "bf8a8f9370e0ca89f13b091cd17cab7d",
@@ -6853,7 +7033,19 @@
       "thumbnail": "assets/Mental Health First Aid.png",
       "translations": {
         "es": "ba4cee334314cbe2d569213c02d8367c"
-      }
+      },
+      "tags": [
+        "mental health first aid",
+        "crisis recognition",
+        "suicide prevention",
+        "mental health awareness",
+        "emergency response",
+        "psychological crisis",
+        "mental health support",
+        "intervention strategies",
+        "crisis management",
+        "emotional wellness"
+      ]
     },
     {
       "id": "fe592c275c730b204185d27d98ac0ef9",
@@ -6862,7 +7054,19 @@
       "thumbnail": "assets/Breaking The Mental Health Stigma.png",
       "translations": {
         "es": "315d8a36c2a03c3df229d40c0e773aa8"
-      }
+      },
+      "tags": [
+        "mental health stigma",
+        "mental health awareness",
+        "social support",
+        "mental health advocacy",
+        "empathy",
+        "compassion",
+        "mental health education",
+        "stigma reduction",
+        "community support",
+        "psychological wellbeing"
+      ]
     },
     {
       "id": "96d91c18ea503fe9ca2fd3f85e6457bb",
@@ -6871,7 +7075,19 @@
       "thumbnail": "assets/Why Am I Always Bloated.png",
       "translations": {
         "es": "229e14ef0aa4d81f1533e55d86758773"
-      }
+      },
+      "tags": [
+        "bloating",
+        "digestive health",
+        "gut health",
+        "food sensitivities",
+        "IBS",
+        "lactose intolerance",
+        "dietary triggers",
+        "eating habits",
+        "stress and digestion",
+        "gastrointestinal issues"
+      ]
     },
     {
       "id": "125132a9742b35efd767a62980f3804f",
@@ -6880,7 +7096,19 @@
       "thumbnail": "assets/Preventing Cognitive Decline for Seniors.png",
       "translations": {
         "es": "e9392f1091f289c6e78674d1da9ce1ca"
-      }
+      },
+      "tags": [
+        "cognitive health",
+        "brain health",
+        "aging",
+        "neuroplasticity",
+        "cognitive decline prevention",
+        "mental stimulation",
+        "social connections",
+        "physical activity",
+        "mindfulness",
+        "senior wellness"
+      ]
     },
     {
       "id": "d8c08925a9a6428ca1e1a9528bb628e5",
@@ -6889,7 +7117,19 @@
       "thumbnail": "assets/The Psychology of Aging Gracefully.png",
       "translations": {
         "es": "4ca8d74ce6f73de90101f578a5cde8f9"
-      }
+      },
+      "tags": [
+        "healthy aging",
+        "emotional wellbeing",
+        "resilience",
+        "mindfulness",
+        "social connections",
+        "self compassion",
+        "aging psychology",
+        "mental health",
+        "life satisfaction",
+        "purposeful living"
+      ]
     },
     {
       "id": "5709c94e6b2e5dc688b81bfabc8df16a",
@@ -6898,7 +7138,19 @@
       "thumbnail": "assets/Build a Gratitude Practice in Later Life.png",
       "translations": {
         "es": "0d3334e88dc4c61e981c882b80bbe064"
-      }
+      },
+      "tags": [
+        "gratitude practice",
+        "positive psychology",
+        "aging",
+        "emotional wellbeing",
+        "brain health",
+        "longevity",
+        "mindfulness",
+        "journaling",
+        "social connections",
+        "healthy aging"
+      ]
     },
     {
       "id": "ae3986c20859670fa2d06b80df29c2b1",
@@ -6907,7 +7159,19 @@
       "thumbnail": "assets/Sleep and Aging.png",
       "translations": {
         "es": "0c5125d5c6849992641fb7786005fa72"
-      }
+      },
+      "tags": [
+        "sleep hygiene",
+        "aging",
+        "sleep quality",
+        "insomnia",
+        "circadian rhythm",
+        "senior health",
+        "sleep disorders",
+        "bedtime routine",
+        "healthy habits",
+        "restorative sleep"
+      ]
     },
     {
       "id": "426d442786030fee7aea9d2756af22f5",
@@ -6916,7 +7180,19 @@
       "thumbnail": "assets/How to Stay Social as You Age.png",
       "translations": {
         "es": "7c7ca9c45405eec40e9da3ff34b6c366"
-      }
+      },
+      "tags": [
+        "social connections",
+        "aging",
+        "loneliness prevention",
+        "cognitive health",
+        "community engagement",
+        "volunteering",
+        "neuroplasticity",
+        "stress reduction",
+        "emotional wellbeing",
+        "healthy aging"
+      ]
     },
     {
       "id": "8c01ee1cc62c2a78fea41fb360f8c5ca",
@@ -6925,7 +7201,19 @@
       "thumbnail": "assets/Mindful Eating Practices.png",
       "translations": {
         "es": "8647d5c28c3787ea98d4545b99c1971a"
-      }
+      },
+      "tags": [
+        "mindful eating",
+        "emotional eating",
+        "body awareness",
+        "hunger cues",
+        "nutrition psychology",
+        "mindfulness",
+        "eating disorders",
+        "food relationship",
+        "wellness",
+        "healthy habits"
+      ]
     },
     {
       "id": "f92259e3bcdf606a555576f3385bfb44",
@@ -6934,7 +7222,19 @@
       "thumbnail": "assets/When To Seek Professional Or Emergency Help for Mental Health.png",
       "translations": {
         "es": "4bd4e23c9acfd4f5cadee9c699b7792e"
-      }
+      },
+      "tags": [
+        "mental health support",
+        "therapy",
+        "crisis intervention",
+        "professional help",
+        "mental wellness",
+        "suicide prevention",
+        "mental health awareness",
+        "emotional support",
+        "psychological therapy",
+        "mental health care"
+      ]
     },
     {
       "id": "d67a13291a6f3b05eac735bff1e587cc",
@@ -6943,7 +7243,19 @@
       "thumbnail": "assets/Tips For Healthy, Glowing Skin.png",
       "translations": {
         "es": "eace8227bf5a08dea078a415604bd25c"
-      }
+      },
+      "tags": [
+        "skincare",
+        "healthy skin",
+        "sun protection",
+        "moisturizing",
+        "niacinamide",
+        "stress management",
+        "skin health",
+        "anti aging",
+        "dermatology",
+        "beauty wellness"
+      ]
     },
     {
       "id": "568d8211bdcdbf6a16a5fd40d5fad88b",
@@ -6952,7 +7264,19 @@
       "thumbnail": "assets/Protecting Health & Community With Immunizations.png",
       "translations": {
         "es": "ed2cce18ee1e7fc799f8f2b73a490925"
-      }
+      },
+      "tags": [
+        "immunizations",
+        "vaccinations",
+        "herd immunity",
+        "public health",
+        "infectious disease prevention",
+        "community health",
+        "vaccine safety",
+        "preventive medicine",
+        "health protection",
+        "disease control"
+      ]
     },
     {
       "id": "b7c78cc629ae942b0fce66c5d9482b51",
@@ -6961,7 +7285,19 @@
       "thumbnail": "assets/How Your Health Perception Impacts Stress Levels.png",
       "translations": {
         "es": "072474e41eb365c1af06aa82fd4eb605"
-      }
+      },
+      "tags": [
+        "perceived health",
+        "stress management",
+        "mind body connection",
+        "health perception",
+        "psychological stress",
+        "mental health",
+        "self assessment",
+        "wellness psychology",
+        "stress response",
+        "health awareness"
+      ]
     },
     {
       "id": "ea14360ef204f0da5b542740227887eb",
@@ -6970,7 +7306,19 @@
       "thumbnail": "assets/How Perception Shapes Your Health Reality.png",
       "translations": {
         "es": "66e78ac321f6a129f96f1fd1cbb5f8be"
-      }
+      },
+      "tags": [
+        "health perception",
+        "mind body connection",
+        "placebo effect",
+        "positive psychology",
+        "self rated health",
+        "mental health",
+        "stress management",
+        "wellness mindset",
+        "health psychology",
+        "mindfulness"
+      ]
     },
     {
       "id": "ca4f79d2c5e702e7c09fd3ecf174931c",
@@ -6979,7 +7327,19 @@
       "thumbnail": "assets/How Often You Might Move When Seated and Why It Matters.png",
       "translations": {
         "es": "25a9377660df3a9b11e5ff5c257ddff9"
-      }
+      },
+      "tags": [
+        "sedentary behavior",
+        "workplace wellness",
+        "movement breaks",
+        "posture",
+        "ergonomics",
+        "circulation",
+        "muscle tension",
+        "desk work",
+        "physical activity",
+        "occupational health"
+      ]
     },
     {
       "id": "12d1983ee328400db2c6edb477788444",
@@ -6988,7 +7348,19 @@
       "thumbnail": "assets/Tips for Managing Allergies.png",
       "translations": {
         "en": "f4c8a6a2a0b44f54ab7f9a2a67c4aefd"
-      }
+      },
+      "tags": [
+        "alergias",
+        "manejo de alergias",
+        "alérgenos",
+        "epinefrina",
+        "anajilaxis",
+        "salud respiratoria",
+        "inmunología",
+        "prevención de alergias",
+        "reacciones alérgicas",
+        "cuidado médico"
+      ]
     },
     {
       "id": "757ae57048d5409ea208c9149c493e01",
@@ -6997,7 +7369,19 @@
       "thumbnail": "assets/Understanding & Managing Anxiety Disorders.png",
       "translations": {
         "en": "9a617fb0b322115a09cfb9663dde83cd"
-      }
+      },
+      "tags": [
+        "trastornos de ansiedad",
+        "salud mental",
+        "ansiedad generalizada",
+        "ataques de pánico",
+        "terapia cognitivo conductual",
+        "manejo del estrés",
+        "mindfulness",
+        "ansiedad social",
+        "bienestar psicológico",
+        "tratamiento ansiedad"
+      ]
     },
     {
       "id": "1c7d2dcc41ba4f98867d980f7f558bea",
@@ -7006,7 +7390,19 @@
       "thumbnail": "assets/Navigating Life's Challenges with Resilience.png",
       "translations": {
         "en": "264410475594adf76fa3a5d85886e407"
-      }
+      },
+      "tags": [
+        "resiliencia",
+        "manejo del estrés",
+        "salud mental",
+        "mindfulness",
+        "meditación",
+        "bienestar emocional",
+        "técnicas de relajación",
+        "ejercicio físico",
+        "cuidado personal",
+        "salud holística"
+      ]
     },
     {
       "id": "dd190f9136fd4a5b8f57e7759f4733db",
@@ -7015,7 +7411,19 @@
       "thumbnail": "assets/Having Resilience Through All Of Life's Moments.png",
       "translations": {
         "en": "267dd48c5b808ba2f66101561397ae8a"
-      }
+      },
+      "tags": [
+        "resiliencia",
+        "adaptabilidad",
+        "fortaleza emocional",
+        "resolución de problemas",
+        "salud mental",
+        "manejo del estrés",
+        "aceptación",
+        "crecimiento personal",
+        "superación personal",
+        "bienestar psicológico"
+      ]
     },
     {
       "id": "559a155bcecb4c9ab787698b61a1515d",
@@ -7024,7 +7432,19 @@
       "thumbnail": "assets/Research-Backed Tips To Build Resilience.png",
       "translations": {
         "en": "8bd4a641e5989dd9465bbe17ea81cfd2"
-      }
+      },
+      "tags": [
+        "resiliencia",
+        "investigación científica",
+        "mentalidad de crecimiento",
+        "conexiones sociales",
+        "mindfulness",
+        "mecanismos de afrontamiento",
+        "salud mental",
+        "bienestar psicológico",
+        "regulación emocional",
+        "desarrollo personal"
+      ]
     },
     {
       "id": "33c0ac9eef47451597320b29351e3ec3",
@@ -7033,7 +7453,19 @@
       "thumbnail": "assets/Gratitude Journaling For Beginners.png",
       "translations": {
         "en": "ae0902c84a5c79584320520c0074e558"
-      }
+      },
+      "tags": [
+        "diario de gratitud",
+        "gratitud",
+        "bienestar emocional",
+        "hábitos saludables",
+        "mentalidad positiva",
+        "autocompasión",
+        "reflexión personal",
+        "crecimiento personal",
+        "mindfulness",
+        "salud mental"
+      ]
     },
     {
       "id": "a8af9428862c44029399031e33bccf1a",
@@ -7042,7 +7474,19 @@
       "thumbnail": "assets/How To Cultivate Gratitude, Even During Hard Times.png",
       "translations": {
         "en": "1ee6b8c4-cc3d-4e92-9faa-971e12f7b2bc"
-      }
+      },
+      "tags": [
+        "gratitud",
+        "resiliencia",
+        "bienestar emocional",
+        "autocompasión",
+        "manejo del estrés",
+        "salud mental",
+        "crecimiento personal",
+        "mindfulness",
+        "conexiones sociales",
+        "superación personal"
+      ]
     },
     {
       "id": "102e09c9e2824adc8ef81e8e488ea525",
@@ -7051,7 +7495,19 @@
       "thumbnail": "assets/Infusing Joy & Positivity Into Daily Habits.png",
       "translations": {
         "en": "8b9ae623-6d0c-402f-aee0-91a511bd9186"
-      }
+      },
+      "tags": [
+        "positividad",
+        "hábitos diarios",
+        "bienestar emocional",
+        "afirmaciones",
+        "gratitud",
+        "mindfulness",
+        "autocharla positiva",
+        "conexiones sociales",
+        "mentalidad positiva",
+        "desarrollo personal"
+      ]
     },
     {
       "id": "052e43c6e471417d85e6199dadf63d8c",
@@ -7060,7 +7516,19 @@
       "thumbnail": "assets/101 Basics of T1D.png",
       "translations": {
         "en": "08bc60d5-dc4d-40cf-9c7d-88fc113cf774"
-      }
+      },
+      "tags": [
+        "diabetes tipo 1",
+        "manejo de diabetes",
+        "insulina",
+        "glucosa en sangre",
+        "nutrición diabética",
+        "salud familiar",
+        "educación en diabetes",
+        "automonitoreo",
+        "apoyo emocional",
+        "tratamiento médico"
+      ]
     },
     {
       "id": "6d661552663e439389209e4dc1e67f09",
@@ -7069,7 +7537,19 @@
       "thumbnail": "assets/Maintaining Healthy Blood Sugar Levels With Diabetes.png",
       "translations": {
         "en": "f3a6b1d0c29e4131a8773c89b2ee45f9"
-      }
+      },
+      "tags": [
+        "diabetes",
+        "azúcar en sangre",
+        "nutrición diabética",
+        "índice glucémico",
+        "carbohidratos",
+        "control glucémico",
+        "alimentación saludable",
+        "manejo diabetes",
+        "equilibrio nutricional",
+        "educación diabética"
+      ]
     },
     {
       "id": "d5c0f1118e8d485db6b3bfab1ce43d94",
@@ -7078,7 +7558,19 @@
       "thumbnail": "assets/How To Read Food Labels Effectively.png",
       "translations": {
         "en": "264410475594adf76fa3a5d85886e403"
-      }
+      },
+      "tags": [
+        "etiquetas nutricionales",
+        "nutrición",
+        "alimentación saludable",
+        "lectura de etiquetas",
+        "ingredientes",
+        "información nutricional",
+        "toma de decisiones",
+        "educación nutricional",
+        "macronutrientes",
+        "micronutrientes"
+      ]
     },
     {
       "id": "a967ea48f13d4efc8cdf5c82fe8ecd82",
@@ -7087,7 +7579,18 @@
       "thumbnail": "assets/Common Symptoms Of Diabetes & When To Seek Help.png",
       "translations": {
         "en": "ed3a19829c1849bbafdbb74e8895a6e4"
-      }
+      },
+      "tags": [
+        "síntomas diabetes",
+        "detección temprana",
+        "diagnóstico diabetes",
+        "sed excesiva",
+        "fatiga",
+        "visión borrosa",
+        "curación lenta",
+        "cambios de peso",
+        "atención médica"
+      ]
     },
     {
       "id": "9a249bd0b05e463881a645477e940a00",
@@ -7096,7 +7599,19 @@
       "thumbnail": "assets/Navigating Life With Your New T1D Diagnosis.png",
       "translations": {
         "en": "a3e1b2c4579f42d6b87dfd24f890cc98"
-      }
+      },
+      "tags": [
+        "diabetes tipo 1",
+        "nuevo diagnóstico",
+        "manejo diabetes",
+        "educación diabética",
+        "rutinas saludables",
+        "tecnología médica",
+        "salud mental",
+        "apoyo emocional",
+        "nutrición equilibrada",
+        "actividad física"
+      ]
     },
     {
       "id": "8b575a8f403c421389c629106a057c83",
@@ -7105,7 +7620,19 @@
       "thumbnail": "assets/Pros & Cons Of Continuous Glucose Monitors.png",
       "translations": {
         "en": "9c3f5d40b13e4f81b0a2d9c3fc7a4f2e"
-      }
+      },
+      "tags": [
+        "monitores continuos glucosa",
+        "tecnología diabética",
+        "MCG",
+        "control glucémico",
+        "monitoreo tiempo real",
+        "ventajas y desventajas",
+        "precisión",
+        "costos",
+        "mantenimiento",
+        "dispositivos médicos"
+      ]
     },
     {
       "id": "7346aa94afe746a68dd9909ee891775d",
@@ -7114,7 +7641,19 @@
       "thumbnail": "assets/What Is Gestational Diabetes.png",
       "translations": {
         "en": "b53a7f12c2a64d10b5bfbfc3ef9ed3b7"
-      }
+      },
+      "tags": [
+        "diabetes gestacional",
+        "embarazo",
+        "salud materna",
+        "diabetes temporal",
+        "resistencia insulina",
+        "factores de riesgo",
+        "complicaciones embarazo",
+        "macrosomía",
+        "control glucémico",
+        "cuidado prenatal"
+      ]
     },
     {
       "id": "477549c8a0404157ba375847238b0eeb",
@@ -7123,7 +7662,19 @@
       "thumbnail": "assets/How To Advocate For Yourself As A Person Living With Diabetes.png",
       "translations": {
         "en": "90b01f1c71e648ccbd7593f5b22c6c51"
-      }
+      },
+      "tags": [
+        "autodefensa diabética",
+        "empoderamiento paciente",
+        "comunicación médica",
+        "educación diabetes",
+        "equipo sanitario",
+        "tecnología salud",
+        "derechos paciente",
+        "objetivos de salud",
+        "apoyo comunitario",
+        "manejo proactivo"
+      ]
     },
     {
       "id": "414bc69a5712406f8b029ba7d29f00ea",
@@ -7132,7 +7683,19 @@
       "thumbnail": "assets/Holistic Management Tips For Prediabetes.png",
       "translations": {
         "en": "83f51ce404fb432d9b3d30fa746f4dbf"
-      }
+      },
+      "tags": [
+        "prediabetes",
+        "enfoque holístico",
+        "reversión prediabetes",
+        "cambios estilo de vida",
+        "dieta equilibrada",
+        "actividad física",
+        "manejo estrés",
+        "control glucemia",
+        "prevención diabetes",
+        "apoyo social"
+      ]
     },
     {
       "id": "c1113f09f6574405a1193e2194cd7e25",
@@ -7141,7 +7704,19 @@
       "thumbnail": "assets/The Importance Of Regular Health Screenings.png",
       "translations": {
         "en": "c003f1c4eda14e3ab00f251078d81ec7"
-      }
+      },
+      "tags": [
+        "exámenes de salud",
+        "detección temprana",
+        "atención preventiva",
+        "chequeos regulares",
+        "salud cardiovascular",
+        "cáncer screening",
+        "glucosa sangre",
+        "densidad ósea",
+        "salud personalizada",
+        "prevención enfermedades"
+      ]
     },
     {
       "id": "39abeb174dd54949a1fdfd685b602a06",
@@ -7150,7 +7725,19 @@
       "thumbnail": "assets/Understanding the Numbers in Diabetes.png",
       "translations": {
         "en": "a1478b3091b54e9b9bc97e4f2e0e6e51"
-      }
+      },
+      "tags": [
+        "números diabetes",
+        "glucemia ayunas",
+        "A1C hemoglobina",
+        "control glucémico",
+        "complicaciones diabetes",
+        "salud ocular",
+        "retinopatía diabética",
+        "seguimiento diabetes",
+        "rangos normales",
+        "monitoreo largo plazo"
+      ]
     },
     {
       "id": "9a7567eb8d8f4719a6a3b04e8b9ba41b",
@@ -7159,7 +7746,19 @@
       "thumbnail": "assets/What To Pack In Your Diabetes Emergency Kit.png",
       "translations": {
         "en": "9c5999e16d6a4649b4f6a2ccd1079313"
-      }
+      },
+      "tags": [
+        "kit emergencia diabetes",
+        "preparación emergencias",
+        "suministros diabetes",
+        "medidor glucosa",
+        "insulina almacenamiento",
+        "hipoglucemia tratamiento",
+        "información médica",
+        "seguridad diabética",
+        "planificación emergencias",
+        "autocuidado diabetes"
+      ]
     },
     {
       "id": "51662201fc944df7979d33878f4332ee",
@@ -7168,7 +7767,19 @@
       "thumbnail": "assets/How To Talk To Your Family About Your Diabetes Diagnosis.png",
       "translations": {
         "en": "f62b1f1e1a4e4d91a7b4ec92aabf01c6"
-      }
+      },
+      "tags": [
+        "comunicación familiar",
+        "diagnóstico diabetes",
+        "apoyo familiar",
+        "educación diabetes",
+        "conversaciones de salud",
+        "sistema apoyo",
+        "positividad",
+        "comprensión familiar",
+        "manejo emocional",
+        "red apoyo"
+      ]
     },
     {
       "id": "c7aff250d6b040e5ad1247cf45a9dc4b",
@@ -7177,7 +7788,19 @@
       "thumbnail": "assets/Choosing the Right Shoes to Prevent Slips and Trips.png",
       "translations": {
         "en": "91db63cf4bfc4a5ea5089f5ef2a9c780"
-      }
+      },
+      "tags": [
+        "calzado seguridad",
+        "prevención caídas",
+        "suela antideslizante",
+        "estabilidad",
+        "agarre calzado",
+        "prevención resbalones",
+        "seguridad laboral",
+        "apoyo arco",
+        "equilibrio",
+        "materiales calzado"
+      ]
     },
     {
       "id": "0f05b67b50154f3a8e9212b80287f3be",
@@ -7186,7 +7809,19 @@
       "thumbnail": "assets/Enhancing Your Balance.png",
       "translations": {
         "en": "b6ad758fd4c84d64a7a3dd80d7c2a1aa"
-      }
+      },
+      "tags": [
+        "entrenamiento equilibrio",
+        "prevención caídas",
+        "estabilidad articular",
+        "rendimiento atlético",
+        "propiocepción",
+        "tai chi",
+        "yoga",
+        "fisioterapia",
+        "adultos mayores",
+        "rehabilitación lesiones"
+      ]
     },
     {
       "id": "6ff4acdbe3604aa883dfaca840fe197e",
@@ -7195,7 +7830,19 @@
       "thumbnail": "assets/Is Financial Stress Common and How to Ease It.png",
       "translations": {
         "en": "dce7df5270e640c2a734bd1c998c0e6e"
-      }
+      },
+      "tags": [
+        "estrés financiero",
+        "bienestar financiero",
+        "ansiedad financiera",
+        "presupuesto",
+        "fondo emergencia",
+        "asesoramiento financiero",
+        "técnicas relajación",
+        "salud mental",
+        "manejo deudas",
+        "planificación financiera"
+      ]
     },
     {
       "id": "8f9d42aee22d428b9940df776ace0bfb",
@@ -7204,7 +7851,19 @@
       "thumbnail": "assets/Identify & Overcome Financial Stress.png",
       "translations": {
         "en": "bd3cf7f4c5bb445a8a2830d6c2f8a3c3"
-      }
+      },
+      "tags": [
+        "estrés financiero",
+        "identificación factores estrés",
+        "libertad financiera",
+        "decisiones financieras",
+        "ansiedad dinero",
+        "salud física",
+        "relaciones",
+        "productividad laboral",
+        "gestión deudas",
+        "metas financieras"
+      ]
     },
     {
       "id": "86e02afd4d7a4472975f4e0b378b4550",
@@ -7213,7 +7872,19 @@
       "thumbnail": "assets/Spending Habits & Their Impact On Your Financial Freedom.png",
       "translations": {
         "en": "9dc9262a07f74efc8c94a4b9a9a42087"
-      }
+      },
+      "tags": [
+        "hábitos de gasto",
+        "libertad financiera",
+        "gasto impulsivo",
+        "presupuesto",
+        "ahorro inversión",
+        "dopamina",
+        "gratificación instantánea",
+        "mindfulness",
+        "alternativas saludables",
+        "bienestar financiero"
+      ]
     },
     {
       "id": "a68cf571109146a9877608a756dbc69a",
@@ -7222,7 +7893,19 @@
       "thumbnail": "assets/Spending Hacks For Everyday Needs.png",
       "translations": {
         "en": "e3adf6a84e984a3ab3a5474a1037d5b1"
-      }
+      },
+      "tags": [
+        "ahorro diario",
+        "presupuesto ajustado",
+        "aplicaciones ahorro",
+        "hábitos frugales",
+        "planificación comidas",
+        "fondo emergencia",
+        "cupones descuentos",
+        "tecnología financiera",
+        "gastos esenciales",
+        "vida paycheck to paycheck"
+      ]
     },
     {
       "id": "5baa4049ae1641a6ac9132a88786474d",
@@ -7231,7 +7914,19 @@
       "thumbnail": "assets/The Importance Of Financial Wellness In Your Life.png",
       "translations": {
         "en": "e1d03c06aa2e4ff5b9124f348aa7b9a6"
-      }
+      },
+      "tags": [
+        "bienestar financiero",
+        "salud física",
+        "relaciones",
+        "productividad laboral",
+        "preparación emergencias",
+        "libertad financiera",
+        "planificación jubilación",
+        "reducción deudas",
+        "educación crecimiento",
+        "estrés reducción"
+      ]
     },
     {
       "id": "c3e1e0f5236e4684abdc14a59851211f",
@@ -7240,7 +7935,19 @@
       "thumbnail": "assets/Dynamic vs. Static Stretching.png",
       "translations": {
         "en": "34b2f2b819cb47dd9c7f75aa1275f5c2"
-      }
+      },
+      "tags": [
+        "estiramientos dinámicos",
+        "estiramientos estáticos",
+        "flexibilidad",
+        "calentamiento",
+        "enfriamiento",
+        "movilidad",
+        "rutina ejercicio",
+        "prevención lesiones",
+        "recuperación muscular",
+        "actividad física"
+      ]
     },
     {
       "id": "a08c6822b6bb492a80177943bd1c7dc7",
@@ -7249,7 +7956,19 @@
       "thumbnail": "assets/Simple Daily Habits to Improve Posture.png",
       "translations": {
         "en": "8e2b97fe09c44cabb2f445845f8d4d11"
-      }
+      },
+      "tags": [
+        "postura corporal",
+        "salud columna",
+        "hábitos diarios",
+        "ejercicios core",
+        "ergonómia",
+        "dolor espalda",
+        "movimiento consciente",
+        "fortalecimiento muscular",
+        "yoga pilates",
+        "salud musculoesquelética"
+      ]
     },
     {
       "id": "74496eede1d54efb9c237f832ecda3dd",
