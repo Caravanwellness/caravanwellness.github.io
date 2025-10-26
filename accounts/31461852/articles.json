@@ -180,6 +180,30 @@
       "language": "en",
       "thumbnail": "assets/Scientific Benefits Of A HIIT Workout.png"
     },
+  {
+      "id": "812333d5a62f2784c2f431167b4d51ea",
+      "name": "How to Speak Up for Yourself About Diabetes",
+      "language": "en",
+      "thumbnail": "assets/How To Speak Up For Yourself About Diabetes.png"
+    },
+  {
+      "id": "def3b239d62966a2d1c54abfb96d493e",
+      "name": "Heart-Healthy Foods That Taste Good",
+      "language": "en",
+      "thumbnail": "assets/Heart-Healthy Foods That Taste Good.png"
+    },
+  {
+      "id": "a3327f72691c26c62df5d01f9bc3ebfa",
+      "name": "Stress and Heart Health",
+      "language": "en",
+      "thumbnail": "assets/Stress and Heart Health.png"
+    },
+  {
+      "id": "3269b4f8e3be5d1a3c375efb676e9db6",
+      "name": "How Omega-3 Fats Help Your Heart",
+      "language": "en",
+      "thumbnail": "assets/How Omega-3 Fats Help Your Heart.png"
+    },
   ],
   "status": 200
 }
