@@ -3,7 +3,8 @@
     "allow": [
       "Bash(dir \"c:\\Users\\mattp\\Documents\\GitHub\\caravanwellness.github.io\\.github\")",
       "Bash(find:*)",
-      "Bash(nslookup:*)"
+      "Bash(nslookup:*)",
+      "Bash(python3:*)"
     ],
     "deny": [],
     "ask": []
