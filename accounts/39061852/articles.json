@@ -7692,6 +7692,226 @@
       "last-updated": "2026-01-07T12:00:00Z"
     },
     {
+      "id": "4faec94ad544497b988228ddd9d5a224",
+      "name": "Why Prostate Screenings Are Important",
+      "language": "en",
+      "thumbnail": "assets/Why Prostate Screenings Are Important.png",
+      "translations": {
+        "es": "57992b68cb9a453690d1bec6dc88e28d"
+      },
+      "tags": [
+        "prostate screening",
+        "PSA test",
+        "prostate cancer",
+        "prostate",
+        "early detection",
+        "men",
+        "men's health",
+        "cancer screening",
+        "preventive care",
+        "health screenings"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "7a894ae08e104fdcaa0eb113f8d9e0f4",
+      "name": "The Role of Testosterone in Andropause",
+      "language": "en",
+      "thumbnail": "assets/The Role of Testosterone in Andropause.png",
+      "translations": {
+        "es": "fb88e950b7ee4fb8a8d1c1c920986aa8"
+      },
+      "tags": [
+        "testosterone",
+        "andropause",
+        "low testosterone",
+        "male menopause",
+        "men",
+        "hormones",
+        "aging men",
+        "men's health",
+        "hormone therapy",
+        "healthy aging"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "438db93c5bdf43adbd7bab97c0d4b9e7",
+      "name": "Men's Health Checklist at Various Life Stages",
+      "language": "en",
+      "thumbnail": "assets/Men's Health Checklist at Various Life Stages.png",
+      "translations": {
+        "es": "1df9e31b61434716b2a3b805451eafd1"
+      },
+      "tags": [
+        "men's health",
+        "health checklist",
+        "life stages",
+        "men",
+        "screenings",
+        "prostate health",
+        "preventive care",
+        "checkups",
+        "prevention",
+        "healthy aging"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "9d549d250b7549eb8d4a0e0db34c9a4b",
+      "name": "The Link Between Low Testosterone and Mental Health",
+      "language": "en",
+      "thumbnail": "assets/The Link Between Low Testosterone and Mental Health.png",
+      "translations": {
+        "es": "0b0b96eaf02c4420914bb4e837157abd"
+      },
+      "tags": [
+        "low testosterone",
+        "testosterone",
+        "depression",
+        "mood",
+        "low T",
+        "hormones",
+        "men's health",
+        "mental health",
+        "hormone health",
+        "energy"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "267eb8b29d234b4b8da495dc95bef4db",
+      "name": "Anti-Inflammatory Nutrition for Cellular Health",
+      "language": "en",
+      "thumbnail": "assets/Anti-Inflammatory Nutrition for Cellular Health.png",
+      "translations": {
+        "es": "845dd6a7ab9c4ba0ae22500b2bf696aa"
+      },
+      "tags": [
+        "anti-inflammatory diet",
+        "inflammation",
+        "cellular health",
+        "antioxidants",
+        "whole foods",
+        "healthy eating",
+        "nutrition",
+        "chronic inflammation",
+        "prevention",
+        "diet"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "59ac2a89e7224fc2a53fe57a2ca42b1c",
+      "name": "Tips for Men to Build a Support Network",
+      "language": "en",
+      "thumbnail": "assets/Tips for Men to Build a Support Network.png",
+      "translations": {
+        "es": "60d48a04061b4b81a53f14fa0b7ba305"
+      },
+      "tags": [
+        "men",
+        "support network",
+        "friendships",
+        "social connection",
+        "loneliness",
+        "male friendship",
+        "men's health",
+        "mental health",
+        "social wellness",
+        "relationships"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "73baf9ee006d4a028eec6e64e71d1927",
+      "name": "A Different Approach To Men's Mental Health",
+      "language": "en",
+      "thumbnail": "assets/A Different Approach To Men's Mental Health.png",
+      "translations": {
+        "es": "0c0c28bd246c4cb0bf25a259a7ac9567"
+      },
+      "tags": [
+        "men's wellbeing",
+        "men",
+        "mental health",
+        "masculinity",
+        "stigma",
+        "emotional health",
+        "therapy",
+        "support",
+        "depression",
+        "men's health"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "56f01e0387834453bf39265f59e8c797",
+      "name": "The Silent Mental Load of Fatherhood",
+      "language": "en",
+      "thumbnail": "assets/The Silent Mental Load of Fatherhood.png",
+      "translations": {
+        "es": "807ba482c3774b4aa70c850d9c2d523a"
+      },
+      "tags": [
+        "mental load",
+        "fatherhood",
+        "invisible work",
+        "dads",
+        "parenting stress",
+        "overwhelm",
+        "parenting",
+        "men's health",
+        "mental health",
+        "stress"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "09f0100f90b94c96b79b45fa14a7c8d4",
+      "name": "Managing Relationship Shifts After a Baby Arrives",
+      "language": "en",
+      "thumbnail": "assets/Managing Relationship Shifts After a Baby Arrives.png",
+      "translations": {
+        "es": "7ebf5fe9c0db4ffb8d5a7c83f5663323"
+      },
+      "tags": [
+        "relationship changes",
+        "new baby",
+        "couples",
+        "new parents",
+        "partnership",
+        "intimacy",
+        "relationships",
+        "parenting",
+        "mental health",
+        "communication"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "f95d61e835b2400ebfae78962f9c7bdc",
+      "name": "Why Strength Training Is Essential During Hormonal Decline",
+      "language": "en",
+      "thumbnail": "assets/Why Strength Training Is Essential During Hormonal Decline.png",
+      "translations": {
+        "es": "690c786cbb374c5bb67a7d722828b229"
+      },
+      "tags": [
+        "strength training",
+        "hormonal decline",
+        "menopause",
+        "muscle loss",
+        "bone density",
+        "andropause",
+        "fitness",
+        "healthy aging",
+        "women's health",
+        "exercise"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
       "id": "12d1983ee328400db2c6edb477788444",
       "name": "Manejo de alergias: consejos y trucos",
       "language": "es",
@@ -15418,6 +15638,226 @@
         "manejo DMT2"
       ],
       "last-updated": "2026-01-07T12:00:00Z"
+    },
+    {
+      "id": "57992b68cb9a453690d1bec6dc88e28d",
+      "name": "Por qué los monitoreos de la próstata son importantes",
+      "language": "es",
+      "thumbnail": "assets/Why Prostate Screenings Are Important.png",
+      "translations": {
+        "en": "4faec94ad544497b988228ddd9d5a224"
+      },
+      "tags": [
+        "monitoreo de la próstata",
+        "prueba de PSA",
+        "cáncer de próstata",
+        "próstata",
+        "detección temprana",
+        "hombres",
+        "salud masculina",
+        "detección del cáncer",
+        "atención preventiva",
+        "exámenes de salud"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "fb88e950b7ee4fb8a8d1c1c920986aa8",
+      "name": "El papel de la testosterona en la andropausia",
+      "language": "es",
+      "thumbnail": "assets/The Role of Testosterone in Andropause.png",
+      "translations": {
+        "en": "7a894ae08e104fdcaa0eb113f8d9e0f4"
+      },
+      "tags": [
+        "testosterona",
+        "andropausia",
+        "testosterona baja",
+        "menopausia masculina",
+        "hombres",
+        "hormonas",
+        "envejecimiento masculino",
+        "salud masculina",
+        "terapia hormonal",
+        "envejecimiento saludable"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "1df9e31b61434716b2a3b805451eafd1",
+      "name": "Lista de verificación de salud para hombres en distintas etapas de la vida",
+      "language": "es",
+      "thumbnail": "assets/Men's Health Checklist at Various Life Stages.png",
+      "translations": {
+        "en": "438db93c5bdf43adbd7bab97c0d4b9e7"
+      },
+      "tags": [
+        "salud masculina",
+        "lista de verificación de salud",
+        "etapas de la vida",
+        "hombres",
+        "exámenes de detección",
+        "salud de la próstata",
+        "atención preventiva",
+        "chequeos",
+        "prevención",
+        "envejecimiento saludable"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "0b0b96eaf02c4420914bb4e837157abd",
+      "name": "La relación entre los niveles bajos de testosterona y la salud mental",
+      "language": "es",
+      "thumbnail": "assets/The Link Between Low Testosterone and Mental Health.png",
+      "translations": {
+        "en": "9d549d250b7549eb8d4a0e0db34c9a4b"
+      },
+      "tags": [
+        "testosterona baja",
+        "testosterona",
+        "depresión",
+        "estado de ánimo",
+        "T baja",
+        "hormonas",
+        "salud masculina",
+        "salud mental",
+        "salud hormonal",
+        "energía"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "845dd6a7ab9c4ba0ae22500b2bf696aa",
+      "name": "Nutrición antiinflamatoria para la salud celular",
+      "language": "es",
+      "thumbnail": "assets/Anti-Inflammatory Nutrition for Cellular Health.png",
+      "translations": {
+        "en": "267eb8b29d234b4b8da495dc95bef4db"
+      },
+      "tags": [
+        "dieta antiinflamatoria",
+        "inflamación",
+        "salud celular",
+        "antioxidantes",
+        "alimentos integrales",
+        "alimentación saludable",
+        "nutrición",
+        "inflamación crónica",
+        "prevención",
+        "dieta"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "60d48a04061b4b81a53f14fa0b7ba305",
+      "name": "Consejos para que los hombres construyan una red de apoyo",
+      "language": "es",
+      "thumbnail": "assets/Tips for Men to Build a Support Network.png",
+      "translations": {
+        "en": "59ac2a89e7224fc2a53fe57a2ca42b1c"
+      },
+      "tags": [
+        "hombres",
+        "red de apoyo",
+        "amistades",
+        "conexión social",
+        "soledad",
+        "amistad masculina",
+        "salud masculina",
+        "salud mental",
+        "bienestar social",
+        "relaciones"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "0c0c28bd246c4cb0bf25a259a7ac9567",
+      "name": "Un enfoque diferente para la salud mental de los hombres",
+      "language": "es",
+      "thumbnail": "assets/A Different Approach To Men's Mental Health.png",
+      "translations": {
+        "en": "73baf9ee006d4a028eec6e64e71d1927"
+      },
+      "tags": [
+        "bienestar masculino",
+        "hombres",
+        "salud mental",
+        "masculinidad",
+        "estigma",
+        "salud emocional",
+        "terapia",
+        "apoyo",
+        "depresión",
+        "salud masculina"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "807ba482c3774b4aa70c850d9c2d523a",
+      "name": "La carga mental silenciosa de la paternidad",
+      "language": "es",
+      "thumbnail": "assets/The Silent Mental Load of Fatherhood.png",
+      "translations": {
+        "en": "56f01e0387834453bf39265f59e8c797"
+      },
+      "tags": [
+        "carga mental",
+        "paternidad",
+        "trabajo invisible",
+        "papás",
+        "estrés de crianza",
+        "agobio",
+        "crianza",
+        "salud masculina",
+        "salud mental",
+        "estrés"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "7ebf5fe9c0db4ffb8d5a7c83f5663323",
+      "name": "Cómo manejar los cambios en la relación tras la llegada de un bebé",
+      "language": "es",
+      "thumbnail": "assets/Managing Relationship Shifts After a Baby Arrives.png",
+      "translations": {
+        "en": "09f0100f90b94c96b79b45fa14a7c8d4"
+      },
+      "tags": [
+        "cambios en la relación",
+        "nuevo bebé",
+        "parejas",
+        "nuevos padres",
+        "vida en pareja",
+        "intimidad",
+        "relaciones",
+        "crianza",
+        "salud mental",
+        "comunicación"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "690c786cbb374c5bb67a7d722828b229",
+      "name": "Por qué el entrenamiento de fuerza es esencial durante el declive hormonal",
+      "language": "es",
+      "thumbnail": "assets/Why Strength Training Is Essential During Hormonal Decline.png",
+      "translations": {
+        "en": "f95d61e835b2400ebfae78962f9c7bdc"
+      },
+      "tags": [
+        "entrenamiento de fuerza",
+        "declive hormonal",
+        "menopausia",
+        "pérdida muscular",
+        "densidad ósea",
+        "andropausia",
+        "actividad física",
+        "envejecimiento saludable",
+        "salud de la mujer",
+        "ejercicio"
+      ],
+      "last-updated": "2026-11-18T12:00:00Z"
     }
   ],
   "status": 200
